@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: durgotsavai
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: cd app && gunicorn app:app
+    plan: free
