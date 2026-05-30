@@ -1,0 +1,1801 @@
+date,hour,pandal_name,latitude,longitude,weather,base_popularity,crowd_count,risk_level
+2025-10-01,0,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,296,Green
+2025-10-01,0,College Square,22.579,88.363,Clear,9,725,Green
+2025-10-01,0,Deshapriya Park,22.5263,88.3642,Clear,8,643,Green
+2025-10-01,0,Kumartuli Park,22.595,88.358,Clear,7,793,Green
+2025-10-01,0,Suruchi Sangha,22.518,88.347,Clear,8,385,Green
+2025-10-01,0,Sreebhumi Sporting Club,22.578,88.421,Clear,9,472,Green
+2025-10-01,0,Ekdalia Evergreen,22.522,88.356,Clear,7,318,Green
+2025-10-01,0,Tridhara Sammilani,22.515,88.362,Clear,6,142,Green
+2025-10-01,0,Badamtala Ashar Sangha,22.535,88.345,Clear,7,0,Green
+2025-10-01,0,Naktala Udayan Sangha,22.489,88.372,Clear,6,705,Green
+2025-10-01,0,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,664,Green
+2025-10-01,0,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,32,Green
+2025-10-01,0,Santosh Mitra Square,22.571,88.356,Clear,8,431,Green
+2025-10-01,0,Mohammad Ali Park,22.575,88.351,Clear,8,337,Green
+2025-10-01,0,Jodhpur Park,22.51,88.369,Clear,6,208,Green
+2025-10-01,1,Bagbazar Sarbojanin,22.5958,88.3697,Light Rain,9,0,Green
+2025-10-01,1,College Square,22.579,88.363,Light Rain,9,461,Green
+2025-10-01,1,Deshapriya Park,22.5263,88.3642,Light Rain,8,0,Green
+2025-10-01,1,Kumartuli Park,22.595,88.358,Light Rain,7,179,Green
+2025-10-01,1,Suruchi Sangha,22.518,88.347,Light Rain,8,425,Green
+2025-10-01,1,Sreebhumi Sporting Club,22.578,88.421,Light Rain,9,95,Green
+2025-10-01,1,Ekdalia Evergreen,22.522,88.356,Light Rain,7,455,Green
+2025-10-01,1,Tridhara Sammilani,22.515,88.362,Light Rain,6,113,Green
+2025-10-01,1,Badamtala Ashar Sangha,22.535,88.345,Light Rain,7,255,Green
+2025-10-01,1,Naktala Udayan Sangha,22.489,88.372,Light Rain,6,113,Green
+2025-10-01,1,Bosepukur Sitala Mandir,22.505,88.39,Light Rain,6,849,Green
+2025-10-01,1,Dum Dum Park Tarun Dal,22.615,88.398,Light Rain,7,338,Green
+2025-10-01,1,Santosh Mitra Square,22.571,88.356,Light Rain,8,74,Green
+2025-10-01,1,Mohammad Ali Park,22.575,88.351,Light Rain,8,638,Green
+2025-10-01,1,Jodhpur Park,22.51,88.369,Light Rain,6,0,Green
+2025-10-01,2,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,1463,Green
+2025-10-01,2,College Square,22.579,88.363,Clear,9,988,Green
+2025-10-01,2,Deshapriya Park,22.5263,88.3642,Clear,8,625,Green
+2025-10-01,2,Kumartuli Park,22.595,88.358,Clear,7,754,Green
+2025-10-01,2,Suruchi Sangha,22.518,88.347,Clear,8,257,Green
+2025-10-01,2,Sreebhumi Sporting Club,22.578,88.421,Clear,9,155,Green
+2025-10-01,2,Ekdalia Evergreen,22.522,88.356,Clear,7,722,Green
+2025-10-01,2,Tridhara Sammilani,22.515,88.362,Clear,6,258,Green
+2025-10-01,2,Badamtala Ashar Sangha,22.535,88.345,Clear,7,85,Green
+2025-10-01,2,Naktala Udayan Sangha,22.489,88.372,Clear,6,155,Green
+2025-10-01,2,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,80,Green
+2025-10-01,2,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,530,Green
+2025-10-01,2,Santosh Mitra Square,22.571,88.356,Clear,8,734,Green
+2025-10-01,2,Mohammad Ali Park,22.575,88.351,Clear,8,826,Green
+2025-10-01,2,Jodhpur Park,22.51,88.369,Clear,6,688,Green
+2025-10-01,3,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,856,Green
+2025-10-01,3,College Square,22.579,88.363,Clear,9,378,Green
+2025-10-01,3,Deshapriya Park,22.5263,88.3642,Clear,8,467,Green
+2025-10-01,3,Kumartuli Park,22.595,88.358,Clear,7,589,Green
+2025-10-01,3,Suruchi Sangha,22.518,88.347,Clear,8,852,Green
+2025-10-01,3,Sreebhumi Sporting Club,22.578,88.421,Clear,9,486,Green
+2025-10-01,3,Ekdalia Evergreen,22.522,88.356,Clear,7,434,Green
+2025-10-01,3,Tridhara Sammilani,22.515,88.362,Clear,6,88,Green
+2025-10-01,3,Badamtala Ashar Sangha,22.535,88.345,Clear,7,131,Green
+2025-10-01,3,Naktala Udayan Sangha,22.489,88.372,Clear,6,663,Green
+2025-10-01,3,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,826,Green
+2025-10-01,3,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,468,Green
+2025-10-01,3,Santosh Mitra Square,22.571,88.356,Clear,8,861,Green
+2025-10-01,3,Mohammad Ali Park,22.575,88.351,Clear,8,668,Green
+2025-10-01,3,Jodhpur Park,22.51,88.369,Clear,6,226,Green
+2025-10-01,4,Bagbazar Sarbojanin,22.5958,88.3697,Light Rain,9,889,Green
+2025-10-01,4,College Square,22.579,88.363,Light Rain,9,542,Green
+2025-10-01,4,Deshapriya Park,22.5263,88.3642,Light Rain,8,1403,Green
+2025-10-01,4,Kumartuli Park,22.595,88.358,Light Rain,7,66,Green
+2025-10-01,4,Suruchi Sangha,22.518,88.347,Light Rain,8,272,Green
+2025-10-01,4,Sreebhumi Sporting Club,22.578,88.421,Light Rain,9,422,Green
+2025-10-01,4,Ekdalia Evergreen,22.522,88.356,Light Rain,7,0,Green
+2025-10-01,4,Tridhara Sammilani,22.515,88.362,Light Rain,6,606,Green
+2025-10-01,4,Badamtala Ashar Sangha,22.535,88.345,Light Rain,7,614,Green
+2025-10-01,4,Naktala Udayan Sangha,22.489,88.372,Light Rain,6,299,Green
+2025-10-01,4,Bosepukur Sitala Mandir,22.505,88.39,Light Rain,6,133,Green
+2025-10-01,4,Dum Dum Park Tarun Dal,22.615,88.398,Light Rain,7,0,Green
+2025-10-01,4,Santosh Mitra Square,22.571,88.356,Light Rain,8,155,Green
+2025-10-01,4,Mohammad Ali Park,22.575,88.351,Light Rain,8,615,Green
+2025-10-01,4,Jodhpur Park,22.51,88.369,Light Rain,6,230,Green
+2025-10-01,5,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,501,Green
+2025-10-01,5,College Square,22.579,88.363,Clear,9,904,Green
+2025-10-01,5,Deshapriya Park,22.5263,88.3642,Clear,8,658,Green
+2025-10-01,5,Kumartuli Park,22.595,88.358,Clear,7,331,Green
+2025-10-01,5,Suruchi Sangha,22.518,88.347,Clear,8,713,Green
+2025-10-01,5,Sreebhumi Sporting Club,22.578,88.421,Clear,9,659,Green
+2025-10-01,5,Ekdalia Evergreen,22.522,88.356,Clear,7,780,Green
+2025-10-01,5,Tridhara Sammilani,22.515,88.362,Clear,6,209,Green
+2025-10-01,5,Badamtala Ashar Sangha,22.535,88.345,Clear,7,391,Green
+2025-10-01,5,Naktala Udayan Sangha,22.489,88.372,Clear,6,302,Green
+2025-10-01,5,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,0,Green
+2025-10-01,5,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,578,Green
+2025-10-01,5,Santosh Mitra Square,22.571,88.356,Clear,8,638,Green
+2025-10-01,5,Mohammad Ali Park,22.575,88.351,Clear,8,561,Green
+2025-10-01,5,Jodhpur Park,22.51,88.369,Clear,6,349,Green
+2025-10-01,6,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,1771,Green
+2025-10-01,6,College Square,22.579,88.363,Clear,9,1803,Green
+2025-10-01,6,Deshapriya Park,22.5263,88.3642,Clear,8,1815,Green
+2025-10-01,6,Kumartuli Park,22.595,88.358,Clear,7,1420,Green
+2025-10-01,6,Suruchi Sangha,22.518,88.347,Clear,8,1744,Green
+2025-10-01,6,Sreebhumi Sporting Club,22.578,88.421,Clear,9,1283,Green
+2025-10-01,6,Ekdalia Evergreen,22.522,88.356,Clear,7,1187,Green
+2025-10-01,6,Tridhara Sammilani,22.515,88.362,Clear,6,1681,Green
+2025-10-01,6,Badamtala Ashar Sangha,22.535,88.345,Clear,7,1464,Green
+2025-10-01,6,Naktala Udayan Sangha,22.489,88.372,Clear,6,757,Green
+2025-10-01,6,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,938,Green
+2025-10-01,6,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,1172,Green
+2025-10-01,6,Santosh Mitra Square,22.571,88.356,Clear,8,1710,Green
+2025-10-01,6,Mohammad Ali Park,22.575,88.351,Clear,8,1550,Green
+2025-10-01,6,Jodhpur Park,22.51,88.369,Clear,6,1062,Green
+2025-10-01,7,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,1891,Green
+2025-10-01,7,College Square,22.579,88.363,Clear,9,1832,Green
+2025-10-01,7,Deshapriya Park,22.5263,88.3642,Clear,8,1770,Green
+2025-10-01,7,Kumartuli Park,22.595,88.358,Clear,7,1459,Green
+2025-10-01,7,Suruchi Sangha,22.518,88.347,Clear,8,1329,Green
+2025-10-01,7,Sreebhumi Sporting Club,22.578,88.421,Clear,9,2232,Green
+2025-10-01,7,Ekdalia Evergreen,22.522,88.356,Clear,7,1695,Green
+2025-10-01,7,Tridhara Sammilani,22.515,88.362,Clear,6,1497,Green
+2025-10-01,7,Badamtala Ashar Sangha,22.535,88.345,Clear,7,1197,Green
+2025-10-01,7,Naktala Udayan Sangha,22.489,88.372,Clear,6,1680,Green
+2025-10-01,7,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,839,Green
+2025-10-01,7,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,1646,Green
+2025-10-01,7,Santosh Mitra Square,22.571,88.356,Clear,8,2337,Green
+2025-10-01,7,Mohammad Ali Park,22.575,88.351,Clear,8,1382,Green
+2025-10-01,7,Jodhpur Park,22.51,88.369,Clear,6,1090,Green
+2025-10-01,8,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,2401,Green
+2025-10-01,8,College Square,22.579,88.363,Clear,9,2152,Green
+2025-10-01,8,Deshapriya Park,22.5263,88.3642,Clear,8,1682,Green
+2025-10-01,8,Kumartuli Park,22.595,88.358,Clear,7,1360,Green
+2025-10-01,8,Suruchi Sangha,22.518,88.347,Clear,8,1874,Green
+2025-10-01,8,Sreebhumi Sporting Club,22.578,88.421,Clear,9,1523,Green
+2025-10-01,8,Ekdalia Evergreen,22.522,88.356,Clear,7,1630,Green
+2025-10-01,8,Tridhara Sammilani,22.515,88.362,Clear,6,985,Green
+2025-10-01,8,Badamtala Ashar Sangha,22.535,88.345,Clear,7,1656,Green
+2025-10-01,8,Naktala Udayan Sangha,22.489,88.372,Clear,6,1211,Green
+2025-10-01,8,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,1143,Green
+2025-10-01,8,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,1204,Green
+2025-10-01,8,Santosh Mitra Square,22.571,88.356,Clear,8,1572,Green
+2025-10-01,8,Mohammad Ali Park,22.575,88.351,Clear,8,1846,Green
+2025-10-01,8,Jodhpur Park,22.51,88.369,Clear,6,1573,Green
+2025-10-01,9,Bagbazar Sarbojanin,22.5958,88.3697,Cloudy,9,1858,Green
+2025-10-01,9,College Square,22.579,88.363,Cloudy,9,1218,Green
+2025-10-01,9,Deshapriya Park,22.5263,88.3642,Cloudy,8,1567,Green
+2025-10-01,9,Kumartuli Park,22.595,88.358,Cloudy,7,1400,Green
+2025-10-01,9,Suruchi Sangha,22.518,88.347,Cloudy,8,1746,Green
+2025-10-01,9,Sreebhumi Sporting Club,22.578,88.421,Cloudy,9,1329,Green
+2025-10-01,9,Ekdalia Evergreen,22.522,88.356,Cloudy,7,926,Green
+2025-10-01,9,Tridhara Sammilani,22.515,88.362,Cloudy,6,1290,Green
+2025-10-01,9,Badamtala Ashar Sangha,22.535,88.345,Cloudy,7,1412,Green
+2025-10-01,9,Naktala Udayan Sangha,22.489,88.372,Cloudy,6,1209,Green
+2025-10-01,9,Bosepukur Sitala Mandir,22.505,88.39,Cloudy,6,1237,Green
+2025-10-01,9,Dum Dum Park Tarun Dal,22.615,88.398,Cloudy,7,1118,Green
+2025-10-01,9,Santosh Mitra Square,22.571,88.356,Cloudy,8,1581,Green
+2025-10-01,9,Mohammad Ali Park,22.575,88.351,Cloudy,8,1599,Green
+2025-10-01,9,Jodhpur Park,22.51,88.369,Cloudy,6,919,Green
+2025-10-01,10,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,3202,Green
+2025-10-01,10,College Square,22.579,88.363,Clear,9,2784,Green
+2025-10-01,10,Deshapriya Park,22.5263,88.3642,Clear,8,3114,Green
+2025-10-01,10,Kumartuli Park,22.595,88.358,Clear,7,2847,Green
+2025-10-01,10,Suruchi Sangha,22.518,88.347,Clear,8,3020,Green
+2025-10-01,10,Sreebhumi Sporting Club,22.578,88.421,Clear,9,2863,Green
+2025-10-01,10,Ekdalia Evergreen,22.522,88.356,Clear,7,2224,Green
+2025-10-01,10,Tridhara Sammilani,22.515,88.362,Clear,6,1760,Green
+2025-10-01,10,Badamtala Ashar Sangha,22.535,88.345,Clear,7,2680,Green
+2025-10-01,10,Naktala Udayan Sangha,22.489,88.372,Clear,6,2480,Green
+2025-10-01,10,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,2227,Green
+2025-10-01,10,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,2732,Green
+2025-10-01,10,Santosh Mitra Square,22.571,88.356,Clear,8,2539,Green
+2025-10-01,10,Mohammad Ali Park,22.575,88.351,Clear,8,2843,Green
+2025-10-01,10,Jodhpur Park,22.51,88.369,Clear,6,1689,Green
+2025-10-01,11,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,2918,Green
+2025-10-01,11,College Square,22.579,88.363,Clear,9,3126,Green
+2025-10-01,11,Deshapriya Park,22.5263,88.3642,Clear,8,2902,Green
+2025-10-01,11,Kumartuli Park,22.595,88.358,Clear,7,2533,Green
+2025-10-01,11,Suruchi Sangha,22.518,88.347,Clear,8,3048,Green
+2025-10-01,11,Sreebhumi Sporting Club,22.578,88.421,Clear,9,3153,Green
+2025-10-01,11,Ekdalia Evergreen,22.522,88.356,Clear,7,2886,Green
+2025-10-01,11,Tridhara Sammilani,22.515,88.362,Clear,6,2020,Green
+2025-10-01,11,Badamtala Ashar Sangha,22.535,88.345,Clear,7,3266,Green
+2025-10-01,11,Naktala Udayan Sangha,22.489,88.372,Clear,6,2287,Green
+2025-10-01,11,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,1842,Green
+2025-10-01,11,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,2128,Green
+2025-10-01,11,Santosh Mitra Square,22.571,88.356,Clear,8,2944,Green
+2025-10-01,11,Mohammad Ali Park,22.575,88.351,Clear,8,2732,Green
+2025-10-01,11,Jodhpur Park,22.51,88.369,Clear,6,2314,Green
+2025-10-01,12,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,3112,Green
+2025-10-01,12,College Square,22.579,88.363,Clear,9,3372,Green
+2025-10-01,12,Deshapriya Park,22.5263,88.3642,Clear,8,2664,Green
+2025-10-01,12,Kumartuli Park,22.595,88.358,Clear,7,2683,Green
+2025-10-01,12,Suruchi Sangha,22.518,88.347,Clear,8,3113,Green
+2025-10-01,12,Sreebhumi Sporting Club,22.578,88.421,Clear,9,3047,Green
+2025-10-01,12,Ekdalia Evergreen,22.522,88.356,Clear,7,2172,Green
+2025-10-01,12,Tridhara Sammilani,22.515,88.362,Clear,6,1946,Green
+2025-10-01,12,Badamtala Ashar Sangha,22.535,88.345,Clear,7,2663,Green
+2025-10-01,12,Naktala Udayan Sangha,22.489,88.372,Clear,6,2127,Green
+2025-10-01,12,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,2289,Green
+2025-10-01,12,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,2978,Green
+2025-10-01,12,Santosh Mitra Square,22.571,88.356,Clear,8,2869,Green
+2025-10-01,12,Mohammad Ali Park,22.575,88.351,Clear,8,2557,Green
+2025-10-01,12,Jodhpur Park,22.51,88.369,Clear,6,2417,Green
+2025-10-01,13,Bagbazar Sarbojanin,22.5958,88.3697,Cloudy,9,2850,Green
+2025-10-01,13,College Square,22.579,88.363,Cloudy,9,3159,Green
+2025-10-01,13,Deshapriya Park,22.5263,88.3642,Cloudy,8,2836,Green
+2025-10-01,13,Kumartuli Park,22.595,88.358,Cloudy,7,1791,Green
+2025-10-01,13,Suruchi Sangha,22.518,88.347,Cloudy,8,2238,Green
+2025-10-01,13,Sreebhumi Sporting Club,22.578,88.421,Cloudy,9,2989,Green
+2025-10-01,13,Ekdalia Evergreen,22.522,88.356,Cloudy,7,2359,Green
+2025-10-01,13,Tridhara Sammilani,22.515,88.362,Cloudy,6,2044,Green
+2025-10-01,13,Badamtala Ashar Sangha,22.535,88.345,Cloudy,7,3360,Green
+2025-10-01,13,Naktala Udayan Sangha,22.489,88.372,Cloudy,6,2061,Green
+2025-10-01,13,Bosepukur Sitala Mandir,22.505,88.39,Cloudy,6,2230,Green
+2025-10-01,13,Dum Dum Park Tarun Dal,22.615,88.398,Cloudy,7,2491,Green
+2025-10-01,13,Santosh Mitra Square,22.571,88.356,Cloudy,8,2715,Green
+2025-10-01,13,Mohammad Ali Park,22.575,88.351,Cloudy,8,2425,Green
+2025-10-01,13,Jodhpur Park,22.51,88.369,Cloudy,6,2117,Green
+2025-10-01,14,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,4459,Yellow
+2025-10-01,14,College Square,22.579,88.363,Clear,9,4153,Yellow
+2025-10-01,14,Deshapriya Park,22.5263,88.3642,Clear,8,3908,Green
+2025-10-01,14,Kumartuli Park,22.595,88.358,Clear,7,3269,Green
+2025-10-01,14,Suruchi Sangha,22.518,88.347,Clear,8,3383,Green
+2025-10-01,14,Sreebhumi Sporting Club,22.578,88.421,Clear,9,4517,Yellow
+2025-10-01,14,Ekdalia Evergreen,22.522,88.356,Clear,7,3305,Green
+2025-10-01,14,Tridhara Sammilani,22.515,88.362,Clear,6,2964,Green
+2025-10-01,14,Badamtala Ashar Sangha,22.535,88.345,Clear,7,3162,Green
+2025-10-01,14,Naktala Udayan Sangha,22.489,88.372,Clear,6,2839,Green
+2025-10-01,14,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,3408,Green
+2025-10-01,14,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,3468,Green
+2025-10-01,14,Santosh Mitra Square,22.571,88.356,Clear,8,4084,Yellow
+2025-10-01,14,Mohammad Ali Park,22.575,88.351,Clear,8,3538,Green
+2025-10-01,14,Jodhpur Park,22.51,88.369,Clear,6,3656,Green
+2025-10-01,15,Bagbazar Sarbojanin,22.5958,88.3697,Cloudy,9,4522,Yellow
+2025-10-01,15,College Square,22.579,88.363,Cloudy,9,3361,Green
+2025-10-01,15,Deshapriya Park,22.5263,88.3642,Cloudy,8,3583,Green
+2025-10-01,15,Kumartuli Park,22.595,88.358,Cloudy,7,2888,Green
+2025-10-01,15,Suruchi Sangha,22.518,88.347,Cloudy,8,3783,Green
+2025-10-01,15,Sreebhumi Sporting Club,22.578,88.421,Cloudy,9,3731,Green
+2025-10-01,15,Ekdalia Evergreen,22.522,88.356,Cloudy,7,3052,Green
+2025-10-01,15,Tridhara Sammilani,22.515,88.362,Cloudy,6,2797,Green
+2025-10-01,15,Badamtala Ashar Sangha,22.535,88.345,Cloudy,7,3346,Green
+2025-10-01,15,Naktala Udayan Sangha,22.489,88.372,Cloudy,6,2285,Green
+2025-10-01,15,Bosepukur Sitala Mandir,22.505,88.39,Cloudy,6,2545,Green
+2025-10-01,15,Dum Dum Park Tarun Dal,22.615,88.398,Cloudy,7,2944,Green
+2025-10-01,15,Santosh Mitra Square,22.571,88.356,Cloudy,8,3332,Green
+2025-10-01,15,Mohammad Ali Park,22.575,88.351,Cloudy,8,4057,Yellow
+2025-10-01,15,Jodhpur Park,22.51,88.369,Cloudy,6,2767,Green
+2025-10-01,16,Bagbazar Sarbojanin,22.5958,88.3697,Cloudy,9,4082,Yellow
+2025-10-01,16,College Square,22.579,88.363,Cloudy,9,4464,Yellow
+2025-10-01,16,Deshapriya Park,22.5263,88.3642,Cloudy,8,3129,Green
+2025-10-01,16,Kumartuli Park,22.595,88.358,Cloudy,7,3640,Green
+2025-10-01,16,Suruchi Sangha,22.518,88.347,Cloudy,8,3308,Green
+2025-10-01,16,Sreebhumi Sporting Club,22.578,88.421,Cloudy,9,3585,Green
+2025-10-01,16,Ekdalia Evergreen,22.522,88.356,Cloudy,7,3015,Green
+2025-10-01,16,Tridhara Sammilani,22.515,88.362,Cloudy,6,3207,Green
+2025-10-01,16,Badamtala Ashar Sangha,22.535,88.345,Cloudy,7,3081,Green
+2025-10-01,16,Naktala Udayan Sangha,22.489,88.372,Cloudy,6,2366,Green
+2025-10-01,16,Bosepukur Sitala Mandir,22.505,88.39,Cloudy,6,2257,Green
+2025-10-01,16,Dum Dum Park Tarun Dal,22.615,88.398,Cloudy,7,3055,Green
+2025-10-01,16,Santosh Mitra Square,22.571,88.356,Cloudy,8,2929,Green
+2025-10-01,16,Mohammad Ali Park,22.575,88.351,Cloudy,8,3137,Green
+2025-10-01,16,Jodhpur Park,22.51,88.369,Cloudy,6,3108,Green
+2025-10-01,17,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,4806,Yellow
+2025-10-01,17,College Square,22.579,88.363,Clear,9,4842,Yellow
+2025-10-01,17,Deshapriya Park,22.5263,88.3642,Clear,8,3489,Green
+2025-10-01,17,Kumartuli Park,22.595,88.358,Clear,7,3778,Green
+2025-10-01,17,Suruchi Sangha,22.518,88.347,Clear,8,3923,Green
+2025-10-01,17,Sreebhumi Sporting Club,22.578,88.421,Clear,9,4115,Yellow
+2025-10-01,17,Ekdalia Evergreen,22.522,88.356,Clear,7,3568,Green
+2025-10-01,17,Tridhara Sammilani,22.515,88.362,Clear,6,2999,Green
+2025-10-01,17,Badamtala Ashar Sangha,22.535,88.345,Clear,7,3249,Green
+2025-10-01,17,Naktala Udayan Sangha,22.489,88.372,Clear,6,2960,Green
+2025-10-01,17,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,2824,Green
+2025-10-01,17,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,3464,Green
+2025-10-01,17,Santosh Mitra Square,22.571,88.356,Clear,8,4118,Yellow
+2025-10-01,17,Mohammad Ali Park,22.575,88.351,Clear,8,4395,Yellow
+2025-10-01,17,Jodhpur Park,22.51,88.369,Clear,6,2568,Green
+2025-10-01,18,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,6506,Yellow
+2025-10-01,18,College Square,22.579,88.363,Clear,9,6321,Yellow
+2025-10-01,18,Deshapriya Park,22.5263,88.3642,Clear,8,5731,Yellow
+2025-10-01,18,Kumartuli Park,22.595,88.358,Clear,7,4867,Yellow
+2025-10-01,18,Suruchi Sangha,22.518,88.347,Clear,8,5454,Yellow
+2025-10-01,18,Sreebhumi Sporting Club,22.578,88.421,Clear,9,6362,Yellow
+2025-10-01,18,Ekdalia Evergreen,22.522,88.356,Clear,7,5165,Yellow
+2025-10-01,18,Tridhara Sammilani,22.515,88.362,Clear,6,4060,Yellow
+2025-10-01,18,Badamtala Ashar Sangha,22.535,88.345,Clear,7,4713,Yellow
+2025-10-01,18,Naktala Udayan Sangha,22.489,88.372,Clear,6,4093,Yellow
+2025-10-01,18,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,4485,Yellow
+2025-10-01,18,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,5335,Yellow
+2025-10-01,18,Santosh Mitra Square,22.571,88.356,Clear,8,5708,Yellow
+2025-10-01,18,Mohammad Ali Park,22.575,88.351,Clear,8,5774,Yellow
+2025-10-01,18,Jodhpur Park,22.51,88.369,Clear,6,4011,Yellow
+2025-10-01,19,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,6563,Yellow
+2025-10-01,19,College Square,22.579,88.363,Clear,9,6524,Yellow
+2025-10-01,19,Deshapriya Park,22.5263,88.3642,Clear,8,5783,Yellow
+2025-10-01,19,Kumartuli Park,22.595,88.358,Clear,7,4893,Yellow
+2025-10-01,19,Suruchi Sangha,22.518,88.347,Clear,8,5635,Yellow
+2025-10-01,19,Sreebhumi Sporting Club,22.578,88.421,Clear,9,6683,Yellow
+2025-10-01,19,Ekdalia Evergreen,22.522,88.356,Clear,7,4722,Yellow
+2025-10-01,19,Tridhara Sammilani,22.515,88.362,Clear,6,4364,Yellow
+2025-10-01,19,Badamtala Ashar Sangha,22.535,88.345,Clear,7,4839,Yellow
+2025-10-01,19,Naktala Udayan Sangha,22.489,88.372,Clear,6,4134,Yellow
+2025-10-01,19,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,4529,Yellow
+2025-10-01,19,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,5147,Yellow
+2025-10-01,19,Santosh Mitra Square,22.571,88.356,Clear,8,5844,Yellow
+2025-10-01,19,Mohammad Ali Park,22.575,88.351,Clear,8,5991,Yellow
+2025-10-01,19,Jodhpur Park,22.51,88.369,Clear,6,4206,Yellow
+2025-10-01,20,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,6228,Yellow
+2025-10-01,20,College Square,22.579,88.363,Clear,9,6556,Yellow
+2025-10-01,20,Deshapriya Park,22.5263,88.3642,Clear,8,5518,Yellow
+2025-10-01,20,Kumartuli Park,22.595,88.358,Clear,7,4716,Yellow
+2025-10-01,20,Suruchi Sangha,22.518,88.347,Clear,8,6173,Yellow
+2025-10-01,20,Sreebhumi Sporting Club,22.578,88.421,Clear,9,6619,Yellow
+2025-10-01,20,Ekdalia Evergreen,22.522,88.356,Clear,7,4362,Yellow
+2025-10-01,20,Tridhara Sammilani,22.515,88.362,Clear,6,4065,Yellow
+2025-10-01,20,Badamtala Ashar Sangha,22.535,88.345,Clear,7,5261,Yellow
+2025-10-01,20,Naktala Udayan Sangha,22.489,88.372,Clear,6,3841,Green
+2025-10-01,20,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,4431,Yellow
+2025-10-01,20,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,5100,Yellow
+2025-10-01,20,Santosh Mitra Square,22.571,88.356,Clear,8,5390,Yellow
+2025-10-01,20,Mohammad Ali Park,22.575,88.351,Clear,8,5597,Yellow
+2025-10-01,20,Jodhpur Park,22.51,88.369,Clear,6,3572,Green
+2025-10-01,21,Bagbazar Sarbojanin,22.5958,88.3697,Light Rain,9,4941,Yellow
+2025-10-01,21,College Square,22.579,88.363,Light Rain,9,4162,Yellow
+2025-10-01,21,Deshapriya Park,22.5263,88.3642,Light Rain,8,3823,Green
+2025-10-01,21,Kumartuli Park,22.595,88.358,Light Rain,7,3553,Green
+2025-10-01,21,Suruchi Sangha,22.518,88.347,Light Rain,8,3750,Green
+2025-10-01,21,Sreebhumi Sporting Club,22.578,88.421,Light Rain,9,4163,Yellow
+2025-10-01,21,Ekdalia Evergreen,22.522,88.356,Light Rain,7,3503,Green
+2025-10-01,21,Tridhara Sammilani,22.515,88.362,Light Rain,6,3013,Green
+2025-10-01,21,Badamtala Ashar Sangha,22.535,88.345,Light Rain,7,3277,Green
+2025-10-01,21,Naktala Udayan Sangha,22.489,88.372,Light Rain,6,2798,Green
+2025-10-01,21,Bosepukur Sitala Mandir,22.505,88.39,Light Rain,6,3009,Green
+2025-10-01,21,Dum Dum Park Tarun Dal,22.615,88.398,Light Rain,7,2995,Green
+2025-10-01,21,Santosh Mitra Square,22.571,88.356,Light Rain,8,3497,Green
+2025-10-01,21,Mohammad Ali Park,22.575,88.351,Light Rain,8,3704,Green
+2025-10-01,21,Jodhpur Park,22.51,88.369,Light Rain,6,2875,Green
+2025-10-01,22,Bagbazar Sarbojanin,22.5958,88.3697,Light Rain,9,2034,Green
+2025-10-01,22,College Square,22.579,88.363,Light Rain,9,3117,Green
+2025-10-01,22,Deshapriya Park,22.5263,88.3642,Light Rain,8,2261,Green
+2025-10-01,22,Kumartuli Park,22.595,88.358,Light Rain,7,2056,Green
+2025-10-01,22,Suruchi Sangha,22.518,88.347,Light Rain,8,2147,Green
+2025-10-01,22,Sreebhumi Sporting Club,22.578,88.421,Light Rain,9,2631,Green
+2025-10-01,22,Ekdalia Evergreen,22.522,88.356,Light Rain,7,2439,Green
+2025-10-01,22,Tridhara Sammilani,22.515,88.362,Light Rain,6,1995,Green
+2025-10-01,22,Badamtala Ashar Sangha,22.535,88.345,Light Rain,7,2205,Green
+2025-10-01,22,Naktala Udayan Sangha,22.489,88.372,Light Rain,6,1790,Green
+2025-10-01,22,Bosepukur Sitala Mandir,22.505,88.39,Light Rain,6,1330,Green
+2025-10-01,22,Dum Dum Park Tarun Dal,22.615,88.398,Light Rain,7,1804,Green
+2025-10-01,22,Santosh Mitra Square,22.571,88.356,Light Rain,8,2249,Green
+2025-10-01,22,Mohammad Ali Park,22.575,88.351,Light Rain,8,2489,Green
+2025-10-01,22,Jodhpur Park,22.51,88.369,Light Rain,6,1784,Green
+2025-10-01,23,Bagbazar Sarbojanin,22.5958,88.3697,Heavy Rain,9,1807,Green
+2025-10-01,23,College Square,22.579,88.363,Heavy Rain,9,1541,Green
+2025-10-01,23,Deshapriya Park,22.5263,88.3642,Heavy Rain,8,1112,Green
+2025-10-01,23,Kumartuli Park,22.595,88.358,Heavy Rain,7,1183,Green
+2025-10-01,23,Suruchi Sangha,22.518,88.347,Heavy Rain,8,1493,Green
+2025-10-01,23,Sreebhumi Sporting Club,22.578,88.421,Heavy Rain,9,1947,Green
+2025-10-01,23,Ekdalia Evergreen,22.522,88.356,Heavy Rain,7,1463,Green
+2025-10-01,23,Tridhara Sammilani,22.515,88.362,Heavy Rain,6,1653,Green
+2025-10-01,23,Badamtala Ashar Sangha,22.535,88.345,Heavy Rain,7,945,Green
+2025-10-01,23,Naktala Udayan Sangha,22.489,88.372,Heavy Rain,6,1269,Green
+2025-10-01,23,Bosepukur Sitala Mandir,22.505,88.39,Heavy Rain,6,1063,Green
+2025-10-01,23,Dum Dum Park Tarun Dal,22.615,88.398,Heavy Rain,7,1832,Green
+2025-10-01,23,Santosh Mitra Square,22.571,88.356,Heavy Rain,8,1101,Green
+2025-10-01,23,Mohammad Ali Park,22.575,88.351,Heavy Rain,8,1092,Green
+2025-10-01,23,Jodhpur Park,22.51,88.369,Heavy Rain,6,828,Green
+2025-10-02,0,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,1209,Green
+2025-10-02,0,College Square,22.579,88.363,Clear,9,356,Green
+2025-10-02,0,Deshapriya Park,22.5263,88.3642,Clear,8,226,Green
+2025-10-02,0,Kumartuli Park,22.595,88.358,Clear,7,808,Green
+2025-10-02,0,Suruchi Sangha,22.518,88.347,Clear,8,971,Green
+2025-10-02,0,Sreebhumi Sporting Club,22.578,88.421,Clear,9,1191,Green
+2025-10-02,0,Ekdalia Evergreen,22.522,88.356,Clear,7,922,Green
+2025-10-02,0,Tridhara Sammilani,22.515,88.362,Clear,6,1042,Green
+2025-10-02,0,Badamtala Ashar Sangha,22.535,88.345,Clear,7,910,Green
+2025-10-02,0,Naktala Udayan Sangha,22.489,88.372,Clear,6,560,Green
+2025-10-02,0,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,577,Green
+2025-10-02,0,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,615,Green
+2025-10-02,0,Santosh Mitra Square,22.571,88.356,Clear,8,888,Green
+2025-10-02,0,Mohammad Ali Park,22.575,88.351,Clear,8,470,Green
+2025-10-02,0,Jodhpur Park,22.51,88.369,Clear,6,702,Green
+2025-10-02,1,Bagbazar Sarbojanin,22.5958,88.3697,Light Rain,9,604,Green
+2025-10-02,1,College Square,22.579,88.363,Light Rain,9,595,Green
+2025-10-02,1,Deshapriya Park,22.5263,88.3642,Light Rain,8,931,Green
+2025-10-02,1,Kumartuli Park,22.595,88.358,Light Rain,7,11,Green
+2025-10-02,1,Suruchi Sangha,22.518,88.347,Light Rain,8,380,Green
+2025-10-02,1,Sreebhumi Sporting Club,22.578,88.421,Light Rain,9,631,Green
+2025-10-02,1,Ekdalia Evergreen,22.522,88.356,Light Rain,7,504,Green
+2025-10-02,1,Tridhara Sammilani,22.515,88.362,Light Rain,6,284,Green
+2025-10-02,1,Badamtala Ashar Sangha,22.535,88.345,Light Rain,7,676,Green
+2025-10-02,1,Naktala Udayan Sangha,22.489,88.372,Light Rain,6,99,Green
+2025-10-02,1,Bosepukur Sitala Mandir,22.505,88.39,Light Rain,6,377,Green
+2025-10-02,1,Dum Dum Park Tarun Dal,22.615,88.398,Light Rain,7,526,Green
+2025-10-02,1,Santosh Mitra Square,22.571,88.356,Light Rain,8,714,Green
+2025-10-02,1,Mohammad Ali Park,22.575,88.351,Light Rain,8,773,Green
+2025-10-02,1,Jodhpur Park,22.51,88.369,Light Rain,6,82,Green
+2025-10-02,2,Bagbazar Sarbojanin,22.5958,88.3697,Cloudy,9,561,Green
+2025-10-02,2,College Square,22.579,88.363,Cloudy,9,718,Green
+2025-10-02,2,Deshapriya Park,22.5263,88.3642,Cloudy,8,792,Green
+2025-10-02,2,Kumartuli Park,22.595,88.358,Cloudy,7,1244,Green
+2025-10-02,2,Suruchi Sangha,22.518,88.347,Cloudy,8,754,Green
+2025-10-02,2,Sreebhumi Sporting Club,22.578,88.421,Cloudy,9,1275,Green
+2025-10-02,2,Ekdalia Evergreen,22.522,88.356,Cloudy,7,680,Green
+2025-10-02,2,Tridhara Sammilani,22.515,88.362,Cloudy,6,885,Green
+2025-10-02,2,Badamtala Ashar Sangha,22.535,88.345,Cloudy,7,937,Green
+2025-10-02,2,Naktala Udayan Sangha,22.489,88.372,Cloudy,6,589,Green
+2025-10-02,2,Bosepukur Sitala Mandir,22.505,88.39,Cloudy,6,233,Green
+2025-10-02,2,Dum Dum Park Tarun Dal,22.615,88.398,Cloudy,7,549,Green
+2025-10-02,2,Santosh Mitra Square,22.571,88.356,Cloudy,8,1166,Green
+2025-10-02,2,Mohammad Ali Park,22.575,88.351,Cloudy,8,983,Green
+2025-10-02,2,Jodhpur Park,22.51,88.369,Cloudy,6,409,Green
+2025-10-02,3,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,797,Green
+2025-10-02,3,College Square,22.579,88.363,Clear,9,1217,Green
+2025-10-02,3,Deshapriya Park,22.5263,88.3642,Clear,8,272,Green
+2025-10-02,3,Kumartuli Park,22.595,88.358,Clear,7,345,Green
+2025-10-02,3,Suruchi Sangha,22.518,88.347,Clear,8,188,Green
+2025-10-02,3,Sreebhumi Sporting Club,22.578,88.421,Clear,9,819,Green
+2025-10-02,3,Ekdalia Evergreen,22.522,88.356,Clear,7,915,Green
+2025-10-02,3,Tridhara Sammilani,22.515,88.362,Clear,6,1050,Green
+2025-10-02,3,Badamtala Ashar Sangha,22.535,88.345,Clear,7,722,Green
+2025-10-02,3,Naktala Udayan Sangha,22.489,88.372,Clear,6,1088,Green
+2025-10-02,3,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,185,Green
+2025-10-02,3,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,188,Green
+2025-10-02,3,Santosh Mitra Square,22.571,88.356,Clear,8,783,Green
+2025-10-02,3,Mohammad Ali Park,22.575,88.351,Clear,8,915,Green
+2025-10-02,3,Jodhpur Park,22.51,88.369,Clear,6,590,Green
+2025-10-02,4,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,1236,Green
+2025-10-02,4,College Square,22.579,88.363,Clear,9,467,Green
+2025-10-02,4,Deshapriya Park,22.5263,88.3642,Clear,8,763,Green
+2025-10-02,4,Kumartuli Park,22.595,88.358,Clear,7,677,Green
+2025-10-02,4,Suruchi Sangha,22.518,88.347,Clear,8,469,Green
+2025-10-02,4,Sreebhumi Sporting Club,22.578,88.421,Clear,9,1046,Green
+2025-10-02,4,Ekdalia Evergreen,22.522,88.356,Clear,7,924,Green
+2025-10-02,4,Tridhara Sammilani,22.515,88.362,Clear,6,512,Green
+2025-10-02,4,Badamtala Ashar Sangha,22.535,88.345,Clear,7,1316,Green
+2025-10-02,4,Naktala Udayan Sangha,22.489,88.372,Clear,6,504,Green
+2025-10-02,4,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,465,Green
+2025-10-02,4,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,557,Green
+2025-10-02,4,Santosh Mitra Square,22.571,88.356,Clear,8,555,Green
+2025-10-02,4,Mohammad Ali Park,22.575,88.351,Clear,8,632,Green
+2025-10-02,4,Jodhpur Park,22.51,88.369,Clear,6,169,Green
+2025-10-02,5,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,842,Green
+2025-10-02,5,College Square,22.579,88.363,Clear,9,1489,Green
+2025-10-02,5,Deshapriya Park,22.5263,88.3642,Clear,8,810,Green
+2025-10-02,5,Kumartuli Park,22.595,88.358,Clear,7,490,Green
+2025-10-02,5,Suruchi Sangha,22.518,88.347,Clear,8,864,Green
+2025-10-02,5,Sreebhumi Sporting Club,22.578,88.421,Clear,9,866,Green
+2025-10-02,5,Ekdalia Evergreen,22.522,88.356,Clear,7,633,Green
+2025-10-02,5,Tridhara Sammilani,22.515,88.362,Clear,6,784,Green
+2025-10-02,5,Badamtala Ashar Sangha,22.535,88.345,Clear,7,927,Green
+2025-10-02,5,Naktala Udayan Sangha,22.489,88.372,Clear,6,440,Green
+2025-10-02,5,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,427,Green
+2025-10-02,5,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,617,Green
+2025-10-02,5,Santosh Mitra Square,22.571,88.356,Clear,8,109,Green
+2025-10-02,5,Mohammad Ali Park,22.575,88.351,Clear,8,345,Green
+2025-10-02,5,Jodhpur Park,22.51,88.369,Clear,6,1010,Green
+2025-10-02,6,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,2955,Green
+2025-10-02,6,College Square,22.579,88.363,Clear,9,2403,Green
+2025-10-02,6,Deshapriya Park,22.5263,88.3642,Clear,8,2408,Green
+2025-10-02,6,Kumartuli Park,22.595,88.358,Clear,7,2390,Green
+2025-10-02,6,Suruchi Sangha,22.518,88.347,Clear,8,2108,Green
+2025-10-02,6,Sreebhumi Sporting Club,22.578,88.421,Clear,9,2723,Green
+2025-10-02,6,Ekdalia Evergreen,22.522,88.356,Clear,7,2557,Green
+2025-10-02,6,Tridhara Sammilani,22.515,88.362,Clear,6,1062,Green
+2025-10-02,6,Badamtala Ashar Sangha,22.535,88.345,Clear,7,1856,Green
+2025-10-02,6,Naktala Udayan Sangha,22.489,88.372,Clear,6,1528,Green
+2025-10-02,6,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,1743,Green
+2025-10-02,6,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,2085,Green
+2025-10-02,6,Santosh Mitra Square,22.571,88.356,Clear,8,2081,Green
+2025-10-02,6,Mohammad Ali Park,22.575,88.351,Clear,8,2203,Green
+2025-10-02,6,Jodhpur Park,22.51,88.369,Clear,6,1568,Green
+2025-10-02,7,Bagbazar Sarbojanin,22.5958,88.3697,Light Rain,9,1784,Green
+2025-10-02,7,College Square,22.579,88.363,Light Rain,9,2396,Green
+2025-10-02,7,Deshapriya Park,22.5263,88.3642,Light Rain,8,1944,Green
+2025-10-02,7,Kumartuli Park,22.595,88.358,Light Rain,7,1467,Green
+2025-10-02,7,Suruchi Sangha,22.518,88.347,Light Rain,8,2123,Green
+2025-10-02,7,Sreebhumi Sporting Club,22.578,88.421,Light Rain,9,1913,Green
+2025-10-02,7,Ekdalia Evergreen,22.522,88.356,Light Rain,7,1211,Green
+2025-10-02,7,Tridhara Sammilani,22.515,88.362,Light Rain,6,1716,Green
+2025-10-02,7,Badamtala Ashar Sangha,22.535,88.345,Light Rain,7,1631,Green
+2025-10-02,7,Naktala Udayan Sangha,22.489,88.372,Light Rain,6,948,Green
+2025-10-02,7,Bosepukur Sitala Mandir,22.505,88.39,Light Rain,6,1202,Green
+2025-10-02,7,Dum Dum Park Tarun Dal,22.615,88.398,Light Rain,7,1207,Green
+2025-10-02,7,Santosh Mitra Square,22.571,88.356,Light Rain,8,1265,Green
+2025-10-02,7,Mohammad Ali Park,22.575,88.351,Light Rain,8,1957,Green
+2025-10-02,7,Jodhpur Park,22.51,88.369,Light Rain,6,1832,Green
+2025-10-02,8,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,2708,Green
+2025-10-02,8,College Square,22.579,88.363,Clear,9,2738,Green
+2025-10-02,8,Deshapriya Park,22.5263,88.3642,Clear,8,2291,Green
+2025-10-02,8,Kumartuli Park,22.595,88.358,Clear,7,2028,Green
+2025-10-02,8,Suruchi Sangha,22.518,88.347,Clear,8,2262,Green
+2025-10-02,8,Sreebhumi Sporting Club,22.578,88.421,Clear,9,2512,Green
+2025-10-02,8,Ekdalia Evergreen,22.522,88.356,Clear,7,1985,Green
+2025-10-02,8,Tridhara Sammilani,22.515,88.362,Clear,6,1675,Green
+2025-10-02,8,Badamtala Ashar Sangha,22.535,88.345,Clear,7,1851,Green
+2025-10-02,8,Naktala Udayan Sangha,22.489,88.372,Clear,6,1636,Green
+2025-10-02,8,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,1049,Green
+2025-10-02,8,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,2305,Green
+2025-10-02,8,Santosh Mitra Square,22.571,88.356,Clear,8,2517,Green
+2025-10-02,8,Mohammad Ali Park,22.575,88.351,Clear,8,2374,Green
+2025-10-02,8,Jodhpur Park,22.51,88.369,Clear,6,1871,Green
+2025-10-02,9,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,2782,Green
+2025-10-02,9,College Square,22.579,88.363,Clear,9,2850,Green
+2025-10-02,9,Deshapriya Park,22.5263,88.3642,Clear,8,2106,Green
+2025-10-02,9,Kumartuli Park,22.595,88.358,Clear,7,2129,Green
+2025-10-02,9,Suruchi Sangha,22.518,88.347,Clear,8,2625,Green
+2025-10-02,9,Sreebhumi Sporting Club,22.578,88.421,Clear,9,2199,Green
+2025-10-02,9,Ekdalia Evergreen,22.522,88.356,Clear,7,2263,Green
+2025-10-02,9,Tridhara Sammilani,22.515,88.362,Clear,6,1601,Green
+2025-10-02,9,Badamtala Ashar Sangha,22.535,88.345,Clear,7,2271,Green
+2025-10-02,9,Naktala Udayan Sangha,22.489,88.372,Clear,6,1571,Green
+2025-10-02,9,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,1258,Green
+2025-10-02,9,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,1611,Green
+2025-10-02,9,Santosh Mitra Square,22.571,88.356,Clear,8,2414,Green
+2025-10-02,9,Mohammad Ali Park,22.575,88.351,Clear,8,2477,Green
+2025-10-02,9,Jodhpur Park,22.51,88.369,Clear,6,1528,Green
+2025-10-02,10,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,4158,Yellow
+2025-10-02,10,College Square,22.579,88.363,Clear,9,4580,Yellow
+2025-10-02,10,Deshapriya Park,22.5263,88.3642,Clear,8,4835,Yellow
+2025-10-02,10,Kumartuli Park,22.595,88.358,Clear,7,3016,Green
+2025-10-02,10,Suruchi Sangha,22.518,88.347,Clear,8,3955,Green
+2025-10-02,10,Sreebhumi Sporting Club,22.578,88.421,Clear,9,4377,Yellow
+2025-10-02,10,Ekdalia Evergreen,22.522,88.356,Clear,7,3319,Green
+2025-10-02,10,Tridhara Sammilani,22.515,88.362,Clear,6,3228,Green
+2025-10-02,10,Badamtala Ashar Sangha,22.535,88.345,Clear,7,3831,Green
+2025-10-02,10,Naktala Udayan Sangha,22.489,88.372,Clear,6,3231,Green
+2025-10-02,10,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,2782,Green
+2025-10-02,10,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,4230,Yellow
+2025-10-02,10,Santosh Mitra Square,22.571,88.356,Clear,8,3468,Green
+2025-10-02,10,Mohammad Ali Park,22.575,88.351,Clear,8,3690,Green
+2025-10-02,10,Jodhpur Park,22.51,88.369,Clear,6,3050,Green
+2025-10-02,11,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,4526,Yellow
+2025-10-02,11,College Square,22.579,88.363,Clear,9,4525,Yellow
+2025-10-02,11,Deshapriya Park,22.5263,88.3642,Clear,8,3953,Green
+2025-10-02,11,Kumartuli Park,22.595,88.358,Clear,7,3850,Green
+2025-10-02,11,Suruchi Sangha,22.518,88.347,Clear,8,4076,Yellow
+2025-10-02,11,Sreebhumi Sporting Club,22.578,88.421,Clear,9,4601,Yellow
+2025-10-02,11,Ekdalia Evergreen,22.522,88.356,Clear,7,3376,Green
+2025-10-02,11,Tridhara Sammilani,22.515,88.362,Clear,6,2853,Green
+2025-10-02,11,Badamtala Ashar Sangha,22.535,88.345,Clear,7,3370,Green
+2025-10-02,11,Naktala Udayan Sangha,22.489,88.372,Clear,6,3118,Green
+2025-10-02,11,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,2873,Green
+2025-10-02,11,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,3586,Green
+2025-10-02,11,Santosh Mitra Square,22.571,88.356,Clear,8,4622,Yellow
+2025-10-02,11,Mohammad Ali Park,22.575,88.351,Clear,8,4261,Yellow
+2025-10-02,11,Jodhpur Park,22.51,88.369,Clear,6,2902,Green
+2025-10-02,12,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,4424,Yellow
+2025-10-02,12,College Square,22.579,88.363,Clear,9,4890,Yellow
+2025-10-02,12,Deshapriya Park,22.5263,88.3642,Clear,8,3797,Green
+2025-10-02,12,Kumartuli Park,22.595,88.358,Clear,7,2830,Green
+2025-10-02,12,Suruchi Sangha,22.518,88.347,Clear,8,4315,Yellow
+2025-10-02,12,Sreebhumi Sporting Club,22.578,88.421,Clear,9,4246,Yellow
+2025-10-02,12,Ekdalia Evergreen,22.522,88.356,Clear,7,3025,Green
+2025-10-02,12,Tridhara Sammilani,22.515,88.362,Clear,6,3004,Green
+2025-10-02,12,Badamtala Ashar Sangha,22.535,88.345,Clear,7,3428,Green
+2025-10-02,12,Naktala Udayan Sangha,22.489,88.372,Clear,6,3246,Green
+2025-10-02,12,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,3267,Green
+2025-10-02,12,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,3528,Green
+2025-10-02,12,Santosh Mitra Square,22.571,88.356,Clear,8,3734,Green
+2025-10-02,12,Mohammad Ali Park,22.575,88.351,Clear,8,4086,Yellow
+2025-10-02,12,Jodhpur Park,22.51,88.369,Clear,6,3049,Green
+2025-10-02,13,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,4670,Yellow
+2025-10-02,13,College Square,22.579,88.363,Clear,9,4601,Yellow
+2025-10-02,13,Deshapriya Park,22.5263,88.3642,Clear,8,3875,Green
+2025-10-02,13,Kumartuli Park,22.595,88.358,Clear,7,3689,Green
+2025-10-02,13,Suruchi Sangha,22.518,88.347,Clear,8,4681,Yellow
+2025-10-02,13,Sreebhumi Sporting Club,22.578,88.421,Clear,9,4554,Yellow
+2025-10-02,13,Ekdalia Evergreen,22.522,88.356,Clear,7,3574,Green
+2025-10-02,13,Tridhara Sammilani,22.515,88.362,Clear,6,2862,Green
+2025-10-02,13,Badamtala Ashar Sangha,22.535,88.345,Clear,7,3245,Green
+2025-10-02,13,Naktala Udayan Sangha,22.489,88.372,Clear,6,3249,Green
+2025-10-02,13,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,2743,Green
+2025-10-02,13,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,3521,Green
+2025-10-02,13,Santosh Mitra Square,22.571,88.356,Clear,8,3856,Green
+2025-10-02,13,Mohammad Ali Park,22.575,88.351,Clear,8,4143,Yellow
+2025-10-02,13,Jodhpur Park,22.51,88.369,Clear,6,3100,Green
+2025-10-02,14,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,6686,Yellow
+2025-10-02,14,College Square,22.579,88.363,Clear,9,6166,Yellow
+2025-10-02,14,Deshapriya Park,22.5263,88.3642,Clear,8,5471,Yellow
+2025-10-02,14,Kumartuli Park,22.595,88.358,Clear,7,4734,Yellow
+2025-10-02,14,Suruchi Sangha,22.518,88.347,Clear,8,5889,Yellow
+2025-10-02,14,Sreebhumi Sporting Club,22.578,88.421,Clear,9,6592,Yellow
+2025-10-02,14,Ekdalia Evergreen,22.522,88.356,Clear,7,5315,Yellow
+2025-10-02,14,Tridhara Sammilani,22.515,88.362,Clear,6,4502,Yellow
+2025-10-02,14,Badamtala Ashar Sangha,22.535,88.345,Clear,7,4410,Yellow
+2025-10-02,14,Naktala Udayan Sangha,22.489,88.372,Clear,6,4284,Yellow
+2025-10-02,14,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,3882,Green
+2025-10-02,14,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,4746,Yellow
+2025-10-02,14,Santosh Mitra Square,22.571,88.356,Clear,8,5651,Yellow
+2025-10-02,14,Mohammad Ali Park,22.575,88.351,Clear,8,5850,Yellow
+2025-10-02,14,Jodhpur Park,22.51,88.369,Clear,6,3932,Green
+2025-10-02,15,Bagbazar Sarbojanin,22.5958,88.3697,Heavy Rain,9,1822,Green
+2025-10-02,15,College Square,22.579,88.363,Heavy Rain,9,2603,Green
+2025-10-02,15,Deshapriya Park,22.5263,88.3642,Heavy Rain,8,1902,Green
+2025-10-02,15,Kumartuli Park,22.595,88.358,Heavy Rain,7,2693,Green
+2025-10-02,15,Suruchi Sangha,22.518,88.347,Heavy Rain,8,2278,Green
+2025-10-02,15,Sreebhumi Sporting Club,22.578,88.421,Heavy Rain,9,2552,Green
+2025-10-02,15,Ekdalia Evergreen,22.522,88.356,Heavy Rain,7,2177,Green
+2025-10-02,15,Tridhara Sammilani,22.515,88.362,Heavy Rain,6,1824,Green
+2025-10-02,15,Badamtala Ashar Sangha,22.535,88.345,Heavy Rain,7,2027,Green
+2025-10-02,15,Naktala Udayan Sangha,22.489,88.372,Heavy Rain,6,1442,Green
+2025-10-02,15,Bosepukur Sitala Mandir,22.505,88.39,Heavy Rain,6,1821,Green
+2025-10-02,15,Dum Dum Park Tarun Dal,22.615,88.398,Heavy Rain,7,2524,Green
+2025-10-02,15,Santosh Mitra Square,22.571,88.356,Heavy Rain,8,2643,Green
+2025-10-02,15,Mohammad Ali Park,22.575,88.351,Heavy Rain,8,2717,Green
+2025-10-02,15,Jodhpur Park,22.51,88.369,Heavy Rain,6,1526,Green
+2025-10-02,16,Bagbazar Sarbojanin,22.5958,88.3697,Heavy Rain,9,2492,Green
+2025-10-02,16,College Square,22.579,88.363,Heavy Rain,9,2754,Green
+2025-10-02,16,Deshapriya Park,22.5263,88.3642,Heavy Rain,8,3001,Green
+2025-10-02,16,Kumartuli Park,22.595,88.358,Heavy Rain,7,2117,Green
+2025-10-02,16,Suruchi Sangha,22.518,88.347,Heavy Rain,8,2063,Green
+2025-10-02,16,Sreebhumi Sporting Club,22.578,88.421,Heavy Rain,9,2479,Green
+2025-10-02,16,Ekdalia Evergreen,22.522,88.356,Heavy Rain,7,2281,Green
+2025-10-02,16,Tridhara Sammilani,22.515,88.362,Heavy Rain,6,1505,Green
+2025-10-02,16,Badamtala Ashar Sangha,22.535,88.345,Heavy Rain,7,2215,Green
+2025-10-02,16,Naktala Udayan Sangha,22.489,88.372,Heavy Rain,6,983,Green
+2025-10-02,16,Bosepukur Sitala Mandir,22.505,88.39,Heavy Rain,6,1611,Green
+2025-10-02,16,Dum Dum Park Tarun Dal,22.615,88.398,Heavy Rain,7,2148,Green
+2025-10-02,16,Santosh Mitra Square,22.571,88.356,Heavy Rain,8,2621,Green
+2025-10-02,16,Mohammad Ali Park,22.575,88.351,Heavy Rain,8,1994,Green
+2025-10-02,16,Jodhpur Park,22.51,88.369,Heavy Rain,6,1229,Green
+2025-10-02,17,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,6221,Yellow
+2025-10-02,17,College Square,22.579,88.363,Clear,9,6226,Yellow
+2025-10-02,17,Deshapriya Park,22.5263,88.3642,Clear,8,5518,Yellow
+2025-10-02,17,Kumartuli Park,22.595,88.358,Clear,7,4090,Yellow
+2025-10-02,17,Suruchi Sangha,22.518,88.347,Clear,8,5583,Yellow
+2025-10-02,17,Sreebhumi Sporting Club,22.578,88.421,Clear,9,6230,Yellow
+2025-10-02,17,Ekdalia Evergreen,22.522,88.356,Clear,7,5108,Yellow
+2025-10-02,17,Tridhara Sammilani,22.515,88.362,Clear,6,4754,Yellow
+2025-10-02,17,Badamtala Ashar Sangha,22.535,88.345,Clear,7,5237,Yellow
+2025-10-02,17,Naktala Udayan Sangha,22.489,88.372,Clear,6,4119,Yellow
+2025-10-02,17,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,3868,Green
+2025-10-02,17,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,5672,Yellow
+2025-10-02,17,Santosh Mitra Square,22.571,88.356,Clear,8,5617,Yellow
+2025-10-02,17,Mohammad Ali Park,22.575,88.351,Clear,8,5604,Yellow
+2025-10-02,17,Jodhpur Park,22.51,88.369,Clear,6,4192,Yellow
+2025-10-02,18,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,8965,Red
+2025-10-02,18,College Square,22.579,88.363,Clear,9,9046,Red
+2025-10-02,18,Deshapriya Park,22.5263,88.3642,Clear,8,8770,Red
+2025-10-02,18,Kumartuli Park,22.595,88.358,Clear,7,6667,Yellow
+2025-10-02,18,Suruchi Sangha,22.518,88.347,Clear,8,8416,Red
+2025-10-02,18,Sreebhumi Sporting Club,22.578,88.421,Clear,9,8202,Red
+2025-10-02,18,Ekdalia Evergreen,22.522,88.356,Clear,7,6376,Yellow
+2025-10-02,18,Tridhara Sammilani,22.515,88.362,Clear,6,5627,Yellow
+2025-10-02,18,Badamtala Ashar Sangha,22.535,88.345,Clear,7,6646,Yellow
+2025-10-02,18,Naktala Udayan Sangha,22.489,88.372,Clear,6,6061,Yellow
+2025-10-02,18,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,6086,Yellow
+2025-10-02,18,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,6923,Yellow
+2025-10-02,18,Santosh Mitra Square,22.571,88.356,Clear,8,7955,Red
+2025-10-02,18,Mohammad Ali Park,22.575,88.351,Clear,8,8158,Red
+2025-10-02,18,Jodhpur Park,22.51,88.369,Clear,6,6249,Yellow
+2025-10-02,19,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,8602,Red
+2025-10-02,19,College Square,22.579,88.363,Clear,9,9280,Red
+2025-10-02,19,Deshapriya Park,22.5263,88.3642,Clear,8,8381,Red
+2025-10-02,19,Kumartuli Park,22.595,88.358,Clear,7,7216,Red
+2025-10-02,19,Suruchi Sangha,22.518,88.347,Clear,8,7661,Red
+2025-10-02,19,Sreebhumi Sporting Club,22.578,88.421,Clear,9,8842,Red
+2025-10-02,19,Ekdalia Evergreen,22.522,88.356,Clear,7,7146,Red
+2025-10-02,19,Tridhara Sammilani,22.515,88.362,Clear,6,5633,Yellow
+2025-10-02,19,Badamtala Ashar Sangha,22.535,88.345,Clear,7,7213,Red
+2025-10-02,19,Naktala Udayan Sangha,22.489,88.372,Clear,6,5927,Yellow
+2025-10-02,19,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,5887,Yellow
+2025-10-02,19,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,7213,Red
+2025-10-02,19,Santosh Mitra Square,22.571,88.356,Clear,8,8133,Red
+2025-10-02,19,Mohammad Ali Park,22.575,88.351,Clear,8,7891,Red
+2025-10-02,19,Jodhpur Park,22.51,88.369,Clear,6,6347,Yellow
+2025-10-02,20,Bagbazar Sarbojanin,22.5958,88.3697,Cloudy,9,7902,Red
+2025-10-02,20,College Square,22.579,88.363,Cloudy,9,7818,Red
+2025-10-02,20,Deshapriya Park,22.5263,88.3642,Cloudy,8,6699,Yellow
+2025-10-02,20,Kumartuli Park,22.595,88.358,Cloudy,7,6829,Yellow
+2025-10-02,20,Suruchi Sangha,22.518,88.347,Cloudy,8,6827,Yellow
+2025-10-02,20,Sreebhumi Sporting Club,22.578,88.421,Cloudy,9,7855,Red
+2025-10-02,20,Ekdalia Evergreen,22.522,88.356,Cloudy,7,6694,Yellow
+2025-10-02,20,Tridhara Sammilani,22.515,88.362,Cloudy,6,4874,Yellow
+2025-10-02,20,Badamtala Ashar Sangha,22.535,88.345,Cloudy,7,6526,Yellow
+2025-10-02,20,Naktala Udayan Sangha,22.489,88.372,Cloudy,6,4976,Yellow
+2025-10-02,20,Bosepukur Sitala Mandir,22.505,88.39,Cloudy,6,5774,Yellow
+2025-10-02,20,Dum Dum Park Tarun Dal,22.615,88.398,Cloudy,7,5649,Yellow
+2025-10-02,20,Santosh Mitra Square,22.571,88.356,Cloudy,8,6673,Yellow
+2025-10-02,20,Mohammad Ali Park,22.575,88.351,Cloudy,8,7036,Red
+2025-10-02,20,Jodhpur Park,22.51,88.369,Cloudy,6,5691,Yellow
+2025-10-02,21,Bagbazar Sarbojanin,22.5958,88.3697,Light Rain,9,6290,Yellow
+2025-10-02,21,College Square,22.579,88.363,Light Rain,9,6190,Yellow
+2025-10-02,21,Deshapriya Park,22.5263,88.3642,Light Rain,8,5582,Yellow
+2025-10-02,21,Kumartuli Park,22.595,88.358,Light Rain,7,4992,Yellow
+2025-10-02,21,Suruchi Sangha,22.518,88.347,Light Rain,8,5086,Yellow
+2025-10-02,21,Sreebhumi Sporting Club,22.578,88.421,Light Rain,9,5895,Yellow
+2025-10-02,21,Ekdalia Evergreen,22.522,88.356,Light Rain,7,5122,Yellow
+2025-10-02,21,Tridhara Sammilani,22.515,88.362,Light Rain,6,4251,Yellow
+2025-10-02,21,Badamtala Ashar Sangha,22.535,88.345,Light Rain,7,4844,Yellow
+2025-10-02,21,Naktala Udayan Sangha,22.489,88.372,Light Rain,6,4205,Yellow
+2025-10-02,21,Bosepukur Sitala Mandir,22.505,88.39,Light Rain,6,4304,Yellow
+2025-10-02,21,Dum Dum Park Tarun Dal,22.615,88.398,Light Rain,7,4738,Yellow
+2025-10-02,21,Santosh Mitra Square,22.571,88.356,Light Rain,8,5366,Yellow
+2025-10-02,21,Mohammad Ali Park,22.575,88.351,Light Rain,8,5658,Yellow
+2025-10-02,21,Jodhpur Park,22.51,88.369,Light Rain,6,3906,Green
+2025-10-02,22,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,6001,Yellow
+2025-10-02,22,College Square,22.579,88.363,Clear,9,5615,Yellow
+2025-10-02,22,Deshapriya Park,22.5263,88.3642,Clear,8,4659,Yellow
+2025-10-02,22,Kumartuli Park,22.595,88.358,Clear,7,4358,Yellow
+2025-10-02,22,Suruchi Sangha,22.518,88.347,Clear,8,5286,Yellow
+2025-10-02,22,Sreebhumi Sporting Club,22.578,88.421,Clear,9,5871,Yellow
+2025-10-02,22,Ekdalia Evergreen,22.522,88.356,Clear,7,3898,Green
+2025-10-02,22,Tridhara Sammilani,22.515,88.362,Clear,6,3753,Green
+2025-10-02,22,Badamtala Ashar Sangha,22.535,88.345,Clear,7,4152,Yellow
+2025-10-02,22,Naktala Udayan Sangha,22.489,88.372,Clear,6,3841,Green
+2025-10-02,22,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,3715,Green
+2025-10-02,22,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,3489,Green
+2025-10-02,22,Santosh Mitra Square,22.571,88.356,Clear,8,4695,Yellow
+2025-10-02,22,Mohammad Ali Park,22.575,88.351,Clear,8,4859,Yellow
+2025-10-02,22,Jodhpur Park,22.51,88.369,Clear,6,3169,Green
+2025-10-02,23,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,5574,Yellow
+2025-10-02,23,College Square,22.579,88.363,Clear,9,5123,Yellow
+2025-10-02,23,Deshapriya Park,22.5263,88.3642,Clear,8,4394,Yellow
+2025-10-02,23,Kumartuli Park,22.595,88.358,Clear,7,3907,Green
+2025-10-02,23,Suruchi Sangha,22.518,88.347,Clear,8,5116,Yellow
+2025-10-02,23,Sreebhumi Sporting Club,22.578,88.421,Clear,9,5115,Yellow
+2025-10-02,23,Ekdalia Evergreen,22.522,88.356,Clear,7,4989,Yellow
+2025-10-02,23,Tridhara Sammilani,22.515,88.362,Clear,6,3747,Green
+2025-10-02,23,Badamtala Ashar Sangha,22.535,88.345,Clear,7,4255,Yellow
+2025-10-02,23,Naktala Udayan Sangha,22.489,88.372,Clear,6,3342,Green
+2025-10-02,23,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,3810,Green
+2025-10-02,23,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,4027,Yellow
+2025-10-02,23,Santosh Mitra Square,22.571,88.356,Clear,8,4836,Yellow
+2025-10-02,23,Mohammad Ali Park,22.575,88.351,Clear,8,5568,Yellow
+2025-10-02,23,Jodhpur Park,22.51,88.369,Clear,6,3571,Green
+2025-10-03,0,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,794,Green
+2025-10-03,0,College Square,22.579,88.363,Clear,9,972,Green
+2025-10-03,0,Deshapriya Park,22.5263,88.3642,Clear,8,853,Green
+2025-10-03,0,Kumartuli Park,22.595,88.358,Clear,7,599,Green
+2025-10-03,0,Suruchi Sangha,22.518,88.347,Clear,8,1392,Green
+2025-10-03,0,Sreebhumi Sporting Club,22.578,88.421,Clear,9,885,Green
+2025-10-03,0,Ekdalia Evergreen,22.522,88.356,Clear,7,232,Green
+2025-10-03,0,Tridhara Sammilani,22.515,88.362,Clear,6,479,Green
+2025-10-03,0,Badamtala Ashar Sangha,22.535,88.345,Clear,7,849,Green
+2025-10-03,0,Naktala Udayan Sangha,22.489,88.372,Clear,6,759,Green
+2025-10-03,0,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,273,Green
+2025-10-03,0,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,978,Green
+2025-10-03,0,Santosh Mitra Square,22.571,88.356,Clear,8,271,Green
+2025-10-03,0,Mohammad Ali Park,22.575,88.351,Clear,8,1143,Green
+2025-10-03,0,Jodhpur Park,22.51,88.369,Clear,6,204,Green
+2025-10-03,1,Bagbazar Sarbojanin,22.5958,88.3697,Cloudy,9,742,Green
+2025-10-03,1,College Square,22.579,88.363,Cloudy,9,924,Green
+2025-10-03,1,Deshapriya Park,22.5263,88.3642,Cloudy,8,903,Green
+2025-10-03,1,Kumartuli Park,22.595,88.358,Cloudy,7,797,Green
+2025-10-03,1,Suruchi Sangha,22.518,88.347,Cloudy,8,1044,Green
+2025-10-03,1,Sreebhumi Sporting Club,22.578,88.421,Cloudy,9,1060,Green
+2025-10-03,1,Ekdalia Evergreen,22.522,88.356,Cloudy,7,767,Green
+2025-10-03,1,Tridhara Sammilani,22.515,88.362,Cloudy,6,518,Green
+2025-10-03,1,Badamtala Ashar Sangha,22.535,88.345,Cloudy,7,131,Green
+2025-10-03,1,Naktala Udayan Sangha,22.489,88.372,Cloudy,6,668,Green
+2025-10-03,1,Bosepukur Sitala Mandir,22.505,88.39,Cloudy,6,602,Green
+2025-10-03,1,Dum Dum Park Tarun Dal,22.615,88.398,Cloudy,7,711,Green
+2025-10-03,1,Santosh Mitra Square,22.571,88.356,Cloudy,8,336,Green
+2025-10-03,1,Mohammad Ali Park,22.575,88.351,Cloudy,8,395,Green
+2025-10-03,1,Jodhpur Park,22.51,88.369,Cloudy,6,855,Green
+2025-10-03,2,Bagbazar Sarbojanin,22.5958,88.3697,Heavy Rain,9,698,Green
+2025-10-03,2,College Square,22.579,88.363,Heavy Rain,9,335,Green
+2025-10-03,2,Deshapriya Park,22.5263,88.3642,Heavy Rain,8,180,Green
+2025-10-03,2,Kumartuli Park,22.595,88.358,Heavy Rain,7,545,Green
+2025-10-03,2,Suruchi Sangha,22.518,88.347,Heavy Rain,8,0,Green
+2025-10-03,2,Sreebhumi Sporting Club,22.578,88.421,Heavy Rain,9,510,Green
+2025-10-03,2,Ekdalia Evergreen,22.522,88.356,Heavy Rain,7,0,Green
+2025-10-03,2,Tridhara Sammilani,22.515,88.362,Heavy Rain,6,623,Green
+2025-10-03,2,Badamtala Ashar Sangha,22.535,88.345,Heavy Rain,7,201,Green
+2025-10-03,2,Naktala Udayan Sangha,22.489,88.372,Heavy Rain,6,280,Green
+2025-10-03,2,Bosepukur Sitala Mandir,22.505,88.39,Heavy Rain,6,363,Green
+2025-10-03,2,Dum Dum Park Tarun Dal,22.615,88.398,Heavy Rain,7,0,Green
+2025-10-03,2,Santosh Mitra Square,22.571,88.356,Heavy Rain,8,124,Green
+2025-10-03,2,Mohammad Ali Park,22.575,88.351,Heavy Rain,8,633,Green
+2025-10-03,2,Jodhpur Park,22.51,88.369,Heavy Rain,6,500,Green
+2025-10-03,3,Bagbazar Sarbojanin,22.5958,88.3697,Cloudy,9,894,Green
+2025-10-03,3,College Square,22.579,88.363,Cloudy,9,834,Green
+2025-10-03,3,Deshapriya Park,22.5263,88.3642,Cloudy,8,1039,Green
+2025-10-03,3,Kumartuli Park,22.595,88.358,Cloudy,7,474,Green
+2025-10-03,3,Suruchi Sangha,22.518,88.347,Cloudy,8,1142,Green
+2025-10-03,3,Sreebhumi Sporting Club,22.578,88.421,Cloudy,9,1499,Green
+2025-10-03,3,Ekdalia Evergreen,22.522,88.356,Cloudy,7,521,Green
+2025-10-03,3,Tridhara Sammilani,22.515,88.362,Cloudy,6,406,Green
+2025-10-03,3,Badamtala Ashar Sangha,22.535,88.345,Cloudy,7,1066,Green
+2025-10-03,3,Naktala Udayan Sangha,22.489,88.372,Cloudy,6,1013,Green
+2025-10-03,3,Bosepukur Sitala Mandir,22.505,88.39,Cloudy,6,383,Green
+2025-10-03,3,Dum Dum Park Tarun Dal,22.615,88.398,Cloudy,7,503,Green
+2025-10-03,3,Santosh Mitra Square,22.571,88.356,Cloudy,8,635,Green
+2025-10-03,3,Mohammad Ali Park,22.575,88.351,Cloudy,8,316,Green
+2025-10-03,3,Jodhpur Park,22.51,88.369,Cloudy,6,264,Green
+2025-10-03,4,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,319,Green
+2025-10-03,4,College Square,22.579,88.363,Clear,9,537,Green
+2025-10-03,4,Deshapriya Park,22.5263,88.3642,Clear,8,478,Green
+2025-10-03,4,Kumartuli Park,22.595,88.358,Clear,7,904,Green
+2025-10-03,4,Suruchi Sangha,22.518,88.347,Clear,8,750,Green
+2025-10-03,4,Sreebhumi Sporting Club,22.578,88.421,Clear,9,652,Green
+2025-10-03,4,Ekdalia Evergreen,22.522,88.356,Clear,7,1392,Green
+2025-10-03,4,Tridhara Sammilani,22.515,88.362,Clear,6,400,Green
+2025-10-03,4,Badamtala Ashar Sangha,22.535,88.345,Clear,7,1050,Green
+2025-10-03,4,Naktala Udayan Sangha,22.489,88.372,Clear,6,1086,Green
+2025-10-03,4,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,129,Green
+2025-10-03,4,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,722,Green
+2025-10-03,4,Santosh Mitra Square,22.571,88.356,Clear,8,644,Green
+2025-10-03,4,Mohammad Ali Park,22.575,88.351,Clear,8,620,Green
+2025-10-03,4,Jodhpur Park,22.51,88.369,Clear,6,766,Green
+2025-10-03,5,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,713,Green
+2025-10-03,5,College Square,22.579,88.363,Clear,9,1326,Green
+2025-10-03,5,Deshapriya Park,22.5263,88.3642,Clear,8,628,Green
+2025-10-03,5,Kumartuli Park,22.595,88.358,Clear,7,450,Green
+2025-10-03,5,Suruchi Sangha,22.518,88.347,Clear,8,941,Green
+2025-10-03,5,Sreebhumi Sporting Club,22.578,88.421,Clear,9,734,Green
+2025-10-03,5,Ekdalia Evergreen,22.522,88.356,Clear,7,889,Green
+2025-10-03,5,Tridhara Sammilani,22.515,88.362,Clear,6,660,Green
+2025-10-03,5,Badamtala Ashar Sangha,22.535,88.345,Clear,7,245,Green
+2025-10-03,5,Naktala Udayan Sangha,22.489,88.372,Clear,6,1064,Green
+2025-10-03,5,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,1138,Green
+2025-10-03,5,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,516,Green
+2025-10-03,5,Santosh Mitra Square,22.571,88.356,Clear,8,683,Green
+2025-10-03,5,Mohammad Ali Park,22.575,88.351,Clear,8,885,Green
+2025-10-03,5,Jodhpur Park,22.51,88.369,Clear,6,700,Green
+2025-10-03,6,Bagbazar Sarbojanin,22.5958,88.3697,Cloudy,9,2174,Green
+2025-10-03,6,College Square,22.579,88.363,Cloudy,9,2461,Green
+2025-10-03,6,Deshapriya Park,22.5263,88.3642,Cloudy,8,1635,Green
+2025-10-03,6,Kumartuli Park,22.595,88.358,Cloudy,7,1512,Green
+2025-10-03,6,Suruchi Sangha,22.518,88.347,Cloudy,8,2425,Green
+2025-10-03,6,Sreebhumi Sporting Club,22.578,88.421,Cloudy,9,2144,Green
+2025-10-03,6,Ekdalia Evergreen,22.522,88.356,Cloudy,7,1637,Green
+2025-10-03,6,Tridhara Sammilani,22.515,88.362,Cloudy,6,1617,Green
+2025-10-03,6,Badamtala Ashar Sangha,22.535,88.345,Cloudy,7,2098,Green
+2025-10-03,6,Naktala Udayan Sangha,22.489,88.372,Cloudy,6,1301,Green
+2025-10-03,6,Bosepukur Sitala Mandir,22.505,88.39,Cloudy,6,575,Green
+2025-10-03,6,Dum Dum Park Tarun Dal,22.615,88.398,Cloudy,7,1628,Green
+2025-10-03,6,Santosh Mitra Square,22.571,88.356,Cloudy,8,2521,Green
+2025-10-03,6,Mohammad Ali Park,22.575,88.351,Cloudy,8,2262,Green
+2025-10-03,6,Jodhpur Park,22.51,88.369,Cloudy,6,2017,Green
+2025-10-03,7,Bagbazar Sarbojanin,22.5958,88.3697,Cloudy,9,2090,Green
+2025-10-03,7,College Square,22.579,88.363,Cloudy,9,2605,Green
+2025-10-03,7,Deshapriya Park,22.5263,88.3642,Cloudy,8,2052,Green
+2025-10-03,7,Kumartuli Park,22.595,88.358,Cloudy,7,2067,Green
+2025-10-03,7,Suruchi Sangha,22.518,88.347,Cloudy,8,2492,Green
+2025-10-03,7,Sreebhumi Sporting Club,22.578,88.421,Cloudy,9,2676,Green
+2025-10-03,7,Ekdalia Evergreen,22.522,88.356,Cloudy,7,2042,Green
+2025-10-03,7,Tridhara Sammilani,22.515,88.362,Cloudy,6,1940,Green
+2025-10-03,7,Badamtala Ashar Sangha,22.535,88.345,Cloudy,7,2240,Green
+2025-10-03,7,Naktala Udayan Sangha,22.489,88.372,Cloudy,6,2034,Green
+2025-10-03,7,Bosepukur Sitala Mandir,22.505,88.39,Cloudy,6,1814,Green
+2025-10-03,7,Dum Dum Park Tarun Dal,22.615,88.398,Cloudy,7,1839,Green
+2025-10-03,7,Santosh Mitra Square,22.571,88.356,Cloudy,8,2204,Green
+2025-10-03,7,Mohammad Ali Park,22.575,88.351,Cloudy,8,2521,Green
+2025-10-03,7,Jodhpur Park,22.51,88.369,Cloudy,6,1374,Green
+2025-10-03,8,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,2825,Green
+2025-10-03,8,College Square,22.579,88.363,Clear,9,2820,Green
+2025-10-03,8,Deshapriya Park,22.5263,88.3642,Clear,8,2332,Green
+2025-10-03,8,Kumartuli Park,22.595,88.358,Clear,7,2101,Green
+2025-10-03,8,Suruchi Sangha,22.518,88.347,Clear,8,2645,Green
+2025-10-03,8,Sreebhumi Sporting Club,22.578,88.421,Clear,9,2253,Green
+2025-10-03,8,Ekdalia Evergreen,22.522,88.356,Clear,7,2107,Green
+2025-10-03,8,Tridhara Sammilani,22.515,88.362,Clear,6,1826,Green
+2025-10-03,8,Badamtala Ashar Sangha,22.535,88.345,Clear,7,2325,Green
+2025-10-03,8,Naktala Udayan Sangha,22.489,88.372,Clear,6,1394,Green
+2025-10-03,8,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,2248,Green
+2025-10-03,8,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,2164,Green
+2025-10-03,8,Santosh Mitra Square,22.571,88.356,Clear,8,2479,Green
+2025-10-03,8,Mohammad Ali Park,22.575,88.351,Clear,8,2279,Green
+2025-10-03,8,Jodhpur Park,22.51,88.369,Clear,6,1961,Green
+2025-10-03,9,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,2714,Green
+2025-10-03,9,College Square,22.579,88.363,Clear,9,2882,Green
+2025-10-03,9,Deshapriya Park,22.5263,88.3642,Clear,8,2455,Green
+2025-10-03,9,Kumartuli Park,22.595,88.358,Clear,7,1966,Green
+2025-10-03,9,Suruchi Sangha,22.518,88.347,Clear,8,2458,Green
+2025-10-03,9,Sreebhumi Sporting Club,22.578,88.421,Clear,9,3022,Green
+2025-10-03,9,Ekdalia Evergreen,22.522,88.356,Clear,7,1792,Green
+2025-10-03,9,Tridhara Sammilani,22.515,88.362,Clear,6,1839,Green
+2025-10-03,9,Badamtala Ashar Sangha,22.535,88.345,Clear,7,1889,Green
+2025-10-03,9,Naktala Udayan Sangha,22.489,88.372,Clear,6,2158,Green
+2025-10-03,9,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,1343,Green
+2025-10-03,9,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,1932,Green
+2025-10-03,9,Santosh Mitra Square,22.571,88.356,Clear,8,2513,Green
+2025-10-03,9,Mohammad Ali Park,22.575,88.351,Clear,8,2869,Green
+2025-10-03,9,Jodhpur Park,22.51,88.369,Clear,6,1780,Green
+2025-10-03,10,Bagbazar Sarbojanin,22.5958,88.3697,Cloudy,9,3539,Green
+2025-10-03,10,College Square,22.579,88.363,Cloudy,9,3928,Green
+2025-10-03,10,Deshapriya Park,22.5263,88.3642,Cloudy,8,3231,Green
+2025-10-03,10,Kumartuli Park,22.595,88.358,Cloudy,7,3096,Green
+2025-10-03,10,Suruchi Sangha,22.518,88.347,Cloudy,8,3794,Green
+2025-10-03,10,Sreebhumi Sporting Club,22.578,88.421,Cloudy,9,4346,Yellow
+2025-10-03,10,Ekdalia Evergreen,22.522,88.356,Cloudy,7,3486,Green
+2025-10-03,10,Tridhara Sammilani,22.515,88.362,Cloudy,6,3093,Green
+2025-10-03,10,Badamtala Ashar Sangha,22.535,88.345,Cloudy,7,3083,Green
+2025-10-03,10,Naktala Udayan Sangha,22.489,88.372,Cloudy,6,2355,Green
+2025-10-03,10,Bosepukur Sitala Mandir,22.505,88.39,Cloudy,6,2665,Green
+2025-10-03,10,Dum Dum Park Tarun Dal,22.615,88.398,Cloudy,7,3339,Green
+2025-10-03,10,Santosh Mitra Square,22.571,88.356,Cloudy,8,3231,Green
+2025-10-03,10,Mohammad Ali Park,22.575,88.351,Cloudy,8,4098,Yellow
+2025-10-03,10,Jodhpur Park,22.51,88.369,Cloudy,6,2969,Green
+2025-10-03,11,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,4438,Yellow
+2025-10-03,11,College Square,22.579,88.363,Clear,9,4124,Yellow
+2025-10-03,11,Deshapriya Park,22.5263,88.3642,Clear,8,4433,Yellow
+2025-10-03,11,Kumartuli Park,22.595,88.358,Clear,7,3475,Green
+2025-10-03,11,Suruchi Sangha,22.518,88.347,Clear,8,4335,Yellow
+2025-10-03,11,Sreebhumi Sporting Club,22.578,88.421,Clear,9,4602,Yellow
+2025-10-03,11,Ekdalia Evergreen,22.522,88.356,Clear,7,3637,Green
+2025-10-03,11,Tridhara Sammilani,22.515,88.362,Clear,6,3170,Green
+2025-10-03,11,Badamtala Ashar Sangha,22.535,88.345,Clear,7,3634,Green
+2025-10-03,11,Naktala Udayan Sangha,22.489,88.372,Clear,6,3192,Green
+2025-10-03,11,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,3398,Green
+2025-10-03,11,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,3558,Green
+2025-10-03,11,Santosh Mitra Square,22.571,88.356,Clear,8,4212,Yellow
+2025-10-03,11,Mohammad Ali Park,22.575,88.351,Clear,8,3973,Green
+2025-10-03,11,Jodhpur Park,22.51,88.369,Clear,6,3432,Green
+2025-10-03,12,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,4612,Yellow
+2025-10-03,12,College Square,22.579,88.363,Clear,9,4272,Yellow
+2025-10-03,12,Deshapriya Park,22.5263,88.3642,Clear,8,3592,Green
+2025-10-03,12,Kumartuli Park,22.595,88.358,Clear,7,3405,Green
+2025-10-03,12,Suruchi Sangha,22.518,88.347,Clear,8,3777,Green
+2025-10-03,12,Sreebhumi Sporting Club,22.578,88.421,Clear,9,4495,Yellow
+2025-10-03,12,Ekdalia Evergreen,22.522,88.356,Clear,7,3022,Green
+2025-10-03,12,Tridhara Sammilani,22.515,88.362,Clear,6,3169,Green
+2025-10-03,12,Badamtala Ashar Sangha,22.535,88.345,Clear,7,3309,Green
+2025-10-03,12,Naktala Udayan Sangha,22.489,88.372,Clear,6,3298,Green
+2025-10-03,12,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,2916,Green
+2025-10-03,12,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,3492,Green
+2025-10-03,12,Santosh Mitra Square,22.571,88.356,Clear,8,3948,Green
+2025-10-03,12,Mohammad Ali Park,22.575,88.351,Clear,8,3793,Green
+2025-10-03,12,Jodhpur Park,22.51,88.369,Clear,6,3741,Green
+2025-10-03,13,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,4351,Yellow
+2025-10-03,13,College Square,22.579,88.363,Clear,9,4735,Yellow
+2025-10-03,13,Deshapriya Park,22.5263,88.3642,Clear,8,4127,Yellow
+2025-10-03,13,Kumartuli Park,22.595,88.358,Clear,7,3209,Green
+2025-10-03,13,Suruchi Sangha,22.518,88.347,Clear,8,3985,Green
+2025-10-03,13,Sreebhumi Sporting Club,22.578,88.421,Clear,9,4498,Yellow
+2025-10-03,13,Ekdalia Evergreen,22.522,88.356,Clear,7,3152,Green
+2025-10-03,13,Tridhara Sammilani,22.515,88.362,Clear,6,3451,Green
+2025-10-03,13,Badamtala Ashar Sangha,22.535,88.345,Clear,7,3763,Green
+2025-10-03,13,Naktala Udayan Sangha,22.489,88.372,Clear,6,2933,Green
+2025-10-03,13,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,3008,Green
+2025-10-03,13,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,3562,Green
+2025-10-03,13,Santosh Mitra Square,22.571,88.356,Clear,8,3387,Green
+2025-10-03,13,Mohammad Ali Park,22.575,88.351,Clear,8,3925,Green
+2025-10-03,13,Jodhpur Park,22.51,88.369,Clear,6,2795,Green
+2025-10-03,14,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,6246,Yellow
+2025-10-03,14,College Square,22.579,88.363,Clear,9,6080,Yellow
+2025-10-03,14,Deshapriya Park,22.5263,88.3642,Clear,8,5658,Yellow
+2025-10-03,14,Kumartuli Park,22.595,88.358,Clear,7,4581,Yellow
+2025-10-03,14,Suruchi Sangha,22.518,88.347,Clear,8,5896,Yellow
+2025-10-03,14,Sreebhumi Sporting Club,22.578,88.421,Clear,9,6486,Yellow
+2025-10-03,14,Ekdalia Evergreen,22.522,88.356,Clear,7,4751,Yellow
+2025-10-03,14,Tridhara Sammilani,22.515,88.362,Clear,6,4066,Yellow
+2025-10-03,14,Badamtala Ashar Sangha,22.535,88.345,Clear,7,4982,Yellow
+2025-10-03,14,Naktala Udayan Sangha,22.489,88.372,Clear,6,3960,Green
+2025-10-03,14,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,4743,Yellow
+2025-10-03,14,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,5007,Yellow
+2025-10-03,14,Santosh Mitra Square,22.571,88.356,Clear,8,5717,Yellow
+2025-10-03,14,Mohammad Ali Park,22.575,88.351,Clear,8,5804,Yellow
+2025-10-03,14,Jodhpur Park,22.51,88.369,Clear,6,4026,Yellow
+2025-10-03,15,Bagbazar Sarbojanin,22.5958,88.3697,Light Rain,9,4736,Yellow
+2025-10-03,15,College Square,22.579,88.363,Light Rain,9,4805,Yellow
+2025-10-03,15,Deshapriya Park,22.5263,88.3642,Light Rain,8,3979,Green
+2025-10-03,15,Kumartuli Park,22.595,88.358,Light Rain,7,4052,Yellow
+2025-10-03,15,Suruchi Sangha,22.518,88.347,Light Rain,8,3713,Green
+2025-10-03,15,Sreebhumi Sporting Club,22.578,88.421,Light Rain,9,4930,Yellow
+2025-10-03,15,Ekdalia Evergreen,22.522,88.356,Light Rain,7,3489,Green
+2025-10-03,15,Tridhara Sammilani,22.515,88.362,Light Rain,6,2744,Green
+2025-10-03,15,Badamtala Ashar Sangha,22.535,88.345,Light Rain,7,3284,Green
+2025-10-03,15,Naktala Udayan Sangha,22.489,88.372,Light Rain,6,2843,Green
+2025-10-03,15,Bosepukur Sitala Mandir,22.505,88.39,Light Rain,6,3067,Green
+2025-10-03,15,Dum Dum Park Tarun Dal,22.615,88.398,Light Rain,7,3586,Green
+2025-10-03,15,Santosh Mitra Square,22.571,88.356,Light Rain,8,3747,Green
+2025-10-03,15,Mohammad Ali Park,22.575,88.351,Light Rain,8,3912,Green
+2025-10-03,15,Jodhpur Park,22.51,88.369,Light Rain,6,3582,Green
+2025-10-03,16,Bagbazar Sarbojanin,22.5958,88.3697,Cloudy,9,5390,Yellow
+2025-10-03,16,College Square,22.579,88.363,Cloudy,9,5895,Yellow
+2025-10-03,16,Deshapriya Park,22.5263,88.3642,Cloudy,8,4701,Yellow
+2025-10-03,16,Kumartuli Park,22.595,88.358,Cloudy,7,4579,Yellow
+2025-10-03,16,Suruchi Sangha,22.518,88.347,Cloudy,8,4889,Yellow
+2025-10-03,16,Sreebhumi Sporting Club,22.578,88.421,Cloudy,9,5733,Yellow
+2025-10-03,16,Ekdalia Evergreen,22.522,88.356,Cloudy,7,4737,Yellow
+2025-10-03,16,Tridhara Sammilani,22.515,88.362,Cloudy,6,3746,Green
+2025-10-03,16,Badamtala Ashar Sangha,22.535,88.345,Cloudy,7,4689,Yellow
+2025-10-03,16,Naktala Udayan Sangha,22.489,88.372,Cloudy,6,4041,Yellow
+2025-10-03,16,Bosepukur Sitala Mandir,22.505,88.39,Cloudy,6,3220,Green
+2025-10-03,16,Dum Dum Park Tarun Dal,22.615,88.398,Cloudy,7,4139,Yellow
+2025-10-03,16,Santosh Mitra Square,22.571,88.356,Cloudy,8,4571,Yellow
+2025-10-03,16,Mohammad Ali Park,22.575,88.351,Cloudy,8,5640,Yellow
+2025-10-03,16,Jodhpur Park,22.51,88.369,Cloudy,6,3748,Green
+2025-10-03,17,Bagbazar Sarbojanin,22.5958,88.3697,Light Rain,9,4944,Yellow
+2025-10-03,17,College Square,22.579,88.363,Light Rain,9,4358,Yellow
+2025-10-03,17,Deshapriya Park,22.5263,88.3642,Light Rain,8,4185,Yellow
+2025-10-03,17,Kumartuli Park,22.595,88.358,Light Rain,7,3625,Green
+2025-10-03,17,Suruchi Sangha,22.518,88.347,Light Rain,8,3447,Green
+2025-10-03,17,Sreebhumi Sporting Club,22.578,88.421,Light Rain,9,4852,Yellow
+2025-10-03,17,Ekdalia Evergreen,22.522,88.356,Light Rain,7,3844,Green
+2025-10-03,17,Tridhara Sammilani,22.515,88.362,Light Rain,6,2752,Green
+2025-10-03,17,Badamtala Ashar Sangha,22.535,88.345,Light Rain,7,3548,Green
+2025-10-03,17,Naktala Udayan Sangha,22.489,88.372,Light Rain,6,3088,Green
+2025-10-03,17,Bosepukur Sitala Mandir,22.505,88.39,Light Rain,6,3018,Green
+2025-10-03,17,Dum Dum Park Tarun Dal,22.615,88.398,Light Rain,7,3264,Green
+2025-10-03,17,Santosh Mitra Square,22.571,88.356,Light Rain,8,3718,Green
+2025-10-03,17,Mohammad Ali Park,22.575,88.351,Light Rain,8,3912,Green
+2025-10-03,17,Jodhpur Park,22.51,88.369,Light Rain,6,3291,Green
+2025-10-03,18,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,8952,Red
+2025-10-03,18,College Square,22.579,88.363,Clear,9,9318,Red
+2025-10-03,18,Deshapriya Park,22.5263,88.3642,Clear,8,7329,Red
+2025-10-03,18,Kumartuli Park,22.595,88.358,Clear,7,7070,Red
+2025-10-03,18,Suruchi Sangha,22.518,88.347,Clear,8,7653,Red
+2025-10-03,18,Sreebhumi Sporting Club,22.578,88.421,Clear,9,9095,Red
+2025-10-03,18,Ekdalia Evergreen,22.522,88.356,Clear,7,7112,Red
+2025-10-03,18,Tridhara Sammilani,22.515,88.362,Clear,6,5973,Yellow
+2025-10-03,18,Badamtala Ashar Sangha,22.535,88.345,Clear,7,7242,Red
+2025-10-03,18,Naktala Udayan Sangha,22.489,88.372,Clear,6,5626,Yellow
+2025-10-03,18,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,6332,Yellow
+2025-10-03,18,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,6787,Yellow
+2025-10-03,18,Santosh Mitra Square,22.571,88.356,Clear,8,7533,Red
+2025-10-03,18,Mohammad Ali Park,22.575,88.351,Clear,8,7918,Red
+2025-10-03,18,Jodhpur Park,22.51,88.369,Clear,6,5371,Yellow
+2025-10-03,19,Bagbazar Sarbojanin,22.5958,88.3697,Light Rain,9,6376,Yellow
+2025-10-03,19,College Square,22.579,88.363,Light Rain,9,5833,Yellow
+2025-10-03,19,Deshapriya Park,22.5263,88.3642,Light Rain,8,5471,Yellow
+2025-10-03,19,Kumartuli Park,22.595,88.358,Light Rain,7,5350,Yellow
+2025-10-03,19,Suruchi Sangha,22.518,88.347,Light Rain,8,5855,Yellow
+2025-10-03,19,Sreebhumi Sporting Club,22.578,88.421,Light Rain,9,6195,Yellow
+2025-10-03,19,Ekdalia Evergreen,22.522,88.356,Light Rain,7,4795,Yellow
+2025-10-03,19,Tridhara Sammilani,22.515,88.362,Light Rain,6,4103,Yellow
+2025-10-03,19,Badamtala Ashar Sangha,22.535,88.345,Light Rain,7,5523,Yellow
+2025-10-03,19,Naktala Udayan Sangha,22.489,88.372,Light Rain,6,4314,Yellow
+2025-10-03,19,Bosepukur Sitala Mandir,22.505,88.39,Light Rain,6,4329,Yellow
+2025-10-03,19,Dum Dum Park Tarun Dal,22.615,88.398,Light Rain,7,5209,Yellow
+2025-10-03,19,Santosh Mitra Square,22.571,88.356,Light Rain,8,5671,Yellow
+2025-10-03,19,Mohammad Ali Park,22.575,88.351,Light Rain,8,5522,Yellow
+2025-10-03,19,Jodhpur Park,22.51,88.369,Light Rain,6,4141,Yellow
+2025-10-03,20,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,9014,Red
+2025-10-03,20,College Square,22.579,88.363,Clear,9,8793,Red
+2025-10-03,20,Deshapriya Park,22.5263,88.3642,Clear,8,7960,Red
+2025-10-03,20,Kumartuli Park,22.595,88.358,Clear,7,6689,Yellow
+2025-10-03,20,Suruchi Sangha,22.518,88.347,Clear,8,7943,Red
+2025-10-03,20,Sreebhumi Sporting Club,22.578,88.421,Clear,9,9134,Red
+2025-10-03,20,Ekdalia Evergreen,22.522,88.356,Clear,7,6823,Yellow
+2025-10-03,20,Tridhara Sammilani,22.515,88.362,Clear,6,6002,Yellow
+2025-10-03,20,Badamtala Ashar Sangha,22.535,88.345,Clear,7,7041,Red
+2025-10-03,20,Naktala Udayan Sangha,22.489,88.372,Clear,6,6135,Yellow
+2025-10-03,20,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,5959,Yellow
+2025-10-03,20,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,7325,Red
+2025-10-03,20,Santosh Mitra Square,22.571,88.356,Clear,8,7369,Red
+2025-10-03,20,Mohammad Ali Park,22.575,88.351,Clear,8,8881,Red
+2025-10-03,20,Jodhpur Park,22.51,88.369,Clear,6,5738,Yellow
+2025-10-03,21,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,9121,Red
+2025-10-03,21,College Square,22.579,88.363,Clear,9,9332,Red
+2025-10-03,21,Deshapriya Park,22.5263,88.3642,Clear,8,7688,Red
+2025-10-03,21,Kumartuli Park,22.595,88.358,Clear,7,7183,Red
+2025-10-03,21,Suruchi Sangha,22.518,88.347,Clear,8,7683,Red
+2025-10-03,21,Sreebhumi Sporting Club,22.578,88.421,Clear,9,8812,Red
+2025-10-03,21,Ekdalia Evergreen,22.522,88.356,Clear,7,7574,Red
+2025-10-03,21,Tridhara Sammilani,22.515,88.362,Clear,6,5942,Yellow
+2025-10-03,21,Badamtala Ashar Sangha,22.535,88.345,Clear,7,7065,Red
+2025-10-03,21,Naktala Udayan Sangha,22.489,88.372,Clear,6,6261,Yellow
+2025-10-03,21,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,6148,Yellow
+2025-10-03,21,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,7045,Red
+2025-10-03,21,Santosh Mitra Square,22.571,88.356,Clear,8,8109,Red
+2025-10-03,21,Mohammad Ali Park,22.575,88.351,Clear,8,8721,Red
+2025-10-03,21,Jodhpur Park,22.51,88.369,Clear,6,5982,Yellow
+2025-10-03,22,Bagbazar Sarbojanin,22.5958,88.3697,Light Rain,9,3645,Green
+2025-10-03,22,College Square,22.579,88.363,Light Rain,9,3800,Green
+2025-10-03,22,Deshapriya Park,22.5263,88.3642,Light Rain,8,3419,Green
+2025-10-03,22,Kumartuli Park,22.595,88.358,Light Rain,7,3074,Green
+2025-10-03,22,Suruchi Sangha,22.518,88.347,Light Rain,8,3037,Green
+2025-10-03,22,Sreebhumi Sporting Club,22.578,88.421,Light Rain,9,3980,Green
+2025-10-03,22,Ekdalia Evergreen,22.522,88.356,Light Rain,7,2613,Green
+2025-10-03,22,Tridhara Sammilani,22.515,88.362,Light Rain,6,3009,Green
+2025-10-03,22,Badamtala Ashar Sangha,22.535,88.345,Light Rain,7,2708,Green
+2025-10-03,22,Naktala Udayan Sangha,22.489,88.372,Light Rain,6,2608,Green
+2025-10-03,22,Bosepukur Sitala Mandir,22.505,88.39,Light Rain,6,2821,Green
+2025-10-03,22,Dum Dum Park Tarun Dal,22.615,88.398,Light Rain,7,2864,Green
+2025-10-03,22,Santosh Mitra Square,22.571,88.356,Light Rain,8,3462,Green
+2025-10-03,22,Mohammad Ali Park,22.575,88.351,Light Rain,8,3790,Green
+2025-10-03,22,Jodhpur Park,22.51,88.369,Light Rain,6,2689,Green
+2025-10-03,23,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,5506,Yellow
+2025-10-03,23,College Square,22.579,88.363,Clear,9,5756,Yellow
+2025-10-03,23,Deshapriya Park,22.5263,88.3642,Clear,8,4431,Yellow
+2025-10-03,23,Kumartuli Park,22.595,88.358,Clear,7,4379,Yellow
+2025-10-03,23,Suruchi Sangha,22.518,88.347,Clear,8,5010,Yellow
+2025-10-03,23,Sreebhumi Sporting Club,22.578,88.421,Clear,9,5310,Yellow
+2025-10-03,23,Ekdalia Evergreen,22.522,88.356,Clear,7,4612,Yellow
+2025-10-03,23,Tridhara Sammilani,22.515,88.362,Clear,6,3554,Green
+2025-10-03,23,Badamtala Ashar Sangha,22.535,88.345,Clear,7,4237,Yellow
+2025-10-03,23,Naktala Udayan Sangha,22.489,88.372,Clear,6,3548,Green
+2025-10-03,23,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,3604,Green
+2025-10-03,23,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,3871,Green
+2025-10-03,23,Santosh Mitra Square,22.571,88.356,Clear,8,4367,Yellow
+2025-10-03,23,Mohammad Ali Park,22.575,88.351,Clear,8,5278,Yellow
+2025-10-03,23,Jodhpur Park,22.51,88.369,Clear,6,3345,Green
+2025-10-04,0,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,254,Green
+2025-10-04,0,College Square,22.579,88.363,Clear,9,628,Green
+2025-10-04,0,Deshapriya Park,22.5263,88.3642,Clear,8,252,Green
+2025-10-04,0,Kumartuli Park,22.595,88.358,Clear,7,379,Green
+2025-10-04,0,Suruchi Sangha,22.518,88.347,Clear,8,690,Green
+2025-10-04,0,Sreebhumi Sporting Club,22.578,88.421,Clear,9,509,Green
+2025-10-04,0,Ekdalia Evergreen,22.522,88.356,Clear,7,886,Green
+2025-10-04,0,Tridhara Sammilani,22.515,88.362,Clear,6,940,Green
+2025-10-04,0,Badamtala Ashar Sangha,22.535,88.345,Clear,7,0,Green
+2025-10-04,0,Naktala Udayan Sangha,22.489,88.372,Clear,6,275,Green
+2025-10-04,0,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,497,Green
+2025-10-04,0,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,897,Green
+2025-10-04,0,Santosh Mitra Square,22.571,88.356,Clear,8,503,Green
+2025-10-04,0,Mohammad Ali Park,22.575,88.351,Clear,8,634,Green
+2025-10-04,0,Jodhpur Park,22.51,88.369,Clear,6,132,Green
+2025-10-04,1,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,260,Green
+2025-10-04,1,College Square,22.579,88.363,Clear,9,1026,Green
+2025-10-04,1,Deshapriya Park,22.5263,88.3642,Clear,8,1371,Green
+2025-10-04,1,Kumartuli Park,22.595,88.358,Clear,7,975,Green
+2025-10-04,1,Suruchi Sangha,22.518,88.347,Clear,8,809,Green
+2025-10-04,1,Sreebhumi Sporting Club,22.578,88.421,Clear,9,898,Green
+2025-10-04,1,Ekdalia Evergreen,22.522,88.356,Clear,7,816,Green
+2025-10-04,1,Tridhara Sammilani,22.515,88.362,Clear,6,707,Green
+2025-10-04,1,Badamtala Ashar Sangha,22.535,88.345,Clear,7,644,Green
+2025-10-04,1,Naktala Udayan Sangha,22.489,88.372,Clear,6,511,Green
+2025-10-04,1,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,461,Green
+2025-10-04,1,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,333,Green
+2025-10-04,1,Santosh Mitra Square,22.571,88.356,Clear,8,555,Green
+2025-10-04,1,Mohammad Ali Park,22.575,88.351,Clear,8,132,Green
+2025-10-04,1,Jodhpur Park,22.51,88.369,Clear,6,450,Green
+2025-10-04,2,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,1011,Green
+2025-10-04,2,College Square,22.579,88.363,Clear,9,534,Green
+2025-10-04,2,Deshapriya Park,22.5263,88.3642,Clear,8,66,Green
+2025-10-04,2,Kumartuli Park,22.595,88.358,Clear,7,679,Green
+2025-10-04,2,Suruchi Sangha,22.518,88.347,Clear,8,1094,Green
+2025-10-04,2,Sreebhumi Sporting Club,22.578,88.421,Clear,9,951,Green
+2025-10-04,2,Ekdalia Evergreen,22.522,88.356,Clear,7,379,Green
+2025-10-04,2,Tridhara Sammilani,22.515,88.362,Clear,6,3,Green
+2025-10-04,2,Badamtala Ashar Sangha,22.535,88.345,Clear,7,519,Green
+2025-10-04,2,Naktala Udayan Sangha,22.489,88.372,Clear,6,432,Green
+2025-10-04,2,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,189,Green
+2025-10-04,2,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,725,Green
+2025-10-04,2,Santosh Mitra Square,22.571,88.356,Clear,8,1193,Green
+2025-10-04,2,Mohammad Ali Park,22.575,88.351,Clear,8,706,Green
+2025-10-04,2,Jodhpur Park,22.51,88.369,Clear,6,528,Green
+2025-10-04,3,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,438,Green
+2025-10-04,3,College Square,22.579,88.363,Clear,9,714,Green
+2025-10-04,3,Deshapriya Park,22.5263,88.3642,Clear,8,805,Green
+2025-10-04,3,Kumartuli Park,22.595,88.358,Clear,7,627,Green
+2025-10-04,3,Suruchi Sangha,22.518,88.347,Clear,8,1049,Green
+2025-10-04,3,Sreebhumi Sporting Club,22.578,88.421,Clear,9,757,Green
+2025-10-04,3,Ekdalia Evergreen,22.522,88.356,Clear,7,431,Green
+2025-10-04,3,Tridhara Sammilani,22.515,88.362,Clear,6,516,Green
+2025-10-04,3,Badamtala Ashar Sangha,22.535,88.345,Clear,7,722,Green
+2025-10-04,3,Naktala Udayan Sangha,22.489,88.372,Clear,6,494,Green
+2025-10-04,3,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,492,Green
+2025-10-04,3,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,349,Green
+2025-10-04,3,Santosh Mitra Square,22.571,88.356,Clear,8,441,Green
+2025-10-04,3,Mohammad Ali Park,22.575,88.351,Clear,8,219,Green
+2025-10-04,3,Jodhpur Park,22.51,88.369,Clear,6,1004,Green
+2025-10-04,4,Bagbazar Sarbojanin,22.5958,88.3697,Light Rain,9,421,Green
+2025-10-04,4,College Square,22.579,88.363,Light Rain,9,729,Green
+2025-10-04,4,Deshapriya Park,22.5263,88.3642,Light Rain,8,672,Green
+2025-10-04,4,Kumartuli Park,22.595,88.358,Light Rain,7,181,Green
+2025-10-04,4,Suruchi Sangha,22.518,88.347,Light Rain,8,688,Green
+2025-10-04,4,Sreebhumi Sporting Club,22.578,88.421,Light Rain,9,335,Green
+2025-10-04,4,Ekdalia Evergreen,22.522,88.356,Light Rain,7,937,Green
+2025-10-04,4,Tridhara Sammilani,22.515,88.362,Light Rain,6,87,Green
+2025-10-04,4,Badamtala Ashar Sangha,22.535,88.345,Light Rain,7,463,Green
+2025-10-04,4,Naktala Udayan Sangha,22.489,88.372,Light Rain,6,101,Green
+2025-10-04,4,Bosepukur Sitala Mandir,22.505,88.39,Light Rain,6,1002,Green
+2025-10-04,4,Dum Dum Park Tarun Dal,22.615,88.398,Light Rain,7,20,Green
+2025-10-04,4,Santosh Mitra Square,22.571,88.356,Light Rain,8,605,Green
+2025-10-04,4,Mohammad Ali Park,22.575,88.351,Light Rain,8,227,Green
+2025-10-04,4,Jodhpur Park,22.51,88.369,Light Rain,6,229,Green
+2025-10-04,5,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,856,Green
+2025-10-04,5,College Square,22.579,88.363,Clear,9,733,Green
+2025-10-04,5,Deshapriya Park,22.5263,88.3642,Clear,8,595,Green
+2025-10-04,5,Kumartuli Park,22.595,88.358,Clear,7,849,Green
+2025-10-04,5,Suruchi Sangha,22.518,88.347,Clear,8,1303,Green
+2025-10-04,5,Sreebhumi Sporting Club,22.578,88.421,Clear,9,552,Green
+2025-10-04,5,Ekdalia Evergreen,22.522,88.356,Clear,7,149,Green
+2025-10-04,5,Tridhara Sammilani,22.515,88.362,Clear,6,453,Green
+2025-10-04,5,Badamtala Ashar Sangha,22.535,88.345,Clear,7,1333,Green
+2025-10-04,5,Naktala Udayan Sangha,22.489,88.372,Clear,6,238,Green
+2025-10-04,5,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,971,Green
+2025-10-04,5,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,1063,Green
+2025-10-04,5,Santosh Mitra Square,22.571,88.356,Clear,8,473,Green
+2025-10-04,5,Mohammad Ali Park,22.575,88.351,Clear,8,810,Green
+2025-10-04,5,Jodhpur Park,22.51,88.369,Clear,6,968,Green
+2025-10-04,6,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,1829,Green
+2025-10-04,6,College Square,22.579,88.363,Clear,9,1946,Green
+2025-10-04,6,Deshapriya Park,22.5263,88.3642,Clear,8,1744,Green
+2025-10-04,6,Kumartuli Park,22.595,88.358,Clear,7,1620,Green
+2025-10-04,6,Suruchi Sangha,22.518,88.347,Clear,8,1692,Green
+2025-10-04,6,Sreebhumi Sporting Club,22.578,88.421,Clear,9,2170,Green
+2025-10-04,6,Ekdalia Evergreen,22.522,88.356,Clear,7,1493,Green
+2025-10-04,6,Tridhara Sammilani,22.515,88.362,Clear,6,1650,Green
+2025-10-04,6,Badamtala Ashar Sangha,22.535,88.345,Clear,7,1989,Green
+2025-10-04,6,Naktala Udayan Sangha,22.489,88.372,Clear,6,1472,Green
+2025-10-04,6,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,1578,Green
+2025-10-04,6,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,2315,Green
+2025-10-04,6,Santosh Mitra Square,22.571,88.356,Clear,8,1568,Green
+2025-10-04,6,Mohammad Ali Park,22.575,88.351,Clear,8,1549,Green
+2025-10-04,6,Jodhpur Park,22.51,88.369,Clear,6,1648,Green
+2025-10-04,7,Bagbazar Sarbojanin,22.5958,88.3697,Cloudy,9,2527,Green
+2025-10-04,7,College Square,22.579,88.363,Cloudy,9,1732,Green
+2025-10-04,7,Deshapriya Park,22.5263,88.3642,Cloudy,8,1711,Green
+2025-10-04,7,Kumartuli Park,22.595,88.358,Cloudy,7,1679,Green
+2025-10-04,7,Suruchi Sangha,22.518,88.347,Cloudy,8,1750,Green
+2025-10-04,7,Sreebhumi Sporting Club,22.578,88.421,Cloudy,9,2105,Green
+2025-10-04,7,Ekdalia Evergreen,22.522,88.356,Cloudy,7,1235,Green
+2025-10-04,7,Tridhara Sammilani,22.515,88.362,Cloudy,6,1346,Green
+2025-10-04,7,Badamtala Ashar Sangha,22.535,88.345,Cloudy,7,1087,Green
+2025-10-04,7,Naktala Udayan Sangha,22.489,88.372,Cloudy,6,1262,Green
+2025-10-04,7,Bosepukur Sitala Mandir,22.505,88.39,Cloudy,6,1024,Green
+2025-10-04,7,Dum Dum Park Tarun Dal,22.615,88.398,Cloudy,7,1291,Green
+2025-10-04,7,Santosh Mitra Square,22.571,88.356,Cloudy,8,2098,Green
+2025-10-04,7,Mohammad Ali Park,22.575,88.351,Cloudy,8,2055,Green
+2025-10-04,7,Jodhpur Park,22.51,88.369,Cloudy,6,1478,Green
+2025-10-04,8,Bagbazar Sarbojanin,22.5958,88.3697,Heavy Rain,9,703,Green
+2025-10-04,8,College Square,22.579,88.363,Heavy Rain,9,441,Green
+2025-10-04,8,Deshapriya Park,22.5263,88.3642,Heavy Rain,8,789,Green
+2025-10-04,8,Kumartuli Park,22.595,88.358,Heavy Rain,7,906,Green
+2025-10-04,8,Suruchi Sangha,22.518,88.347,Heavy Rain,8,790,Green
+2025-10-04,8,Sreebhumi Sporting Club,22.578,88.421,Heavy Rain,9,1232,Green
+2025-10-04,8,Ekdalia Evergreen,22.522,88.356,Heavy Rain,7,447,Green
+2025-10-04,8,Tridhara Sammilani,22.515,88.362,Heavy Rain,6,643,Green
+2025-10-04,8,Badamtala Ashar Sangha,22.535,88.345,Heavy Rain,7,513,Green
+2025-10-04,8,Naktala Udayan Sangha,22.489,88.372,Heavy Rain,6,684,Green
+2025-10-04,8,Bosepukur Sitala Mandir,22.505,88.39,Heavy Rain,6,727,Green
+2025-10-04,8,Dum Dum Park Tarun Dal,22.615,88.398,Heavy Rain,7,846,Green
+2025-10-04,8,Santosh Mitra Square,22.571,88.356,Heavy Rain,8,446,Green
+2025-10-04,8,Mohammad Ali Park,22.575,88.351,Heavy Rain,8,501,Green
+2025-10-04,8,Jodhpur Park,22.51,88.369,Heavy Rain,6,364,Green
+2025-10-04,9,Bagbazar Sarbojanin,22.5958,88.3697,Heavy Rain,9,792,Green
+2025-10-04,9,College Square,22.579,88.363,Heavy Rain,9,313,Green
+2025-10-04,9,Deshapriya Park,22.5263,88.3642,Heavy Rain,8,920,Green
+2025-10-04,9,Kumartuli Park,22.595,88.358,Heavy Rain,7,340,Green
+2025-10-04,9,Suruchi Sangha,22.518,88.347,Heavy Rain,8,122,Green
+2025-10-04,9,Sreebhumi Sporting Club,22.578,88.421,Heavy Rain,9,980,Green
+2025-10-04,9,Ekdalia Evergreen,22.522,88.356,Heavy Rain,7,1419,Green
+2025-10-04,9,Tridhara Sammilani,22.515,88.362,Heavy Rain,6,574,Green
+2025-10-04,9,Badamtala Ashar Sangha,22.535,88.345,Heavy Rain,7,923,Green
+2025-10-04,9,Naktala Udayan Sangha,22.489,88.372,Heavy Rain,6,600,Green
+2025-10-04,9,Bosepukur Sitala Mandir,22.505,88.39,Heavy Rain,6,546,Green
+2025-10-04,9,Dum Dum Park Tarun Dal,22.615,88.398,Heavy Rain,7,947,Green
+2025-10-04,9,Santosh Mitra Square,22.571,88.356,Heavy Rain,8,680,Green
+2025-10-04,9,Mohammad Ali Park,22.575,88.351,Heavy Rain,8,848,Green
+2025-10-04,9,Jodhpur Park,22.51,88.369,Heavy Rain,6,672,Green
+2025-10-04,10,Bagbazar Sarbojanin,22.5958,88.3697,Light Rain,9,2367,Green
+2025-10-04,10,College Square,22.579,88.363,Light Rain,9,2449,Green
+2025-10-04,10,Deshapriya Park,22.5263,88.3642,Light Rain,8,1883,Green
+2025-10-04,10,Kumartuli Park,22.595,88.358,Light Rain,7,1854,Green
+2025-10-04,10,Suruchi Sangha,22.518,88.347,Light Rain,8,1929,Green
+2025-10-04,10,Sreebhumi Sporting Club,22.578,88.421,Light Rain,9,2913,Green
+2025-10-04,10,Ekdalia Evergreen,22.522,88.356,Light Rain,7,1975,Green
+2025-10-04,10,Tridhara Sammilani,22.515,88.362,Light Rain,6,1731,Green
+2025-10-04,10,Badamtala Ashar Sangha,22.535,88.345,Light Rain,7,1892,Green
+2025-10-04,10,Naktala Udayan Sangha,22.489,88.372,Light Rain,6,1739,Green
+2025-10-04,10,Bosepukur Sitala Mandir,22.505,88.39,Light Rain,6,2419,Green
+2025-10-04,10,Dum Dum Park Tarun Dal,22.615,88.398,Light Rain,7,1869,Green
+2025-10-04,10,Santosh Mitra Square,22.571,88.356,Light Rain,8,2044,Green
+2025-10-04,10,Mohammad Ali Park,22.575,88.351,Light Rain,8,2398,Green
+2025-10-04,10,Jodhpur Park,22.51,88.369,Light Rain,6,922,Green
+2025-10-04,11,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,3619,Green
+2025-10-04,11,College Square,22.579,88.363,Clear,9,3417,Green
+2025-10-04,11,Deshapriya Park,22.5263,88.3642,Clear,8,3143,Green
+2025-10-04,11,Kumartuli Park,22.595,88.358,Clear,7,2816,Green
+2025-10-04,11,Suruchi Sangha,22.518,88.347,Clear,8,3358,Green
+2025-10-04,11,Sreebhumi Sporting Club,22.578,88.421,Clear,9,3578,Green
+2025-10-04,11,Ekdalia Evergreen,22.522,88.356,Clear,7,2945,Green
+2025-10-04,11,Tridhara Sammilani,22.515,88.362,Clear,6,2419,Green
+2025-10-04,11,Badamtala Ashar Sangha,22.535,88.345,Clear,7,2207,Green
+2025-10-04,11,Naktala Udayan Sangha,22.489,88.372,Clear,6,2118,Green
+2025-10-04,11,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,2356,Green
+2025-10-04,11,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,2437,Green
+2025-10-04,11,Santosh Mitra Square,22.571,88.356,Clear,8,3379,Green
+2025-10-04,11,Mohammad Ali Park,22.575,88.351,Clear,8,3659,Green
+2025-10-04,11,Jodhpur Park,22.51,88.369,Clear,6,2765,Green
+2025-10-04,12,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,3393,Green
+2025-10-04,12,College Square,22.579,88.363,Clear,9,3581,Green
+2025-10-04,12,Deshapriya Park,22.5263,88.3642,Clear,8,3030,Green
+2025-10-04,12,Kumartuli Park,22.595,88.358,Clear,7,2676,Green
+2025-10-04,12,Suruchi Sangha,22.518,88.347,Clear,8,3089,Green
+2025-10-04,12,Sreebhumi Sporting Club,22.578,88.421,Clear,9,3387,Green
+2025-10-04,12,Ekdalia Evergreen,22.522,88.356,Clear,7,2890,Green
+2025-10-04,12,Tridhara Sammilani,22.515,88.362,Clear,6,2211,Green
+2025-10-04,12,Badamtala Ashar Sangha,22.535,88.345,Clear,7,2804,Green
+2025-10-04,12,Naktala Udayan Sangha,22.489,88.372,Clear,6,2181,Green
+2025-10-04,12,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,1939,Green
+2025-10-04,12,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,3073,Green
+2025-10-04,12,Santosh Mitra Square,22.571,88.356,Clear,8,3349,Green
+2025-10-04,12,Mohammad Ali Park,22.575,88.351,Clear,8,3886,Green
+2025-10-04,12,Jodhpur Park,22.51,88.369,Clear,6,2086,Green
+2025-10-04,13,Bagbazar Sarbojanin,22.5958,88.3697,Light Rain,9,2457,Green
+2025-10-04,13,College Square,22.579,88.363,Light Rain,9,2109,Green
+2025-10-04,13,Deshapriya Park,22.5263,88.3642,Light Rain,8,2172,Green
+2025-10-04,13,Kumartuli Park,22.595,88.358,Light Rain,7,1608,Green
+2025-10-04,13,Suruchi Sangha,22.518,88.347,Light Rain,8,1699,Green
+2025-10-04,13,Sreebhumi Sporting Club,22.578,88.421,Light Rain,9,2682,Green
+2025-10-04,13,Ekdalia Evergreen,22.522,88.356,Light Rain,7,2187,Green
+2025-10-04,13,Tridhara Sammilani,22.515,88.362,Light Rain,6,1507,Green
+2025-10-04,13,Badamtala Ashar Sangha,22.535,88.345,Light Rain,7,1182,Green
+2025-10-04,13,Naktala Udayan Sangha,22.489,88.372,Light Rain,6,1516,Green
+2025-10-04,13,Bosepukur Sitala Mandir,22.505,88.39,Light Rain,6,1797,Green
+2025-10-04,13,Dum Dum Park Tarun Dal,22.615,88.398,Light Rain,7,1516,Green
+2025-10-04,13,Santosh Mitra Square,22.571,88.356,Light Rain,8,2295,Green
+2025-10-04,13,Mohammad Ali Park,22.575,88.351,Light Rain,8,2235,Green
+2025-10-04,13,Jodhpur Park,22.51,88.369,Light Rain,6,1853,Green
+2025-10-04,14,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,4451,Yellow
+2025-10-04,14,College Square,22.579,88.363,Clear,9,5658,Yellow
+2025-10-04,14,Deshapriya Park,22.5263,88.3642,Clear,8,4122,Yellow
+2025-10-04,14,Kumartuli Park,22.595,88.358,Clear,7,3907,Green
+2025-10-04,14,Suruchi Sangha,22.518,88.347,Clear,8,4830,Yellow
+2025-10-04,14,Sreebhumi Sporting Club,22.578,88.421,Clear,9,4781,Yellow
+2025-10-04,14,Ekdalia Evergreen,22.522,88.356,Clear,7,3229,Green
+2025-10-04,14,Tridhara Sammilani,22.515,88.362,Clear,6,3226,Green
+2025-10-04,14,Badamtala Ashar Sangha,22.535,88.345,Clear,7,3657,Green
+2025-10-04,14,Naktala Udayan Sangha,22.489,88.372,Clear,6,2677,Green
+2025-10-04,14,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,3445,Green
+2025-10-04,14,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,3982,Green
+2025-10-04,14,Santosh Mitra Square,22.571,88.356,Clear,8,4822,Yellow
+2025-10-04,14,Mohammad Ali Park,22.575,88.351,Clear,8,4143,Yellow
+2025-10-04,14,Jodhpur Park,22.51,88.369,Clear,6,2880,Green
+2025-10-04,15,Bagbazar Sarbojanin,22.5958,88.3697,Light Rain,9,3405,Green
+2025-10-04,15,College Square,22.579,88.363,Light Rain,9,4175,Yellow
+2025-10-04,15,Deshapriya Park,22.5263,88.3642,Light Rain,8,2954,Green
+2025-10-04,15,Kumartuli Park,22.595,88.358,Light Rain,7,2966,Green
+2025-10-04,15,Suruchi Sangha,22.518,88.347,Light Rain,8,3225,Green
+2025-10-04,15,Sreebhumi Sporting Club,22.578,88.421,Light Rain,9,3918,Green
+2025-10-04,15,Ekdalia Evergreen,22.522,88.356,Light Rain,7,3212,Green
+2025-10-04,15,Tridhara Sammilani,22.515,88.362,Light Rain,6,2361,Green
+2025-10-04,15,Badamtala Ashar Sangha,22.535,88.345,Light Rain,7,2517,Green
+2025-10-04,15,Naktala Udayan Sangha,22.489,88.372,Light Rain,6,2489,Green
+2025-10-04,15,Bosepukur Sitala Mandir,22.505,88.39,Light Rain,6,2148,Green
+2025-10-04,15,Dum Dum Park Tarun Dal,22.615,88.398,Light Rain,7,3348,Green
+2025-10-04,15,Santosh Mitra Square,22.571,88.356,Light Rain,8,3176,Green
+2025-10-04,15,Mohammad Ali Park,22.575,88.351,Light Rain,8,3026,Green
+2025-10-04,15,Jodhpur Park,22.51,88.369,Light Rain,6,2407,Green
+2025-10-04,16,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,4799,Yellow
+2025-10-04,16,College Square,22.579,88.363,Clear,9,5429,Yellow
+2025-10-04,16,Deshapriya Park,22.5263,88.3642,Clear,8,4185,Yellow
+2025-10-04,16,Kumartuli Park,22.595,88.358,Clear,7,3521,Green
+2025-10-04,16,Suruchi Sangha,22.518,88.347,Clear,8,4684,Yellow
+2025-10-04,16,Sreebhumi Sporting Club,22.578,88.421,Clear,9,5387,Yellow
+2025-10-04,16,Ekdalia Evergreen,22.522,88.356,Clear,7,3784,Green
+2025-10-04,16,Tridhara Sammilani,22.515,88.362,Clear,6,3229,Green
+2025-10-04,16,Badamtala Ashar Sangha,22.535,88.345,Clear,7,4004,Yellow
+2025-10-04,16,Naktala Udayan Sangha,22.489,88.372,Clear,6,3147,Green
+2025-10-04,16,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,3125,Green
+2025-10-04,16,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,4183,Yellow
+2025-10-04,16,Santosh Mitra Square,22.571,88.356,Clear,8,4662,Yellow
+2025-10-04,16,Mohammad Ali Park,22.575,88.351,Clear,8,4873,Yellow
+2025-10-04,16,Jodhpur Park,22.51,88.369,Clear,6,2984,Green
+2025-10-04,17,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,4889,Yellow
+2025-10-04,17,College Square,22.579,88.363,Clear,9,5438,Yellow
+2025-10-04,17,Deshapriya Park,22.5263,88.3642,Clear,8,4646,Yellow
+2025-10-04,17,Kumartuli Park,22.595,88.358,Clear,7,4056,Yellow
+2025-10-04,17,Suruchi Sangha,22.518,88.347,Clear,8,5129,Yellow
+2025-10-04,17,Sreebhumi Sporting Club,22.578,88.421,Clear,9,4846,Yellow
+2025-10-04,17,Ekdalia Evergreen,22.522,88.356,Clear,7,4198,Yellow
+2025-10-04,17,Tridhara Sammilani,22.515,88.362,Clear,6,3377,Green
+2025-10-04,17,Badamtala Ashar Sangha,22.535,88.345,Clear,7,4000,Yellow
+2025-10-04,17,Naktala Udayan Sangha,22.489,88.372,Clear,6,3818,Green
+2025-10-04,17,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,3512,Green
+2025-10-04,17,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,4081,Yellow
+2025-10-04,17,Santosh Mitra Square,22.571,88.356,Clear,8,4801,Yellow
+2025-10-04,17,Mohammad Ali Park,22.575,88.351,Clear,8,4370,Yellow
+2025-10-04,17,Jodhpur Park,22.51,88.369,Clear,6,3108,Green
+2025-10-04,18,Bagbazar Sarbojanin,22.5958,88.3697,Heavy Rain,9,2701,Green
+2025-10-04,18,College Square,22.579,88.363,Heavy Rain,9,2495,Green
+2025-10-04,18,Deshapriya Park,22.5263,88.3642,Heavy Rain,8,2038,Green
+2025-10-04,18,Kumartuli Park,22.595,88.358,Heavy Rain,7,1655,Green
+2025-10-04,18,Suruchi Sangha,22.518,88.347,Heavy Rain,8,2733,Green
+2025-10-04,18,Sreebhumi Sporting Club,22.578,88.421,Heavy Rain,9,2924,Green
+2025-10-04,18,Ekdalia Evergreen,22.522,88.356,Heavy Rain,7,2094,Green
+2025-10-04,18,Tridhara Sammilani,22.515,88.362,Heavy Rain,6,1820,Green
+2025-10-04,18,Badamtala Ashar Sangha,22.535,88.345,Heavy Rain,7,2303,Green
+2025-10-04,18,Naktala Udayan Sangha,22.489,88.372,Heavy Rain,6,1870,Green
+2025-10-04,18,Bosepukur Sitala Mandir,22.505,88.39,Heavy Rain,6,1517,Green
+2025-10-04,18,Dum Dum Park Tarun Dal,22.615,88.398,Heavy Rain,7,2513,Green
+2025-10-04,18,Santosh Mitra Square,22.571,88.356,Heavy Rain,8,2651,Green
+2025-10-04,18,Mohammad Ali Park,22.575,88.351,Heavy Rain,8,2639,Green
+2025-10-04,18,Jodhpur Park,22.51,88.369,Heavy Rain,6,2171,Green
+2025-10-04,19,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,6955,Yellow
+2025-10-04,19,College Square,22.579,88.363,Clear,9,7347,Red
+2025-10-04,19,Deshapriya Park,22.5263,88.3642,Clear,8,6620,Yellow
+2025-10-04,19,Kumartuli Park,22.595,88.358,Clear,7,5798,Yellow
+2025-10-04,19,Suruchi Sangha,22.518,88.347,Clear,8,6752,Yellow
+2025-10-04,19,Sreebhumi Sporting Club,22.578,88.421,Clear,9,7254,Red
+2025-10-04,19,Ekdalia Evergreen,22.522,88.356,Clear,7,5210,Yellow
+2025-10-04,19,Tridhara Sammilani,22.515,88.362,Clear,6,4919,Yellow
+2025-10-04,19,Badamtala Ashar Sangha,22.535,88.345,Clear,7,5404,Yellow
+2025-10-04,19,Naktala Udayan Sangha,22.489,88.372,Clear,6,4641,Yellow
+2025-10-04,19,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,4975,Yellow
+2025-10-04,19,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,5971,Yellow
+2025-10-04,19,Santosh Mitra Square,22.571,88.356,Clear,8,6406,Yellow
+2025-10-04,19,Mohammad Ali Park,22.575,88.351,Clear,8,6492,Yellow
+2025-10-04,19,Jodhpur Park,22.51,88.369,Clear,6,5310,Yellow
+2025-10-04,20,Bagbazar Sarbojanin,22.5958,88.3697,Cloudy,9,5910,Yellow
+2025-10-04,20,College Square,22.579,88.363,Cloudy,9,6503,Yellow
+2025-10-04,20,Deshapriya Park,22.5263,88.3642,Cloudy,8,6303,Yellow
+2025-10-04,20,Kumartuli Park,22.595,88.358,Cloudy,7,5227,Yellow
+2025-10-04,20,Suruchi Sangha,22.518,88.347,Cloudy,8,5858,Yellow
+2025-10-04,20,Sreebhumi Sporting Club,22.578,88.421,Cloudy,9,6750,Yellow
+2025-10-04,20,Ekdalia Evergreen,22.522,88.356,Cloudy,7,4853,Yellow
+2025-10-04,20,Tridhara Sammilani,22.515,88.362,Cloudy,6,4463,Yellow
+2025-10-04,20,Badamtala Ashar Sangha,22.535,88.345,Cloudy,7,4964,Yellow
+2025-10-04,20,Naktala Udayan Sangha,22.489,88.372,Cloudy,6,4314,Yellow
+2025-10-04,20,Bosepukur Sitala Mandir,22.505,88.39,Cloudy,6,4568,Yellow
+2025-10-04,20,Dum Dum Park Tarun Dal,22.615,88.398,Cloudy,7,4761,Yellow
+2025-10-04,20,Santosh Mitra Square,22.571,88.356,Cloudy,8,6146,Yellow
+2025-10-04,20,Mohammad Ali Park,22.575,88.351,Cloudy,8,5633,Yellow
+2025-10-04,20,Jodhpur Park,22.51,88.369,Cloudy,6,4398,Yellow
+2025-10-04,21,Bagbazar Sarbojanin,22.5958,88.3697,Cloudy,9,6059,Yellow
+2025-10-04,21,College Square,22.579,88.363,Cloudy,9,6121,Yellow
+2025-10-04,21,Deshapriya Park,22.5263,88.3642,Cloudy,8,5893,Yellow
+2025-10-04,21,Kumartuli Park,22.595,88.358,Cloudy,7,5398,Yellow
+2025-10-04,21,Suruchi Sangha,22.518,88.347,Cloudy,8,5577,Yellow
+2025-10-04,21,Sreebhumi Sporting Club,22.578,88.421,Cloudy,9,6439,Yellow
+2025-10-04,21,Ekdalia Evergreen,22.522,88.356,Cloudy,7,5044,Yellow
+2025-10-04,21,Tridhara Sammilani,22.515,88.362,Cloudy,6,4084,Yellow
+2025-10-04,21,Badamtala Ashar Sangha,22.535,88.345,Cloudy,7,5234,Yellow
+2025-10-04,21,Naktala Udayan Sangha,22.489,88.372,Cloudy,6,4283,Yellow
+2025-10-04,21,Bosepukur Sitala Mandir,22.505,88.39,Cloudy,6,4445,Yellow
+2025-10-04,21,Dum Dum Park Tarun Dal,22.615,88.398,Cloudy,7,4773,Yellow
+2025-10-04,21,Santosh Mitra Square,22.571,88.356,Cloudy,8,5628,Yellow
+2025-10-04,21,Mohammad Ali Park,22.575,88.351,Cloudy,8,5976,Yellow
+2025-10-04,21,Jodhpur Park,22.51,88.369,Cloudy,6,4208,Yellow
+2025-10-04,22,Bagbazar Sarbojanin,22.5958,88.3697,Heavy Rain,9,1482,Green
+2025-10-04,22,College Square,22.579,88.363,Heavy Rain,9,1099,Green
+2025-10-04,22,Deshapriya Park,22.5263,88.3642,Heavy Rain,8,1712,Green
+2025-10-04,22,Kumartuli Park,22.595,88.358,Heavy Rain,7,1445,Green
+2025-10-04,22,Suruchi Sangha,22.518,88.347,Heavy Rain,8,1026,Green
+2025-10-04,22,Sreebhumi Sporting Club,22.578,88.421,Heavy Rain,9,2165,Green
+2025-10-04,22,Ekdalia Evergreen,22.522,88.356,Heavy Rain,7,1848,Green
+2025-10-04,22,Tridhara Sammilani,22.515,88.362,Heavy Rain,6,926,Green
+2025-10-04,22,Badamtala Ashar Sangha,22.535,88.345,Heavy Rain,7,1693,Green
+2025-10-04,22,Naktala Udayan Sangha,22.489,88.372,Heavy Rain,6,980,Green
+2025-10-04,22,Bosepukur Sitala Mandir,22.505,88.39,Heavy Rain,6,1206,Green
+2025-10-04,22,Dum Dum Park Tarun Dal,22.615,88.398,Heavy Rain,7,1093,Green
+2025-10-04,22,Santosh Mitra Square,22.571,88.356,Heavy Rain,8,2200,Green
+2025-10-04,22,Mohammad Ali Park,22.575,88.351,Heavy Rain,8,1447,Green
+2025-10-04,22,Jodhpur Park,22.51,88.369,Heavy Rain,6,1189,Green
+2025-10-04,23,Bagbazar Sarbojanin,22.5958,88.3697,Cloudy,9,3681,Green
+2025-10-04,23,College Square,22.579,88.363,Cloudy,9,4506,Yellow
+2025-10-04,23,Deshapriya Park,22.5263,88.3642,Cloudy,8,3818,Green
+2025-10-04,23,Kumartuli Park,22.595,88.358,Cloudy,7,3331,Green
+2025-10-04,23,Suruchi Sangha,22.518,88.347,Cloudy,8,3633,Green
+2025-10-04,23,Sreebhumi Sporting Club,22.578,88.421,Cloudy,9,4121,Yellow
+2025-10-04,23,Ekdalia Evergreen,22.522,88.356,Cloudy,7,2858,Green
+2025-10-04,23,Tridhara Sammilani,22.515,88.362,Cloudy,6,2346,Green
+2025-10-04,23,Badamtala Ashar Sangha,22.535,88.345,Cloudy,7,3022,Green
+2025-10-04,23,Naktala Udayan Sangha,22.489,88.372,Cloudy,6,2540,Green
+2025-10-04,23,Bosepukur Sitala Mandir,22.505,88.39,Cloudy,6,2456,Green
+2025-10-04,23,Dum Dum Park Tarun Dal,22.615,88.398,Cloudy,7,3232,Green
+2025-10-04,23,Santosh Mitra Square,22.571,88.356,Cloudy,8,3742,Green
+2025-10-04,23,Mohammad Ali Park,22.575,88.351,Cloudy,8,3482,Green
+2025-10-04,23,Jodhpur Park,22.51,88.369,Cloudy,6,3035,Green
+2025-10-05,0,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,320,Green
+2025-10-05,0,College Square,22.579,88.363,Clear,9,184,Green
+2025-10-05,0,Deshapriya Park,22.5263,88.3642,Clear,8,147,Green
+2025-10-05,0,Kumartuli Park,22.595,88.358,Clear,7,309,Green
+2025-10-05,0,Suruchi Sangha,22.518,88.347,Clear,8,544,Green
+2025-10-05,0,Sreebhumi Sporting Club,22.578,88.421,Clear,9,40,Green
+2025-10-05,0,Ekdalia Evergreen,22.522,88.356,Clear,7,406,Green
+2025-10-05,0,Tridhara Sammilani,22.515,88.362,Clear,6,473,Green
+2025-10-05,0,Badamtala Ashar Sangha,22.535,88.345,Clear,7,908,Green
+2025-10-05,0,Naktala Udayan Sangha,22.489,88.372,Clear,6,0,Green
+2025-10-05,0,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,195,Green
+2025-10-05,0,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,428,Green
+2025-10-05,0,Santosh Mitra Square,22.571,88.356,Clear,8,744,Green
+2025-10-05,0,Mohammad Ali Park,22.575,88.351,Clear,8,308,Green
+2025-10-05,0,Jodhpur Park,22.51,88.369,Clear,6,659,Green
+2025-10-05,1,Bagbazar Sarbojanin,22.5958,88.3697,Cloudy,9,0,Green
+2025-10-05,1,College Square,22.579,88.363,Cloudy,9,258,Green
+2025-10-05,1,Deshapriya Park,22.5263,88.3642,Cloudy,8,24,Green
+2025-10-05,1,Kumartuli Park,22.595,88.358,Cloudy,7,357,Green
+2025-10-05,1,Suruchi Sangha,22.518,88.347,Cloudy,8,0,Green
+2025-10-05,1,Sreebhumi Sporting Club,22.578,88.421,Cloudy,9,501,Green
+2025-10-05,1,Ekdalia Evergreen,22.522,88.356,Cloudy,7,270,Green
+2025-10-05,1,Tridhara Sammilani,22.515,88.362,Cloudy,6,130,Green
+2025-10-05,1,Badamtala Ashar Sangha,22.535,88.345,Cloudy,7,0,Green
+2025-10-05,1,Naktala Udayan Sangha,22.489,88.372,Cloudy,6,424,Green
+2025-10-05,1,Bosepukur Sitala Mandir,22.505,88.39,Cloudy,6,110,Green
+2025-10-05,1,Dum Dum Park Tarun Dal,22.615,88.398,Cloudy,7,0,Green
+2025-10-05,1,Santosh Mitra Square,22.571,88.356,Cloudy,8,0,Green
+2025-10-05,1,Mohammad Ali Park,22.575,88.351,Cloudy,8,351,Green
+2025-10-05,1,Jodhpur Park,22.51,88.369,Cloudy,6,801,Green
+2025-10-05,2,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,720,Green
+2025-10-05,2,College Square,22.579,88.363,Clear,9,683,Green
+2025-10-05,2,Deshapriya Park,22.5263,88.3642,Clear,8,506,Green
+2025-10-05,2,Kumartuli Park,22.595,88.358,Clear,7,20,Green
+2025-10-05,2,Suruchi Sangha,22.518,88.347,Clear,8,518,Green
+2025-10-05,2,Sreebhumi Sporting Club,22.578,88.421,Clear,9,277,Green
+2025-10-05,2,Ekdalia Evergreen,22.522,88.356,Clear,7,456,Green
+2025-10-05,2,Tridhara Sammilani,22.515,88.362,Clear,6,336,Green
+2025-10-05,2,Badamtala Ashar Sangha,22.535,88.345,Clear,7,57,Green
+2025-10-05,2,Naktala Udayan Sangha,22.489,88.372,Clear,6,32,Green
+2025-10-05,2,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,406,Green
+2025-10-05,2,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,283,Green
+2025-10-05,2,Santosh Mitra Square,22.571,88.356,Clear,8,147,Green
+2025-10-05,2,Mohammad Ali Park,22.575,88.351,Clear,8,123,Green
+2025-10-05,2,Jodhpur Park,22.51,88.369,Clear,6,208,Green
+2025-10-05,3,Bagbazar Sarbojanin,22.5958,88.3697,Light Rain,9,785,Green
+2025-10-05,3,College Square,22.579,88.363,Light Rain,9,308,Green
+2025-10-05,3,Deshapriya Park,22.5263,88.3642,Light Rain,8,55,Green
+2025-10-05,3,Kumartuli Park,22.595,88.358,Light Rain,7,0,Green
+2025-10-05,3,Suruchi Sangha,22.518,88.347,Light Rain,8,545,Green
+2025-10-05,3,Sreebhumi Sporting Club,22.578,88.421,Light Rain,9,536,Green
+2025-10-05,3,Ekdalia Evergreen,22.522,88.356,Light Rain,7,160,Green
+2025-10-05,3,Tridhara Sammilani,22.515,88.362,Light Rain,6,230,Green
+2025-10-05,3,Badamtala Ashar Sangha,22.535,88.345,Light Rain,7,399,Green
+2025-10-05,3,Naktala Udayan Sangha,22.489,88.372,Light Rain,6,0,Green
+2025-10-05,3,Bosepukur Sitala Mandir,22.505,88.39,Light Rain,6,51,Green
+2025-10-05,3,Dum Dum Park Tarun Dal,22.615,88.398,Light Rain,7,483,Green
+2025-10-05,3,Santosh Mitra Square,22.571,88.356,Light Rain,8,0,Green
+2025-10-05,3,Mohammad Ali Park,22.575,88.351,Light Rain,8,368,Green
+2025-10-05,3,Jodhpur Park,22.51,88.369,Light Rain,6,0,Green
+2025-10-05,4,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,473,Green
+2025-10-05,4,College Square,22.579,88.363,Clear,9,554,Green
+2025-10-05,4,Deshapriya Park,22.5263,88.3642,Clear,8,157,Green
+2025-10-05,4,Kumartuli Park,22.595,88.358,Clear,7,255,Green
+2025-10-05,4,Suruchi Sangha,22.518,88.347,Clear,8,271,Green
+2025-10-05,4,Sreebhumi Sporting Club,22.578,88.421,Clear,9,287,Green
+2025-10-05,4,Ekdalia Evergreen,22.522,88.356,Clear,7,539,Green
+2025-10-05,4,Tridhara Sammilani,22.515,88.362,Clear,6,165,Green
+2025-10-05,4,Badamtala Ashar Sangha,22.535,88.345,Clear,7,655,Green
+2025-10-05,4,Naktala Udayan Sangha,22.489,88.372,Clear,6,1098,Green
+2025-10-05,4,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,211,Green
+2025-10-05,4,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,395,Green
+2025-10-05,4,Santosh Mitra Square,22.571,88.356,Clear,8,513,Green
+2025-10-05,4,Mohammad Ali Park,22.575,88.351,Clear,8,943,Green
+2025-10-05,4,Jodhpur Park,22.51,88.369,Clear,6,275,Green
+2025-10-05,5,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,201,Green
+2025-10-05,5,College Square,22.579,88.363,Clear,9,580,Green
+2025-10-05,5,Deshapriya Park,22.5263,88.3642,Clear,8,671,Green
+2025-10-05,5,Kumartuli Park,22.595,88.358,Clear,7,0,Green
+2025-10-05,5,Suruchi Sangha,22.518,88.347,Clear,8,97,Green
+2025-10-05,5,Sreebhumi Sporting Club,22.578,88.421,Clear,9,635,Green
+2025-10-05,5,Ekdalia Evergreen,22.522,88.356,Clear,7,967,Green
+2025-10-05,5,Tridhara Sammilani,22.515,88.362,Clear,6,306,Green
+2025-10-05,5,Badamtala Ashar Sangha,22.535,88.345,Clear,7,131,Green
+2025-10-05,5,Naktala Udayan Sangha,22.489,88.372,Clear,6,245,Green
+2025-10-05,5,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,712,Green
+2025-10-05,5,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,156,Green
+2025-10-05,5,Santosh Mitra Square,22.571,88.356,Clear,8,160,Green
+2025-10-05,5,Mohammad Ali Park,22.575,88.351,Clear,8,255,Green
+2025-10-05,5,Jodhpur Park,22.51,88.369,Clear,6,14,Green
+2025-10-05,6,Bagbazar Sarbojanin,22.5958,88.3697,Light Rain,9,511,Green
+2025-10-05,6,College Square,22.579,88.363,Light Rain,9,973,Green
+2025-10-05,6,Deshapriya Park,22.5263,88.3642,Light Rain,8,731,Green
+2025-10-05,6,Kumartuli Park,22.595,88.358,Light Rain,7,888,Green
+2025-10-05,6,Suruchi Sangha,22.518,88.347,Light Rain,8,935,Green
+2025-10-05,6,Sreebhumi Sporting Club,22.578,88.421,Light Rain,9,935,Green
+2025-10-05,6,Ekdalia Evergreen,22.522,88.356,Light Rain,7,716,Green
+2025-10-05,6,Tridhara Sammilani,22.515,88.362,Light Rain,6,409,Green
+2025-10-05,6,Badamtala Ashar Sangha,22.535,88.345,Light Rain,7,760,Green
+2025-10-05,6,Naktala Udayan Sangha,22.489,88.372,Light Rain,6,894,Green
+2025-10-05,6,Bosepukur Sitala Mandir,22.505,88.39,Light Rain,6,337,Green
+2025-10-05,6,Dum Dum Park Tarun Dal,22.615,88.398,Light Rain,7,733,Green
+2025-10-05,6,Santosh Mitra Square,22.571,88.356,Light Rain,8,1151,Green
+2025-10-05,6,Mohammad Ali Park,22.575,88.351,Light Rain,8,991,Green
+2025-10-05,6,Jodhpur Park,22.51,88.369,Light Rain,6,1022,Green
+2025-10-05,7,Bagbazar Sarbojanin,22.5958,88.3697,Heavy Rain,9,369,Green
+2025-10-05,7,College Square,22.579,88.363,Heavy Rain,9,573,Green
+2025-10-05,7,Deshapriya Park,22.5263,88.3642,Heavy Rain,8,48,Green
+2025-10-05,7,Kumartuli Park,22.595,88.358,Heavy Rain,7,695,Green
+2025-10-05,7,Suruchi Sangha,22.518,88.347,Heavy Rain,8,279,Green
+2025-10-05,7,Sreebhumi Sporting Club,22.578,88.421,Heavy Rain,9,1101,Green
+2025-10-05,7,Ekdalia Evergreen,22.522,88.356,Heavy Rain,7,744,Green
+2025-10-05,7,Tridhara Sammilani,22.515,88.362,Heavy Rain,6,225,Green
+2025-10-05,7,Badamtala Ashar Sangha,22.535,88.345,Heavy Rain,7,804,Green
+2025-10-05,7,Naktala Udayan Sangha,22.489,88.372,Heavy Rain,6,380,Green
+2025-10-05,7,Bosepukur Sitala Mandir,22.505,88.39,Heavy Rain,6,615,Green
+2025-10-05,7,Dum Dum Park Tarun Dal,22.615,88.398,Heavy Rain,7,565,Green
+2025-10-05,7,Santosh Mitra Square,22.571,88.356,Heavy Rain,8,226,Green
+2025-10-05,7,Mohammad Ali Park,22.575,88.351,Heavy Rain,8,286,Green
+2025-10-05,7,Jodhpur Park,22.51,88.369,Heavy Rain,6,668,Green
+2025-10-05,8,Bagbazar Sarbojanin,22.5958,88.3697,Light Rain,9,865,Green
+2025-10-05,8,College Square,22.579,88.363,Light Rain,9,1090,Green
+2025-10-05,8,Deshapriya Park,22.5263,88.3642,Light Rain,8,676,Green
+2025-10-05,8,Kumartuli Park,22.595,88.358,Light Rain,7,580,Green
+2025-10-05,8,Suruchi Sangha,22.518,88.347,Light Rain,8,929,Green
+2025-10-05,8,Sreebhumi Sporting Club,22.578,88.421,Light Rain,9,1173,Green
+2025-10-05,8,Ekdalia Evergreen,22.522,88.356,Light Rain,7,675,Green
+2025-10-05,8,Tridhara Sammilani,22.515,88.362,Light Rain,6,281,Green
+2025-10-05,8,Badamtala Ashar Sangha,22.535,88.345,Light Rain,7,514,Green
+2025-10-05,8,Naktala Udayan Sangha,22.489,88.372,Light Rain,6,691,Green
+2025-10-05,8,Bosepukur Sitala Mandir,22.505,88.39,Light Rain,6,687,Green
+2025-10-05,8,Dum Dum Park Tarun Dal,22.615,88.398,Light Rain,7,807,Green
+2025-10-05,8,Santosh Mitra Square,22.571,88.356,Light Rain,8,996,Green
+2025-10-05,8,Mohammad Ali Park,22.575,88.351,Light Rain,8,841,Green
+2025-10-05,8,Jodhpur Park,22.51,88.369,Light Rain,6,709,Green
+2025-10-05,9,Bagbazar Sarbojanin,22.5958,88.3697,Cloudy,9,1201,Green
+2025-10-05,9,College Square,22.579,88.363,Cloudy,9,896,Green
+2025-10-05,9,Deshapriya Park,22.5263,88.3642,Cloudy,8,1208,Green
+2025-10-05,9,Kumartuli Park,22.595,88.358,Cloudy,7,888,Green
+2025-10-05,9,Suruchi Sangha,22.518,88.347,Cloudy,8,1375,Green
+2025-10-05,9,Sreebhumi Sporting Club,22.578,88.421,Cloudy,9,1571,Green
+2025-10-05,9,Ekdalia Evergreen,22.522,88.356,Cloudy,7,1721,Green
+2025-10-05,9,Tridhara Sammilani,22.515,88.362,Cloudy,6,983,Green
+2025-10-05,9,Badamtala Ashar Sangha,22.535,88.345,Cloudy,7,1042,Green
+2025-10-05,9,Naktala Udayan Sangha,22.489,88.372,Cloudy,6,868,Green
+2025-10-05,9,Bosepukur Sitala Mandir,22.505,88.39,Cloudy,6,704,Green
+2025-10-05,9,Dum Dum Park Tarun Dal,22.615,88.398,Cloudy,7,1046,Green
+2025-10-05,9,Santosh Mitra Square,22.571,88.356,Cloudy,8,991,Green
+2025-10-05,9,Mohammad Ali Park,22.575,88.351,Cloudy,8,1130,Green
+2025-10-05,9,Jodhpur Park,22.51,88.369,Cloudy,6,1205,Green
+2025-10-05,10,Bagbazar Sarbojanin,22.5958,88.3697,Cloudy,9,1933,Green
+2025-10-05,10,College Square,22.579,88.363,Cloudy,9,1438,Green
+2025-10-05,10,Deshapriya Park,22.5263,88.3642,Cloudy,8,1750,Green
+2025-10-05,10,Kumartuli Park,22.595,88.358,Cloudy,7,1966,Green
+2025-10-05,10,Suruchi Sangha,22.518,88.347,Cloudy,8,1772,Green
+2025-10-05,10,Sreebhumi Sporting Club,22.578,88.421,Cloudy,9,1352,Green
+2025-10-05,10,Ekdalia Evergreen,22.522,88.356,Cloudy,7,1425,Green
+2025-10-05,10,Tridhara Sammilani,22.515,88.362,Cloudy,6,1647,Green
+2025-10-05,10,Badamtala Ashar Sangha,22.535,88.345,Cloudy,7,1738,Green
+2025-10-05,10,Naktala Udayan Sangha,22.489,88.372,Cloudy,6,1098,Green
+2025-10-05,10,Bosepukur Sitala Mandir,22.505,88.39,Cloudy,6,1180,Green
+2025-10-05,10,Dum Dum Park Tarun Dal,22.615,88.398,Cloudy,7,1451,Green
+2025-10-05,10,Santosh Mitra Square,22.571,88.356,Cloudy,8,1601,Green
+2025-10-05,10,Mohammad Ali Park,22.575,88.351,Cloudy,8,1191,Green
+2025-10-05,10,Jodhpur Park,22.51,88.369,Cloudy,6,1579,Green
+2025-10-05,11,Bagbazar Sarbojanin,22.5958,88.3697,Cloudy,9,2402,Green
+2025-10-05,11,College Square,22.579,88.363,Cloudy,9,2324,Green
+2025-10-05,11,Deshapriya Park,22.5263,88.3642,Cloudy,8,1670,Green
+2025-10-05,11,Kumartuli Park,22.595,88.358,Cloudy,7,1696,Green
+2025-10-05,11,Suruchi Sangha,22.518,88.347,Cloudy,8,1792,Green
+2025-10-05,11,Sreebhumi Sporting Club,22.578,88.421,Cloudy,9,1753,Green
+2025-10-05,11,Ekdalia Evergreen,22.522,88.356,Cloudy,7,1672,Green
+2025-10-05,11,Tridhara Sammilani,22.515,88.362,Cloudy,6,996,Green
+2025-10-05,11,Badamtala Ashar Sangha,22.535,88.345,Cloudy,7,1931,Green
+2025-10-05,11,Naktala Udayan Sangha,22.489,88.372,Cloudy,6,1210,Green
+2025-10-05,11,Bosepukur Sitala Mandir,22.505,88.39,Cloudy,6,1410,Green
+2025-10-05,11,Dum Dum Park Tarun Dal,22.615,88.398,Cloudy,7,1659,Green
+2025-10-05,11,Santosh Mitra Square,22.571,88.356,Cloudy,8,1722,Green
+2025-10-05,11,Mohammad Ali Park,22.575,88.351,Cloudy,8,1976,Green
+2025-10-05,11,Jodhpur Park,22.51,88.369,Cloudy,6,1207,Green
+2025-10-05,12,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,2662,Green
+2025-10-05,12,College Square,22.579,88.363,Clear,9,2553,Green
+2025-10-05,12,Deshapriya Park,22.5263,88.3642,Clear,8,1419,Green
+2025-10-05,12,Kumartuli Park,22.595,88.358,Clear,7,1787,Green
+2025-10-05,12,Suruchi Sangha,22.518,88.347,Clear,8,2308,Green
+2025-10-05,12,Sreebhumi Sporting Club,22.578,88.421,Clear,9,1854,Green
+2025-10-05,12,Ekdalia Evergreen,22.522,88.356,Clear,7,1967,Green
+2025-10-05,12,Tridhara Sammilani,22.515,88.362,Clear,6,1700,Green
+2025-10-05,12,Badamtala Ashar Sangha,22.535,88.345,Clear,7,1386,Green
+2025-10-05,12,Naktala Udayan Sangha,22.489,88.372,Clear,6,1750,Green
+2025-10-05,12,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,1581,Green
+2025-10-05,12,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,1945,Green
+2025-10-05,12,Santosh Mitra Square,22.571,88.356,Clear,8,1710,Green
+2025-10-05,12,Mohammad Ali Park,22.575,88.351,Clear,8,2045,Green
+2025-10-05,12,Jodhpur Park,22.51,88.369,Clear,6,988,Green
+2025-10-05,13,Bagbazar Sarbojanin,22.5958,88.3697,Light Rain,9,891,Green
+2025-10-05,13,College Square,22.579,88.363,Light Rain,9,923,Green
+2025-10-05,13,Deshapriya Park,22.5263,88.3642,Light Rain,8,1654,Green
+2025-10-05,13,Kumartuli Park,22.595,88.358,Light Rain,7,1064,Green
+2025-10-05,13,Suruchi Sangha,22.518,88.347,Light Rain,8,1372,Green
+2025-10-05,13,Sreebhumi Sporting Club,22.578,88.421,Light Rain,9,1674,Green
+2025-10-05,13,Ekdalia Evergreen,22.522,88.356,Light Rain,7,1282,Green
+2025-10-05,13,Tridhara Sammilani,22.515,88.362,Light Rain,6,1262,Green
+2025-10-05,13,Badamtala Ashar Sangha,22.535,88.345,Light Rain,7,1094,Green
+2025-10-05,13,Naktala Udayan Sangha,22.489,88.372,Light Rain,6,1203,Green
+2025-10-05,13,Bosepukur Sitala Mandir,22.505,88.39,Light Rain,6,972,Green
+2025-10-05,13,Dum Dum Park Tarun Dal,22.615,88.398,Light Rain,7,1446,Green
+2025-10-05,13,Santosh Mitra Square,22.571,88.356,Light Rain,8,1584,Green
+2025-10-05,13,Mohammad Ali Park,22.575,88.351,Light Rain,8,1119,Green
+2025-10-05,13,Jodhpur Park,22.51,88.369,Light Rain,6,1375,Green
+2025-10-05,14,Bagbazar Sarbojanin,22.5958,88.3697,Light Rain,9,2402,Green
+2025-10-05,14,College Square,22.579,88.363,Light Rain,9,2089,Green
+2025-10-05,14,Deshapriya Park,22.5263,88.3642,Light Rain,8,2061,Green
+2025-10-05,14,Kumartuli Park,22.595,88.358,Light Rain,7,1521,Green
+2025-10-05,14,Suruchi Sangha,22.518,88.347,Light Rain,8,1686,Green
+2025-10-05,14,Sreebhumi Sporting Club,22.578,88.421,Light Rain,9,2232,Green
+2025-10-05,14,Ekdalia Evergreen,22.522,88.356,Light Rain,7,1149,Green
+2025-10-05,14,Tridhara Sammilani,22.515,88.362,Light Rain,6,1381,Green
+2025-10-05,14,Badamtala Ashar Sangha,22.535,88.345,Light Rain,7,1233,Green
+2025-10-05,14,Naktala Udayan Sangha,22.489,88.372,Light Rain,6,1703,Green
+2025-10-05,14,Bosepukur Sitala Mandir,22.505,88.39,Light Rain,6,1785,Green
+2025-10-05,14,Dum Dum Park Tarun Dal,22.615,88.398,Light Rain,7,1455,Green
+2025-10-05,14,Santosh Mitra Square,22.571,88.356,Light Rain,8,2088,Green
+2025-10-05,14,Mohammad Ali Park,22.575,88.351,Light Rain,8,2229,Green
+2025-10-05,14,Jodhpur Park,22.51,88.369,Light Rain,6,1740,Green
+2025-10-05,15,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,3214,Green
+2025-10-05,15,College Square,22.579,88.363,Clear,9,3118,Green
+2025-10-05,15,Deshapriya Park,22.5263,88.3642,Clear,8,2749,Green
+2025-10-05,15,Kumartuli Park,22.595,88.358,Clear,7,2471,Green
+2025-10-05,15,Suruchi Sangha,22.518,88.347,Clear,8,3148,Green
+2025-10-05,15,Sreebhumi Sporting Club,22.578,88.421,Clear,9,2871,Green
+2025-10-05,15,Ekdalia Evergreen,22.522,88.356,Clear,7,2521,Green
+2025-10-05,15,Tridhara Sammilani,22.515,88.362,Clear,6,2392,Green
+2025-10-05,15,Badamtala Ashar Sangha,22.535,88.345,Clear,7,2600,Green
+2025-10-05,15,Naktala Udayan Sangha,22.489,88.372,Clear,6,2156,Green
+2025-10-05,15,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,2400,Green
+2025-10-05,15,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,1639,Green
+2025-10-05,15,Santosh Mitra Square,22.571,88.356,Clear,8,3003,Green
+2025-10-05,15,Mohammad Ali Park,22.575,88.351,Clear,8,2603,Green
+2025-10-05,15,Jodhpur Park,22.51,88.369,Clear,6,1550,Green
+2025-10-05,16,Bagbazar Sarbojanin,22.5958,88.3697,Light Rain,9,2470,Green
+2025-10-05,16,College Square,22.579,88.363,Light Rain,9,2274,Green
+2025-10-05,16,Deshapriya Park,22.5263,88.3642,Light Rain,8,2591,Green
+2025-10-05,16,Kumartuli Park,22.595,88.358,Light Rain,7,1381,Green
+2025-10-05,16,Suruchi Sangha,22.518,88.347,Light Rain,8,2326,Green
+2025-10-05,16,Sreebhumi Sporting Club,22.578,88.421,Light Rain,9,2729,Green
+2025-10-05,16,Ekdalia Evergreen,22.522,88.356,Light Rain,7,1410,Green
+2025-10-05,16,Tridhara Sammilani,22.515,88.362,Light Rain,6,1704,Green
+2025-10-05,16,Badamtala Ashar Sangha,22.535,88.345,Light Rain,7,1425,Green
+2025-10-05,16,Naktala Udayan Sangha,22.489,88.372,Light Rain,6,1479,Green
+2025-10-05,16,Bosepukur Sitala Mandir,22.505,88.39,Light Rain,6,1393,Green
+2025-10-05,16,Dum Dum Park Tarun Dal,22.615,88.398,Light Rain,7,994,Green
+2025-10-05,16,Santosh Mitra Square,22.571,88.356,Light Rain,8,2087,Green
+2025-10-05,16,Mohammad Ali Park,22.575,88.351,Light Rain,8,2003,Green
+2025-10-05,16,Jodhpur Park,22.51,88.369,Light Rain,6,1913,Green
+2025-10-05,17,Bagbazar Sarbojanin,22.5958,88.3697,Cloudy,9,3018,Green
+2025-10-05,17,College Square,22.579,88.363,Cloudy,9,2648,Green
+2025-10-05,17,Deshapriya Park,22.5263,88.3642,Cloudy,8,2578,Green
+2025-10-05,17,Kumartuli Park,22.595,88.358,Cloudy,7,1982,Green
+2025-10-05,17,Suruchi Sangha,22.518,88.347,Cloudy,8,2123,Green
+2025-10-05,17,Sreebhumi Sporting Club,22.578,88.421,Cloudy,9,2651,Green
+2025-10-05,17,Ekdalia Evergreen,22.522,88.356,Cloudy,7,2193,Green
+2025-10-05,17,Tridhara Sammilani,22.515,88.362,Cloudy,6,1761,Green
+2025-10-05,17,Badamtala Ashar Sangha,22.535,88.345,Cloudy,7,1997,Green
+2025-10-05,17,Naktala Udayan Sangha,22.489,88.372,Cloudy,6,1468,Green
+2025-10-05,17,Bosepukur Sitala Mandir,22.505,88.39,Cloudy,6,1865,Green
+2025-10-05,17,Dum Dum Park Tarun Dal,22.615,88.398,Cloudy,7,1753,Green
+2025-10-05,17,Santosh Mitra Square,22.571,88.356,Cloudy,8,2748,Green
+2025-10-05,17,Mohammad Ali Park,22.575,88.351,Cloudy,8,2544,Green
+2025-10-05,17,Jodhpur Park,22.51,88.369,Cloudy,6,1452,Green
+2025-10-05,18,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,4825,Yellow
+2025-10-05,18,College Square,22.579,88.363,Clear,9,4326,Yellow
+2025-10-05,18,Deshapriya Park,22.5263,88.3642,Clear,8,4144,Yellow
+2025-10-05,18,Kumartuli Park,22.595,88.358,Clear,7,4319,Yellow
+2025-10-05,18,Suruchi Sangha,22.518,88.347,Clear,8,4113,Yellow
+2025-10-05,18,Sreebhumi Sporting Club,22.578,88.421,Clear,9,4445,Yellow
+2025-10-05,18,Ekdalia Evergreen,22.522,88.356,Clear,7,3266,Green
+2025-10-05,18,Tridhara Sammilani,22.515,88.362,Clear,6,2941,Green
+2025-10-05,18,Badamtala Ashar Sangha,22.535,88.345,Clear,7,3234,Green
+2025-10-05,18,Naktala Udayan Sangha,22.489,88.372,Clear,6,3080,Green
+2025-10-05,18,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,3031,Green
+2025-10-05,18,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,2851,Green
+2025-10-05,18,Santosh Mitra Square,22.571,88.356,Clear,8,3994,Green
+2025-10-05,18,Mohammad Ali Park,22.575,88.351,Clear,8,4322,Yellow
+2025-10-05,18,Jodhpur Park,22.51,88.369,Clear,6,2880,Green
+2025-10-05,19,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,4304,Yellow
+2025-10-05,19,College Square,22.579,88.363,Clear,9,3959,Green
+2025-10-05,19,Deshapriya Park,22.5263,88.3642,Clear,8,3524,Green
+2025-10-05,19,Kumartuli Park,22.595,88.358,Clear,7,3580,Green
+2025-10-05,19,Suruchi Sangha,22.518,88.347,Clear,8,4152,Yellow
+2025-10-05,19,Sreebhumi Sporting Club,22.578,88.421,Clear,9,4025,Yellow
+2025-10-05,19,Ekdalia Evergreen,22.522,88.356,Clear,7,3768,Green
+2025-10-05,19,Tridhara Sammilani,22.515,88.362,Clear,6,2855,Green
+2025-10-05,19,Badamtala Ashar Sangha,22.535,88.345,Clear,7,3544,Green
+2025-10-05,19,Naktala Udayan Sangha,22.489,88.372,Clear,6,3483,Green
+2025-10-05,19,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,3269,Green
+2025-10-05,19,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,3419,Green
+2025-10-05,19,Santosh Mitra Square,22.571,88.356,Clear,8,3732,Green
+2025-10-05,19,Mohammad Ali Park,22.575,88.351,Clear,8,3354,Green
+2025-10-05,19,Jodhpur Park,22.51,88.369,Clear,6,2784,Green
+2025-10-05,20,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,4956,Yellow
+2025-10-05,20,College Square,22.579,88.363,Clear,9,4352,Yellow
+2025-10-05,20,Deshapriya Park,22.5263,88.3642,Clear,8,4153,Yellow
+2025-10-05,20,Kumartuli Park,22.595,88.358,Clear,7,3449,Green
+2025-10-05,20,Suruchi Sangha,22.518,88.347,Clear,8,4367,Yellow
+2025-10-05,20,Sreebhumi Sporting Club,22.578,88.421,Clear,9,4847,Yellow
+2025-10-05,20,Ekdalia Evergreen,22.522,88.356,Clear,7,3852,Green
+2025-10-05,20,Tridhara Sammilani,22.515,88.362,Clear,6,2479,Green
+2025-10-05,20,Badamtala Ashar Sangha,22.535,88.345,Clear,7,3562,Green
+2025-10-05,20,Naktala Udayan Sangha,22.489,88.372,Clear,6,3227,Green
+2025-10-05,20,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,3114,Green
+2025-10-05,20,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,3690,Green
+2025-10-05,20,Santosh Mitra Square,22.571,88.356,Clear,8,4017,Yellow
+2025-10-05,20,Mohammad Ali Park,22.575,88.351,Clear,8,3776,Green
+2025-10-05,20,Jodhpur Park,22.51,88.369,Clear,6,2490,Green
+2025-10-05,21,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,4306,Yellow
+2025-10-05,21,College Square,22.579,88.363,Clear,9,4335,Yellow
+2025-10-05,21,Deshapriya Park,22.5263,88.3642,Clear,8,4027,Yellow
+2025-10-05,21,Kumartuli Park,22.595,88.358,Clear,7,3547,Green
+2025-10-05,21,Suruchi Sangha,22.518,88.347,Clear,8,3691,Green
+2025-10-05,21,Sreebhumi Sporting Club,22.578,88.421,Clear,9,4879,Yellow
+2025-10-05,21,Ekdalia Evergreen,22.522,88.356,Clear,7,3240,Green
+2025-10-05,21,Tridhara Sammilani,22.515,88.362,Clear,6,3290,Green
+2025-10-05,21,Badamtala Ashar Sangha,22.535,88.345,Clear,7,3628,Green
+2025-10-05,21,Naktala Udayan Sangha,22.489,88.372,Clear,6,2806,Green
+2025-10-05,21,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,3532,Green
+2025-10-05,21,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,3141,Green
+2025-10-05,21,Santosh Mitra Square,22.571,88.356,Clear,8,4275,Yellow
+2025-10-05,21,Mohammad Ali Park,22.575,88.351,Clear,8,4300,Yellow
+2025-10-05,21,Jodhpur Park,22.51,88.369,Clear,6,2798,Green
+2025-10-05,22,Bagbazar Sarbojanin,22.5958,88.3697,Clear,9,2858,Green
+2025-10-05,22,College Square,22.579,88.363,Clear,9,2846,Green
+2025-10-05,22,Deshapriya Park,22.5263,88.3642,Clear,8,1854,Green
+2025-10-05,22,Kumartuli Park,22.595,88.358,Clear,7,1892,Green
+2025-10-05,22,Suruchi Sangha,22.518,88.347,Clear,8,1849,Green
+2025-10-05,22,Sreebhumi Sporting Club,22.578,88.421,Clear,9,3051,Green
+2025-10-05,22,Ekdalia Evergreen,22.522,88.356,Clear,7,2575,Green
+2025-10-05,22,Tridhara Sammilani,22.515,88.362,Clear,6,2033,Green
+2025-10-05,22,Badamtala Ashar Sangha,22.535,88.345,Clear,7,1803,Green
+2025-10-05,22,Naktala Udayan Sangha,22.489,88.372,Clear,6,2244,Green
+2025-10-05,22,Bosepukur Sitala Mandir,22.505,88.39,Clear,6,1724,Green
+2025-10-05,22,Dum Dum Park Tarun Dal,22.615,88.398,Clear,7,1735,Green
+2025-10-05,22,Santosh Mitra Square,22.571,88.356,Clear,8,2110,Green
+2025-10-05,22,Mohammad Ali Park,22.575,88.351,Clear,8,2270,Green
+2025-10-05,22,Jodhpur Park,22.51,88.369,Clear,6,1814,Green
+2025-10-05,23,Bagbazar Sarbojanin,22.5958,88.3697,Cloudy,9,2381,Green
+2025-10-05,23,College Square,22.579,88.363,Cloudy,9,2261,Green
+2025-10-05,23,Deshapriya Park,22.5263,88.3642,Cloudy,8,2097,Green
+2025-10-05,23,Kumartuli Park,22.595,88.358,Cloudy,7,1384,Green
+2025-10-05,23,Suruchi Sangha,22.518,88.347,Cloudy,8,1918,Green
+2025-10-05,23,Sreebhumi Sporting Club,22.578,88.421,Cloudy,9,2719,Green
+2025-10-05,23,Ekdalia Evergreen,22.522,88.356,Cloudy,7,2374,Green
+2025-10-05,23,Tridhara Sammilani,22.515,88.362,Cloudy,6,1249,Green
+2025-10-05,23,Badamtala Ashar Sangha,22.535,88.345,Cloudy,7,1712,Green
+2025-10-05,23,Naktala Udayan Sangha,22.489,88.372,Cloudy,6,1612,Green
+2025-10-05,23,Bosepukur Sitala Mandir,22.505,88.39,Cloudy,6,1704,Green
+2025-10-05,23,Dum Dum Park Tarun Dal,22.615,88.398,Cloudy,7,1647,Green
+2025-10-05,23,Santosh Mitra Square,22.571,88.356,Cloudy,8,2287,Green
+2025-10-05,23,Mohammad Ali Park,22.575,88.351,Cloudy,8,2017,Green
+2025-10-05,23,Jodhpur Park,22.51,88.369,Cloudy,6,1615,Green

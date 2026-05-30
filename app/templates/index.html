@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DurgotsavAI - Smart Crowd Safety</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: Arial, sans-serif; background: #0f0f1a; color: white; }
+        #header { background: #1a1a2e; padding: 15px 20px; display: flex; align-items: center; justify-content: space-between; }
+        #header h1 { font-size: 22px; color: #f0a500; }
+        #header p { font-size: 13px; color: #aaa; }
+        #map { height: calc(100vh - 130px); width: 100%; }
+        #legend { background: #1a1a2e; padding: 12px 20px; display: flex; gap: 20px; align-items: center; }
+        .legend-item { display: flex; align-items: center; gap: 8px; font-size: 13px; }
+        .dot { width: 14px; height: 14px; border-radius: 50%; }
+        .green { background: #2ecc71; }
+        .yellow { background: #f39c12; }
+        .red { background: #e74c3c; }
+        #refresh-btn { margin-left: auto; background: #f0a500; color: black; border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer; font-weight: bold; }
+    </style>
+</head>
+<body>
+
+<div id="header">
+    <div>
+        <h1>🎉 DurgotsavAI</h1>
+        <p>Smart Crowd Safety System for Durga Puja, Kolkata</p>
+    </div>
+    <div id="time-display"></div>
+</div>
+
+<div id="map"></div>
+
+<div id="legend">
+    <div class="legend-item"><div class="dot green"></div> Safe (Green)</div>
+    <div class="legend-item"><div class="dot yellow"></div> Moderate (Yellow)</div>
+    <div class="legend-item"><div class="dot red"></div> Crowded (Red)</div>
+    <button id="refresh-btn" onclick="loadData()">🔄 Refresh</button>
+</div>
+
+<script>
+    const map = L.map('map').setView([22.55, 88.37], 13);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+
+    const colorMap = { 'Green': '#2ecc71', 'Yellow': '#f39c12', 'Red': '#e74c3c' };
+    let markers = [];
+
+    function loadData() {
+        fetch('/predict')
+            .then(res => res.json())
+            .then(data => {
+                markers.forEach(m => map.removeLayer(m));
+                markers = [];
+
+                data.forEach(pandal => {
+                    const color = colorMap[pandal.risk];
+                    const circle = L.circleMarker([pandal.lat, pandal.lon], {
+                        radius: 18,
+                        fillColor: color,
+                        color: 'white',
+                        weight: 2,
+                        fillOpacity: 0.85
+                    }).addTo(map);
+
+                    circle.bindPopup(`
+                        <b>${pandal.name}</b><br>
+                        Risk Level: <b style="color:${color}">${pandal.risk}</b><br>
+                        Hour: ${pandal.hour}:00<br>
+                        Weather: ${pandal.weather}
+                    `);
+
+                    markers.push(circle);
+                });
+            });
+
+        document.getElementById('time-display').innerText = 
+            'Last updated: ' + new Date().toLocaleTimeString();
+    }
+
+    loadData();
+    setInterval(loadData, 30000);
+</script>
+
+</body>
+</html>
