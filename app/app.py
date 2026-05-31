@@ -29,6 +29,22 @@ pandals = [
     {'name': 'Jodhpur Park',             'lat': 22.5100, 'lon': 88.3690, 'popularity': 6},
 ]
 
+def predict_risk(pandal_name, popularity, hour, weather):
+    try:
+        weather_enc = le_weather.transform([weather])[0]
+        pandal_enc = le_pandal.transform([pandal_name])[0]
+        features = np.array([[hour, popularity, weather_enc, pandal_enc]])
+        return model.predict(features)[0]
+    except:
+        return 'Green'
+
+def haversine(lat1, lon1, lat2, lon2):
+    R = 6371
+    dlat = np.radians(lat2 - lat1)
+    dlon = np.radians(lon2 - lon1)
+    a = np.sin(dlat/2)**2 + np.cos(np.radians(lat1)) * np.cos(np.radians(lat2)) * np.sin(dlon/2)**2
+    return R * 2 * np.arcsin(np.sqrt(a))
+
 @app.route('/')
 def index():
     return render_template('index.html')
@@ -40,24 +56,46 @@ def predict():
 
     results = []
     for pandal in pandals:
-        try:
-            weather_enc = le_weather.transform([weather])[0]
-            pandal_enc = le_pandal.transform([pandal['name']])[0]
-            features = np.array([[hour, pandal['popularity'], weather_enc, pandal_enc]])
-            risk = model.predict(features)[0]
-        except:
-            risk = 'Green'
+        risk = predict_risk(pandal['name'], pandal['popularity'], hour, weather)
+        
+        # forecast next 6 hours
+        forecast = []
+        for h in range(hour, hour + 6):
+            forecast.append({
+                'hour': h % 24,
+                'risk': predict_risk(pandal['name'], pandal['popularity'], h % 24, weather)
+            })
 
         results.append({
             'name': pandal['name'],
             'lat': pandal['lat'],
             'lon': pandal['lon'],
+            'popularity': pandal['popularity'],
             'risk': risk,
             'hour': hour,
-            'weather': weather
+            'weather': weather,
+            'forecast': forecast
         })
 
-    return jsonify(results)
+    # find safe alternatives for red pandals
+    for i, pandal in enumerate(results):
+        if pandal['risk'] == 'Red':
+            distances = []
+            for j, other in enumerate(results):
+                if i != j and other['risk'] == 'Green':
+                    dist = haversine(pandal['lat'], pandal['lon'], other['lat'], other['lon'])
+                    distances.append({'name': other['name'], 'distance': round(dist, 2)})
+            distances.sort(key=lambda x: x['distance'])
+            pandal['alternatives'] = distances[:2]
+        else:
+            pandal['alternatives'] = []
+
+    # stats
+    green = sum(1 for r in results if r['risk'] == 'Green')
+    yellow = sum(1 for r in results if r['risk'] == 'Yellow')
+    red = sum(1 for r in results if r['risk'] == 'Red')
+
+    return jsonify({'pandals': results, 'stats': {'green': green, 'yellow': yellow, 'red': red}})
 
 if __name__ == '__main__':
     app.run(debug=True)

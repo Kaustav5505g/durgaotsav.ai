@@ -6,86 +6,597 @@
     <title>DurgotsavAI - Smart Crowd Safety</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Tiro+Bangla&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
     <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: Arial, sans-serif; background: #0f0f1a; color: white; }
-        #header { background: #1a1a2e; padding: 15px 20px; display: flex; align-items: center; justify-content: space-between; }
-        #header h1 { font-size: 22px; color: #f0a500; }
-        #header p { font-size: 13px; color: #aaa; }
-        #map { height: calc(100vh - 130px); width: 100%; }
-        #legend { background: #1a1a2e; padding: 12px 20px; display: flex; gap: 20px; align-items: center; }
-        .legend-item { display: flex; align-items: center; gap: 8px; font-size: 13px; }
-        .dot { width: 14px; height: 14px; border-radius: 50%; }
-        .green { background: #2ecc71; }
-        .yellow { background: #f39c12; }
-        .red { background: #e74c3c; }
-        #refresh-btn { margin-left: auto; background: #f0a500; color: black; border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer; font-weight: bold; }
+        :root {
+            --saffron: #FF6B00;
+            --gold: #FFB300;
+            --crimson: #C0392B;
+            --deep: #0D0A0E;
+            --surface: #161218;
+            --card: #1E1825;
+            --border: rgba(255,179,0,0.15);
+            --text: #F5ECD7;
+            --muted: #9A8E7A;
+            --green: #00E676;
+            --yellow: #FFD600;
+            --red: #FF3D3D;
+        }
+        * { margin:0; padding:0; box-sizing:border-box; }
+        body { font-family: 'DM Sans', sans-serif; background: var(--deep); color: var(--text); height: 100vh; overflow: hidden; }
+
+        /* HEADER */
+        #header {
+            background: var(--surface);
+            border-bottom: 1px solid var(--border);
+            padding: 0 24px;
+            height: 64px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            position: relative;
+        }
+        #header::after {
+            content: '';
+            position: absolute;
+            bottom: 0; left: 0; right: 0;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, var(--saffron), var(--gold), var(--saffron), transparent);
+        }
+        .header-left { display: flex; align-items: center; gap: 16px; }
+        .logo-mark {
+            width: 40px; height: 40px;
+            background: linear-gradient(135deg, var(--saffron), var(--gold));
+            border-radius: 10px;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 20px;
+            box-shadow: 0 0 20px rgba(255,107,0,0.4);
+        }
+        .header-titles h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: 20px;
+            color: var(--gold);
+            letter-spacing: 0.5px;
+            line-height: 1;
+        }
+        .header-titles .sub {
+            font-size: 11px;
+            color: var(--muted);
+            margin-top: 2px;
+        }
+        .header-titles .bengali {
+            font-family: 'Tiro Bangla', serif;
+            font-size: 11px;
+            color: var(--saffron);
+            opacity: 0.8;
+        }
+        .header-right { display: flex; align-items: center; gap: 10px; }
+        #time-badge {
+            font-size: 11px;
+            color: var(--muted);
+            background: var(--card);
+            padding: 4px 10px;
+            border-radius: 20px;
+            border: 1px solid var(--border);
+        }
+
+        /* STATS */
+        #stats-bar {
+            background: var(--surface);
+            border-bottom: 1px solid var(--border);
+            padding: 0 24px;
+            height: 48px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .stat-pill {
+            display: flex; align-items: center; gap: 8px;
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            padding: 5px 14px;
+            font-size: 12px;
+            color: var(--muted);
+        }
+        .stat-pill .num { font-size: 18px; font-weight: 700; font-family: 'Playfair Display', serif; }
+        .g { color: var(--green); }
+        .y { color: var(--yellow); }
+        .r { color: var(--red); }
+        .divider { width: 1px; height: 20px; background: var(--border); margin: 0 4px; }
+        #busiest-pill { margin-left: auto; font-size: 11px; color: var(--muted); display: flex; align-items: center; gap: 6px; }
+        #busiest-pill span { color: var(--gold); font-weight: 500; }
+
+        /* ALERT */
+        #alert-banner {
+            display: none;
+            background: linear-gradient(90deg, rgba(192,57,43,0.9), rgba(192,57,43,0.7));
+            border-bottom: 1px solid rgba(255,61,61,0.4);
+            padding: 8px 24px;
+            font-size: 12px;
+            font-weight: 500;
+            letter-spacing: 0.5px;
+            animation: alertPulse 2s infinite;
+        }
+        @keyframes alertPulse { 0%,100%{opacity:1} 50%{opacity:0.75} }
+
+        /* CONTROLS */
+        #controls {
+            background: var(--surface);
+            border-bottom: 1px solid var(--border);
+            padding: 0 24px;
+            height: 44px;
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+        .ctrl-label { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.8px; }
+        #hour-slider {
+            width: 140px;
+            accent-color: var(--gold);
+            cursor: pointer;
+        }
+        #hour-display {
+            font-size: 13px; font-weight: 700;
+            color: var(--gold);
+            min-width: 45px;
+            font-family: 'Playfair Display', serif;
+        }
+        #weather-select {
+            background: var(--card);
+            color: var(--text);
+            border: 1px solid var(--border);
+            padding: 4px 10px;
+            border-radius: 8px;
+            font-size: 12px;
+            font-family: 'DM Sans', sans-serif;
+            cursor: pointer;
+        }
+        #planner-btn {
+            background: linear-gradient(135deg, #2D1B69, #4A2B9A);
+            color: #C8A8FF;
+            border: 1px solid rgba(200,168,255,0.3);
+            padding: 6px 14px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 11px;
+            font-weight: 500;
+            font-family: 'DM Sans', sans-serif;
+            letter-spacing: 0.3px;
+            transition: all 0.2s;
+        }
+        #planner-btn:hover { background: linear-gradient(135deg, #3D2B79, #5A3BAA); }
+        #refresh-btn {
+            margin-left: auto;
+            background: linear-gradient(135deg, var(--saffron), var(--gold));
+            color: #0D0A0E;
+            border: none;
+            padding: 6px 14px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 11px;
+            font-weight: 700;
+            font-family: 'DM Sans', sans-serif;
+            letter-spacing: 0.3px;
+            transition: all 0.2s;
+        }
+        #refresh-btn:hover { opacity: 0.9; transform: scale(1.02); }
+
+        /* MAIN */
+        #main { display: flex; height: calc(100vh - 205px); }
+        #map { flex: 1; }
+
+        /* SIDEBAR */
+        #sidebar {
+            width: 280px;
+            background: var(--surface);
+            border-left: 1px solid var(--border);
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        .sidebar-header {
+            padding: 14px 16px;
+            border-bottom: 1px solid var(--border);
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--muted);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .sidebar-header::before { content: ''; width: 3px; height: 12px; background: var(--gold); border-radius: 2px; }
+        #sidebar-content { flex: 1; overflow-y: auto; padding: 16px; }
+        #pandal-info { color: var(--muted); font-size: 12px; line-height: 1.6; text-align: center; padding: 20px 0; }
+        #pandal-info .icon { font-size: 32px; margin-bottom: 8px; }
+        #pandal-detail-box { display: none; }
+        #pandal-name { font-family: 'Playfair Display', serif; font-size: 16px; font-weight: 700; line-height: 1.3; margin-bottom: 6px; }
+        #pandal-risk { font-size: 12px; padding: 4px 10px; border-radius: 20px; display: inline-block; margin-bottom: 10px; font-weight: 500; }
+        #pandal-details { font-size: 12px; color: var(--muted); line-height: 2.2; border-top: 1px solid var(--border); padding-top: 10px; margin-bottom: 10px; }
+        .alt-section-title { font-size: 10px; text-transform: uppercase; letter-spacing: 1px; color: var(--muted); margin-bottom: 6px; }
+        .alt-item {
+            background: rgba(0,230,118,0.05);
+            border: 1px solid rgba(0,230,118,0.2);
+            border-radius: 8px;
+            padding: 8px 10px;
+            margin-bottom: 4px;
+            font-size: 11px;
+            color: var(--green);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .alt-dist { color: var(--muted); font-size: 10px; }
+        .chart-title { font-size: 10px; text-transform: uppercase; letter-spacing: 1px; color: var(--muted); margin: 12px 0 6px; }
+
+        /* LEGEND */
+        #legend {
+            background: var(--surface);
+            border-top: 1px solid var(--border);
+            padding: 0 24px;
+            height: 32px;
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+        .legend-item { display: flex; align-items: center; gap: 6px; font-size: 11px; color: var(--muted); }
+        .ldot { width: 8px; height: 8px; border-radius: 50%; }
+
+        /* PLANNER MODAL */
+        #planner-modal {
+            display: none;
+            position: fixed; inset: 0;
+            background: rgba(0,0,0,0.75);
+            backdrop-filter: blur(4px);
+            z-index: 9999;
+            align-items: center;
+            justify-content: center;
+        }
+        #planner-box {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 28px;
+            width: 440px;
+            max-height: 80vh;
+            overflow-y: auto;
+            box-shadow: 0 24px 80px rgba(0,0,0,0.6);
+        }
+        #planner-box h2 {
+            font-family: 'Playfair Display', serif;
+            color: var(--gold);
+            font-size: 20px;
+            margin-bottom: 6px;
+        }
+        #planner-box .p-sub { font-size: 12px; color: var(--muted); margin-bottom: 20px; }
+        #planner-box label { font-size: 11px; text-transform: uppercase; letter-spacing: 0.8px; color: var(--muted); display: block; margin-bottom: 8px; }
+        #num-pandals {
+            width: 100%;
+            background: var(--surface);
+            color: var(--text);
+            border: 1px solid var(--border);
+            padding: 10px 14px;
+            border-radius: 8px;
+            font-size: 15px;
+            font-family: 'DM Sans', sans-serif;
+            margin-bottom: 14px;
+        }
+        #plan-btn {
+            width: 100%;
+            background: linear-gradient(135deg, var(--saffron), var(--gold));
+            color: #0D0A0E;
+            border: none;
+            padding: 12px;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 700;
+            cursor: pointer;
+            font-family: 'DM Sans', sans-serif;
+            margin-bottom: 18px;
+            letter-spacing: 0.3px;
+        }
+        .plan-step {
+            background: var(--surface);
+            border-left: 3px solid var(--gold);
+            padding: 10px 14px;
+            margin-top: 8px;
+            border-radius: 0 8px 8px 0;
+        }
+        .plan-step .s-num { font-size: 10px; text-transform: uppercase; letter-spacing: 1px; color: var(--muted); }
+        .plan-step .s-name { font-size: 14px; font-family: 'Playfair Display', serif; margin-top: 2px; }
+        .plan-step .s-risk { font-size: 11px; margin-top: 3px; }
+        #close-planner {
+            width: 100%;
+            background: transparent;
+            color: var(--muted);
+            border: 1px solid var(--border);
+            padding: 10px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 13px;
+            margin-top: 10px;
+            font-family: 'DM Sans', sans-serif;
+        }
+
+        /* LEAFLET OVERRIDES */
+        .leaflet-popup-content-wrapper {
+            background: var(--card) !important;
+            border: 1px solid var(--border) !important;
+            border-radius: 10px !important;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.5) !important;
+            color: var(--text) !important;
+        }
+        .leaflet-popup-tip { background: var(--card) !important; }
+        .leaflet-popup-content { font-family: 'DM Sans', sans-serif !important; font-size: 13px !important; }
+        .leaflet-tooltip {
+            background: var(--card) !important;
+            border: 1px solid var(--border) !important;
+            color: var(--text) !important;
+            font-family: 'DM Sans', sans-serif !important;
+            font-size: 12px !important;
+            border-radius: 6px !important;
+        }
     </style>
 </head>
 <body>
 
 <div id="header">
-    <div>
-        <h1>🎉 DurgotsavAI</h1>
-        <p>Smart Crowd Safety System for Durga Puja, Kolkata</p>
+    <div class="header-left">
+        <div class="logo-mark">🪔</div>
+        <div class="header-titles">
+            <h1>DurgotsavAI</h1>
+            <div class="sub">Smart Crowd Safety · Durga Puja · Kolkata</div>
+            <div class="bengali">আসুন নিরাপদে পূজো উপভোগ করুন</div>
+        </div>
     </div>
-    <div id="time-display"></div>
+    <div class="header-right">
+        <div id="time-badge">—</div>
+    </div>
 </div>
 
-<div id="map"></div>
+<div id="alert-banner">⚠️ CROWD ALERT — Multiple pandals are critically crowded. Avoid peak areas and follow police guidance.</div>
+
+<div id="stats-bar">
+    <div class="stat-pill"><span class="num g" id="stat-green">—</span> Safe</div>
+    <div class="divider"></div>
+    <div class="stat-pill"><span class="num y" id="stat-yellow">—</span> Moderate</div>
+    <div class="divider"></div>
+    <div class="stat-pill"><span class="num r" id="stat-red">—</span> Crowded</div>
+    <div id="busiest-pill">Busiest pandal: <span id="busiest-pandal">—</span></div>
+</div>
+
+<div id="controls">
+    <span class="ctrl-label">Hour</span>
+    <input type="range" id="hour-slider" min="0" max="23" value="12" oninput="updateHour(this.value)">
+    <span id="hour-display">12:00</span>
+    <span class="ctrl-label" style="margin-left:8px;">Weather</span>
+    <select id="weather-select" onchange="loadData()">
+        <option value="Clear">☀️ Clear</option>
+        <option value="Cloudy">☁️ Cloudy</option>
+        <option value="Light Rain">🌦️ Light Rain</option>
+        <option value="Heavy Rain">🌧️ Heavy Rain</option>
+    </select>
+    <button id="planner-btn" onclick="openPlanner()">🗺️ Pandal Hopping Planner</button>
+    <button id="refresh-btn" onclick="loadData()">↻ Refresh</button>
+</div>
+
+<div id="main">
+    <div id="map"></div>
+    <div id="sidebar">
+        <div class="sidebar-header">Pandal Details</div>
+        <div id="sidebar-content">
+            <div id="pandal-info">
+                <div class="icon">🗺️</div>
+                <div>Click any pandal on the map to see crowd forecast, risk level, and safe alternatives</div>
+            </div>
+            <div id="pandal-detail-box">
+                <div id="pandal-name"></div>
+                <div id="pandal-risk"></div>
+                <div id="pandal-details"></div>
+                <div id="alternatives-box" style="display:none;">
+                    <div class="alt-section-title">🔀 Safer Alternatives Nearby</div>
+                    <div id="alternatives"></div>
+                </div>
+                <div class="chart-title">📈 6-Hour Crowd Forecast</div>
+                <canvas id="myChart" height="110"></canvas>
+            </div>
+        </div>
+    </div>
+</div>
 
 <div id="legend">
-    <div class="legend-item"><div class="dot green"></div> Safe (Green)</div>
-    <div class="legend-item"><div class="dot yellow"></div> Moderate (Yellow)</div>
-    <div class="legend-item"><div class="dot red"></div> Crowded (Red)</div>
-    <button id="refresh-btn" onclick="loadData()">🔄 Refresh</button>
+    <div class="legend-item"><div class="ldot" style="background:var(--green);box-shadow:0 0 6px var(--green)"></div> Safe</div>
+    <div class="legend-item"><div class="ldot" style="background:var(--yellow);box-shadow:0 0 6px var(--yellow)"></div> Moderate</div>
+    <div class="legend-item"><div class="ldot" style="background:var(--red);box-shadow:0 0 6px var(--red)"></div> Crowded</div>
+    <span style="font-size:10px; color:var(--muted); margin-left:auto;">Slide hour to simulate · Click pandal for details</span>
+</div>
+
+<div id="planner-modal">
+    <div id="planner-box">
+        <h2>Pandal Hopping Planner</h2>
+        <div class="p-sub">We'll find the safest route through Kolkata's top pandals</div>
+        <label>Number of pandals to visit</label>
+        <input type="number" id="num-pandals" min="2" max="10" value="5">
+        <button id="plan-btn" onclick="generatePlan()">✨ Generate Safe Route</button>
+        <div id="plan-result"></div>
+        <button id="close-planner" onclick="closePlanner()">Close</button>
+    </div>
 </div>
 
 <script>
-    const map = L.map('map').setView([22.55, 88.37], 13);
+    const colorMap = { 'Green': '#00E676', 'Yellow': '#FFD600', 'Red': '#FF3D3D' };
+    const riskLabel = { 'Green': '✅ Safe to visit', 'Yellow': '⚠️ Moderate crowd', 'Red': '🚨 Avoid — Too crowded!' };
+    const riskBg = { 'Green': 'rgba(0,230,118,0.12)', 'Yellow': 'rgba(255,214,0,0.12)', 'Red': 'rgba(255,61,61,0.12)' };
 
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '© OpenStreetMap contributors'
+    const map = L.map('map', { zoomControl: true }).setView([22.55, 88.37], 13);
+
+    L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png', {
+        attribution: '© OpenStreetMap © CARTO'
     }).addTo(map);
 
-    const colorMap = { 'Green': '#2ecc71', 'Yellow': '#f39c12', 'Red': '#e74c3c' };
     let markers = [];
+    let currentHour = 12;
+    let chartInstance = null;
+    let allPandals = [];
+
+    function updateHour(val) {
+        currentHour = parseInt(val);
+        document.getElementById('hour-display').innerText = currentHour + ':00';
+        loadData();
+    }
 
     function loadData() {
-        fetch('/predict')
+        const weather = document.getElementById('weather-select').value;
+        fetch(`/predict?hour=${currentHour}&weather=${encodeURIComponent(weather)}`)
             .then(res => res.json())
             .then(data => {
+                allPandals = data.pandals;
                 markers.forEach(m => map.removeLayer(m));
                 markers = [];
 
-                data.forEach(pandal => {
+                document.getElementById('stat-green').innerText = data.stats.green;
+                document.getElementById('stat-yellow').innerText = data.stats.yellow;
+                document.getElementById('stat-red').innerText = data.stats.red;
+
+                document.getElementById('alert-banner').style.display = data.stats.red >= 3 ? 'block' : 'none';
+
+                const busiest = [...data.pandals].sort((a,b) => b.popularity - a.popularity)[0];
+                document.getElementById('busiest-pandal').innerText = busiest.name;
+
+                data.pandals.forEach(pandal => {
                     const color = colorMap[pandal.risk];
-                    const circle = L.circleMarker([pandal.lat, pandal.lon], {
-                        radius: 18,
-                        fillColor: color,
-                        color: 'white',
-                        weight: 2,
-                        fillOpacity: 0.85
-                    }).addTo(map);
+                    const icon = L.divIcon({
+                        html: `<div style="position:relative;text-align:center;">
+                            <div style="
+                                width:18px;height:18px;
+                                background:${color};
+                                border-radius:50%;
+                                border:2px solid rgba(255,255,255,0.9);
+                                box-shadow:0 0 0 3px ${color}33, 0 0 16px ${color}88;
+                                margin:auto;
+                            "></div>
+                        </div>`,
+                        className: '',
+                        iconSize: [18, 18],
+                        iconAnchor: [9, 9]
+                    });
 
-                    circle.bindPopup(`
-                        <b>${pandal.name}</b><br>
-                        Risk Level: <b style="color:${color}">${pandal.risk}</b><br>
-                        Hour: ${pandal.hour}:00<br>
-                        Weather: ${pandal.weather}
-                    `);
-
-                    markers.push(circle);
+                    const m = L.marker([pandal.lat, pandal.lon], { icon }).addTo(map);
+                    m.on('click', () => showDetails(pandal));
+                    m.bindTooltip(`<b>${pandal.name}</b><br><span style="color:${color}">${riskLabel[pandal.risk]}</span>`, { direction: 'top', offset: [0, -10] });
+                    markers.push(m);
                 });
             });
 
-        document.getElementById('time-display').innerText = 
-            'Last updated: ' + new Date().toLocaleTimeString();
+        document.getElementById('time-badge').innerText = 'Updated ' + new Date().toLocaleTimeString();
+    }
+
+    function showDetails(pandal) {
+        const color = colorMap[pandal.risk];
+        document.getElementById('pandal-info').style.display = 'none';
+        document.getElementById('pandal-detail-box').style.display = 'block';
+        document.getElementById('pandal-name').innerText = pandal.name;
+        document.getElementById('pandal-name').style.color = color;
+        document.getElementById('pandal-risk').innerText = riskLabel[pandal.risk];
+        document.getElementById('pandal-risk').style.background = riskBg[pandal.risk];
+        document.getElementById('pandal-risk').style.color = color;
+        document.getElementById('pandal-risk').style.border = `1px solid ${color}44`;
+        document.getElementById('pandal-details').innerHTML = `
+            🕐 &nbsp;Hour: <b>${pandal.hour}:00</b><br>
+            🌤️ &nbsp;Weather: <b>${pandal.weather}</b><br>
+            ⭐ &nbsp;Popularity: <b>${'★'.repeat(pandal.popularity)}${'☆'.repeat(9-pandal.popularity)}</b>
+        `;
+
+        if (pandal.alternatives && pandal.alternatives.length > 0) {
+            document.getElementById('alternatives-box').style.display = 'block';
+            document.getElementById('alternatives').innerHTML = pandal.alternatives.map(a =>
+                `<div class="alt-item"><span>📍 ${a.name}</span><span class="alt-dist">${a.distance} km</span></div>`
+            ).join('');
+        } else {
+            document.getElementById('alternatives-box').style.display = 'none';
+        }
+
+        const riskToNum = { 'Green':1, 'Yellow':2, 'Red':3 };
+        if (chartInstance) chartInstance.destroy();
+        chartInstance = new Chart(document.getElementById('myChart').getContext('2d'), {
+            type: 'bar',
+            data: {
+                labels: pandal.forecast.map(f => f.hour+':00'),
+                datasets: [{ data: pandal.forecast.map(f => riskToNum[f.risk]), backgroundColor: pandal.forecast.map(f => colorMap[f.risk]+'BB'), borderRadius: 4 }]
+            },
+            options: {
+                plugins: { legend: { display:false } },
+                scales: {
+                    y: { min:0, max:3, ticks:{ color:'#9A8E7A', callback: v=>['','Safe','Mod.','High'][v] }, grid:{ color:'rgba(255,179,0,0.06)' } },
+                    x: { ticks:{ color:'#9A8E7A', font:{ size:10 } }, grid:{ display:false } }
+                }
+            }
+        });
+    }
+
+    function openPlanner() {
+        document.getElementById('planner-modal').style.display = 'flex';
+        document.getElementById('plan-result').innerHTML = '';
+    }
+
+    function closePlanner() {
+        document.getElementById('planner-modal').style.display = 'none';
+        if (window.routeLayer) map.removeLayer(window.routeLayer);
+        if (window.routeMarkers) window.routeMarkers.forEach(m => map.removeLayer(m));
+    }
+
+    function generatePlan() {
+        const n = parseInt(document.getElementById('num-pandals').value);
+        if (!allPandals.length) { alert('Please wait for map to load!'); return; }
+
+        const riskOrder = { 'Green':0, 'Yellow':1, 'Red':2 };
+        const selected = [...allPandals].sort((a,b) => riskOrder[a.risk]-riskOrder[b.risk] || b.popularity-a.popularity).slice(0, n);
+
+        if (window.routeLayer) map.removeLayer(window.routeLayer);
+        if (window.routeMarkers) window.routeMarkers.forEach(m => map.removeLayer(m));
+        window.routeMarkers = [];
+
+        selected.forEach((p, i) => {
+            const color = colorMap[p.risk];
+            const icon = L.divIcon({
+                html: `<div style="background:${color};color:#000;width:26px;height:26px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:12px;border:2px solid white;box-shadow:0 0 12px ${color}">${i+1}</div>`,
+                className: '', iconSize:[26,26], iconAnchor:[13,13]
+            });
+            window.routeMarkers.push(L.marker([p.lat, p.lon], { icon }).addTo(map).bindPopup(`<b>Stop ${i+1}: ${p.name}</b><br><span style="color:${color}">${riskLabel[p.risk]}</span>`));
+        });
+
+        const coords = selected.map(p => `${p.lon},${p.lat}`).join(';');
+        fetch(`https://router.project-osrm.org/route/v1/driving/${coords}?overview=full&geometries=geojson`)
+            .then(r => r.json())
+            .then(d => {
+                if (d.code === 'Ok') {
+                    if (window.routeLayer) map.removeLayer(window.routeLayer);
+                    window.routeLayer = L.geoJSON(d.routes[0].geometry, {
+                        style: { color: '#FFB300', weight: 4, opacity: 0.85 }
+                    }).addTo(map);
+                    map.fitBounds(window.routeLayer.getBounds(), { padding:[50,50] });
+                }
+            });
+
+        let html = `<div style="font-size:11px;color:#9A8E7A;margin-bottom:10px;">Your optimal ${n}-stop route — now shown on map</div>`;
+        selected.forEach((p, i) => {
+            const color = colorMap[p.risk];
+            html += `<div class="plan-step">
+                <div class="s-num">Stop ${i+1}</div>
+                <div class="s-name" style="color:${color}">${p.name}</div>
+                <div class="s-risk" style="color:${color}">${riskLabel[p.risk]}</div>
+            </div>`;
+        });
+        const redCount = selected.filter(p => p.risk==='Red').length;
+        html += redCount > 0
+            ? `<div style="color:#FFD600;font-size:11px;margin-top:10px;">⚠️ ${redCount} stop(s) are crowded — try visiting at a different hour</div>`
+            : `<div style="color:#00E676;font-size:11px;margin-top:10px;">✅ All stops currently safe to visit!</div>`;
+        document.getElementById('plan-result').innerHTML = html;
     }
 
     loadData();
-    setInterval(loadData, 30000);
 </script>
-
 </body>
 </html>
