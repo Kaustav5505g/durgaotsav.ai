@@ -1,0 +1,12 @@
+{
+  "accuracy": 0.8717,
+  "feature_importances": {
+    "hour": 0.4975,
+    "weather": 0.1992,
+    "popularity_score": 0.0486,
+    "historical_density": 0.1773,
+    "pandal": 0.0774
+  },
+  "total_records": 3000,
+  "total_pandals": 25
+}
